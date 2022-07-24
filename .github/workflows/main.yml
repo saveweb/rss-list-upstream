@@ -24,7 +24,7 @@ jobs:
         uses: actions/setup-python@v2.3.0
       - name: Run a script
         run: |
-          pip install -m requests
+          pip install requests
           python main.py
       - name: Commit files
         run: |
