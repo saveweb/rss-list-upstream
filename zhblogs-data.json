@@ -32074,18 +32074,20 @@
         "name": "Harryの心阁",
         "url": "https://u.mr90.top",
         "tags": [
+          "技术",
           "前端",
-          "综合"
+          "Web",
+          "教程"
         ],
         "sign": "专注于前端知识的学习和分享",
         "feed": "https://u.mr90.top/other/atom.xml",
         "status": "unknown",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1658483669226,
-        "update_time": 1658483669226,
+        "update_time": 1658897674665,
         "saveweb_id": "",
         "recommend": false
       },
@@ -32096,18 +32098,17 @@
         "url": "https://moc.1tlt1.com/",
         "tags": [
           "技术",
-          "随笔",
-          "科研"
+          "随笔"
         ],
         "sign": "分享一些原创的内容、科研积累和生活感悟",
         "feed": "https://moc.1tlt1.com/index.php/feed/",
         "status": "unknown",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "",
         "arch": "Typecho",
         "join_time": 1658528872640,
-        "update_time": 1658528872640,
+        "update_time": 1658897714814,
         "saveweb_id": "",
         "recommend": false
       }
