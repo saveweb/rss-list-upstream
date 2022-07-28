@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 27 Jul 2022 13:00:03</dateCreated>
+    <dateCreated>Thu, 28 Jul 2022 12:51:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -427,7 +427,7 @@
       <outline text="Rss Feed - 苏洋博客" type="rss" xmlUrl="https://soulteary.com/feed/" htmlUrl="https://soulteary.com/feed/" description="苏洋博客最近更新内容。"/>
       <outline text="rui.plus" type="rss" xmlUrl="https://blog.rui.plus/atom.xml#force_feed" htmlUrl="https://blog.rui.plus/" description="Rui.plus"/>
       <outline text="rxliuli blog" type="rss" xmlUrl="https://blog.rxliuli.com/atom.xml" htmlUrl="https://blog.rxliuli.com/" description=""/>
-      <outline text="Ryan4Yin's Space" type="rss" xmlUrl="https://ryan4yin.space/index.xml" htmlUrl="https://ryan4yin.space/" description="This Cute World"/>
+      <outline text="Ryan4Yin's Space" type="rss" xmlUrl="https://thiscute.world/index.xml" htmlUrl="https://ryan4yin.space/" description="This Cute World"/>
       <outline text="ryank231231.blog" type="rss" xmlUrl="https://ryank231231.top/feed/" htmlUrl="https://ryank231231.top" description="@ryank231231 的个人 blog"/>
       <outline text="Ryan Wang's Blog" type="rss" xmlUrl="https://ryanc.cc/atom.xml" htmlUrl="https://ryanc.cc/" description="Hello Halo"/>
       <outline text="RyujoPad's Blog" type="rss" xmlUrl="https://blog.higuchi.xyz/atom.xml" htmlUrl="https://blog.higuchi.xyz/" description=""/>
@@ -1276,13 +1276,13 @@
       <outline text="晚风说" type="rss" xmlUrl="https://podcasts.cosmosrepair.com/rss" htmlUrl="https://podcasts.cosmosrepair.com" description="“晚风说”是《禅与宇宙维修艺术》公众号出品的对话类播客节目。每期记录一场真实的对话，探索一个灵魂，收集一个故事，学习一种新知。有人曾说，历史上最伟大的思想都是通过对话形式产生和被记录的。我们无意成就伟大，只想在这个世界上好好玩耍。希望它对你，常常陪伴，偶尔启发。&#10;你可以在这里找到我们：&#10;播客官网：https://podcasts.cosmosrepair.com/&#10;Telegram 群：https://t.me/cosmosrepair&#10;微信公众号：cosmosrepair&#10;各大声音平台或泛用型播客客户端搜索“禅与宇宙维修艺术”或“晚风说”。"/>
       <outline text="机核网 GADIO 游戏广播" type="rss" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" htmlUrl="http://feed.tangsuanradio.com/gadio.xml" description="机核网 www.gcores.com"/>
       <outline text="来听呗 | GoPod.FM" type="rss" xmlUrl="https://gopod.fm/index.xml" htmlUrl="https://gopod.fm/about/" description="来听呗 | GoPod.FM 是一档 “我来讲，你来听” 的播客节目，在这里有你爱听的内容，肯定也有你没必要听的内容。你不小心遇到了那你就跳过就好了。欢迎你给我留言或发邮件，hi@gopod.fm"/>
-      <outline text="枫言枫语" type="rss" xmlUrl="https://justinyan.me/feed/podcast" htmlUrl="https://justinyan.me/" description="听见科技与人文的声音。一档由开发者 @枫影JustinYan 和 设计师 @自力hzlzh 主持的播客节目(由官方 RSS 同步)。"/>
+      <outline text="枫言枫语" type="rss" xmlUrl="https://justinyan.me/feed/podcast" htmlUrl="https://justinyan.me/" description="听见科技与人文的声音。由开发者 @枫影JustinYan 和 设计师 @自力hzlzh 主持的播客节目。"/>
       <outline text="模糊地带" type="rss" xmlUrl="https://mohudidai.com/episodes/feed.xml" htmlUrl="https://mohudidai.com" description="你好，我是​Brook。放录音机在身上，记录有感触的时刻，捕捉和人的连接。孤单的时候，重新点开，一边听，一边获得一些陪伴​。​"/>
       <outline text="比特新声" type="rss" xmlUrl="https://bitvoice.banlan.show/feed/audio.xml" htmlUrl="https://bitvoice.banlan.show/" description="郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。"/>
       <outline text="没理想编辑部" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/116.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/116.xml" description="「没理想编辑部」是由「看理想」新媒体部出品的谈话类生活文化播客，a.k.a编辑们的午饭闲聊精选集，欢迎入座。每两周日更新一集。&#10;欢迎下载「看理想」App留言互动，更多精彩内容请搜索微信公众号或微博 @看理想。"/>
       <outline text="津津乐道" type="rss" xmlUrl="https://feeds.daopub.com/all.xml" htmlUrl="https://dao.fm/" description="各领域达人联手制作的多档高质量播客，分享经验、传播体验。每周一早八点，我们一起用耳朵体验世界"/>
       <outline text="流动人口 Stray Population" type="rss" xmlUrl="https://podcast.cscript.site/podcast.xml" htmlUrl="https://podcast.cscript.site/" description="【流动人口 Stray Population】是由程序员发起的一档音频播客，我们关注科技，游戏等任何引发思考的议题。请关注同名微信号，这样不仅可以体验最佳音频质量的内容。也可以和主播即时参与内容讨论。"/>
-      <outline text="海螺电台" type="rss" xmlUrl="https://thespiral.fm/feed/audio.xml" htmlUrl="https://thespiral.fm/" description="「海螺电台」播客是一个记录行动和探索过程的创作计划。"/>
+      <outline text="海螺电台" type="rss" xmlUrl="http://thespiral.fm/feed/audio.xml" htmlUrl="https://thespiral.fm/" description="「海螺电台」播客是一个记录行动和探索过程的创作计划。"/>
       <outline text="热敏修辞学 Instant Acumen" type="rss" xmlUrl="https://iafolder.typlog.io/feed.xml" htmlUrl="https://iafolder.typlog.io/" description="「热敏修辞学/Instant Acumen」是一档由言玖和蒂尼带来的谈话类播客节目。每期节目我们都将选定一个关键词并展开限时对话，经由随机发散与联想，捕捉关键词有别于日常语境的含义与用法。我们讨论的「修辞」不限于广义或狭义的定义，而是作为敏感的人对「表达」本身的在意。"/>
       <outline text="熊言熊语" type="rss" xmlUrl="https://podcast.kaopubear.top/feed/audio.xml" htmlUrl="https://podcast.kaopubear.top/" description="「熊言熊语」是一档关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。"/>
       <outline text="牛油果烤面包" type="rss" xmlUrl="https://avocadotoast.typlog.io/feed/audio.xml" htmlUrl="https://avocadotoast.live/" description="聊科技发展趋势，聊各行业来龙去脉，我们坐标硅谷，邀请第一线的资深专家分享给大家听！"/>
@@ -1325,7 +1325,7 @@
     <outline text="Uncategorized">
       <outline text="EatRice的技术分享" type="rss" xmlUrl="https://www.eatrice.cn/atom.xml" htmlUrl="https://www.eatrice.cn/" description="熬夜中。。。"/>
       <outline text="Hi! 上天不?" type="rss" xmlUrl="https://a-wing.top/feed.xml" htmlUrl="https://a-wing.top/" description="新一的个人博客"/>
-      <outline text="This Cute World" type="rss" xmlUrl="https://thiscute.world/index.xml" htmlUrl="https://thiscute.world/" description=""/>
+      <outline text="Project RC" type="rss" xmlUrl="https://stdrc.cc/feed.xml" htmlUrl="https://stdrc.cc/feed.xml" description="一只腊鸡的技术成长。"/>
       <outline text="束花柳の家" type="rss" xmlUrl="https://www.rmoe.top/feed/" htmlUrl="https://www.rmoe.top/" description="一方寂静的角落里，有一间歪斜的小木屋，在那不尽的狂风中，木屋似乎随时都会消失。"/>
       <outline text="梓宸的小屋" type="rss" xmlUrl="https://zichen.zone/feed/" htmlUrl="https://zichen.zone/" description="一个不太开心的创作者的博客"/>
       <outline text="没有如果" type="rss" xmlUrl="https://noif.cc/index.xml" htmlUrl="https://noif.cc/" description="分享编程和输入法"/>
