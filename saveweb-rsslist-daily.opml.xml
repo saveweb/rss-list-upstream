@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 31 Jul 2022 12:40:03</dateCreated>
+    <dateCreated>Mon, 01 Aug 2022 13:20:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -314,6 +314,7 @@
       <outline text="Luminous' Home" type="rss" xmlUrl="https://luotianyi.vc/feed" htmlUrl="https://luotianyi.vc/" description="记录生活中的点滴"/>
       <outline text="Luo Fei's Blog" type="rss" xmlUrl="https://blog.luofei.org/feed/" htmlUrl="https://blog.luofei.org/" description=""/>
       <outline text="luozhiyun`s Blog 我的技术分享" type="rss" xmlUrl="https://www.luozhiyun.com/feed" htmlUrl="https://www.luozhiyun.com/" description="我的技术分享"/>
+      <outline text="Lu Shuyu" type="rss" xmlUrl="https://blog.lushuyu.site/feed" htmlUrl="https://blog.lushuyu.site/" description=""/>
       <outline text="Luyu Huang's Tech Blog" type="rss" xmlUrl="https://luyuhuang.tech/feed.xml" htmlUrl="https://luyuhuang.github.io" description="Sharing something about programming, algorithms, mathematics, etc. Update from time to time | 分享有关编程, 算法, 数学等方面的信息. 不定期更新"/>
       <outline text="Lyric" type="rss" xmlUrl="https://gitpress.io/@lyric/feed/rss2.xml" htmlUrl="https://lyric.im/" description=""/>
       <outline text="Lyunvy's Blog" type="rss" xmlUrl="https://blog.lyunvy.top/atom.xml" htmlUrl="https://blog.lyunvy.top/" description="抓住计算机旁的那只蚂蚁"/>
@@ -331,7 +332,6 @@
       <outline text="maxOS" type="rss" xmlUrl="https://maxoxo.me/rss/" htmlUrl="https://maxoxo.me" description="Eventually everything connects - people, ideas, objects."/>
       <outline text="Mayx的博客" type="rss" xmlUrl="https://mabbs.github.io/atom.xml" htmlUrl="https://mabbs.github.io/" description="Mayx's Home Page"/>
       <outline text="mcfx's blog" type="rss" xmlUrl="https://mcfx.us/feed/" htmlUrl="https://mcfx.us/" description="题解、Writeup、游记和碎碎念"/>
-      <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="Measure Zero" type="rss" xmlUrl="https://shiina18.github.io/atom.xml" htmlUrl="https://shiina18.github.io/" description="A blog on my personal life."/>
       <outline text="Meditation | RSS Feed" type="rss" xmlUrl="https://raptazure.github.io/atom.xml" htmlUrl="https://raptazure.github.io/" description="Meditation"/>
       <outline text="MegaMU个人站" type="rss" xmlUrl="https://megamu.icu/feed.xml" htmlUrl="https://megamu.icu//" description="落日黄沙  白帆秋水  你可知谁的记忆在时空里飞？"/>
@@ -619,7 +619,7 @@
       <outline text="三点钟的太阳" type="rss" xmlUrl="https://iamxcb.com/atom.xml" htmlUrl="https://iamxcb.com" description=""/>
       <outline text="三省吾身丶丶" type="rss" xmlUrl="https://blog.guowenfh.com/atom.xml" htmlUrl="https://blog.guowenfh.com/" description="兴趣遍地都是，专注和持之以恒才是真正稀缺的。"/>
       <outline text="三言三语" type="rss" xmlUrl="https://best33.com/feed" htmlUrl="https://best33.com/" description="#爆栈 #Node.js #Ainou #求勾搭 | 希望和你做朋友！"/>
-      <outline text="不吐不快" type="rss" xmlUrl="https://mianao.info/feed" htmlUrl="https://mianao.info" description="我心中的一团火是不会熄地"/>
+      <outline text="不吐不快" type="rss" xmlUrl="https://mianao.info/feed/" htmlUrl="https://mianao.info" description="我心中的一团火是不会熄地"/>
       <outline text="不方思" type="rss" xmlUrl="https://irr.ink/atom.xml" htmlUrl="https://irr.ink/" description="Like tears in rain."/>
       <outline text="不曾长大-秦飞的个人空间" type="rss" xmlUrl="https://qfsyj.com/feed/" htmlUrl="https://qfsyj.com/" description="万里归来仍少年，此心安处是吾乡。"/>
       <outline text="不死鸟 - 分享为王官网" type="rss" xmlUrl="https://iui.su/feed/" htmlUrl="https://iao.su/" description="不死鸟:专注分享优质资源"/>
@@ -1062,7 +1062,7 @@
       <outline text="胡言胡语" type="rss" xmlUrl="https://husay.cc/feed" htmlUrl="https://husay.cc/" description="总有那么一些话是胡说的"/>
       <outline text="胶片的味道 | 胶片的味道" type="rss" xmlUrl="http://letsfilm.org/feed" htmlUrl="http://letsfilm.org/" description="拿起相机，拍照吧！"/>
       <outline text="胸毛齐腰" type="rss" xmlUrl="https://dearxs.github.io/index.xml" htmlUrl="https://dearxs.github.io/" description="Recent content on 胸毛齐腰"/>
-      <outline text="臨池不輟" type="rss" xmlUrl="https://keelii.com/atom.xml" htmlUrl="https://keelii.com/" description="__ you don&amp;"/>
+      <outline text="臨池不輟" type="rss" xmlUrl="https://keelii.com/atom.xml" htmlUrl="https://keelii.com/" description="芝兰生于深林，不以无人而不芳，君子修道立德，不为穷困而败节。"/>
       <outline text="自学路漫漫" type="rss" xmlUrl="https://blog.fxcdev.com/atom.xml" htmlUrl="https://blog.fxcdev.com" description="The road to self-study is long"/>
       <outline text="自由人的 BLOG" type="rss" xmlUrl="https://ifttl.com/rss/" htmlUrl="https://ifttl.com" description="日常记录和只言片语"/>
       <outline text="至道学宫" type="rss" xmlUrl="https://www.zdaox.com/feed" htmlUrl="https://www.zdaox.com/" description="有思想的人都在这里"/>
@@ -1419,7 +1419,7 @@
       <outline text="infoier | 设计乘数" type="rss" xmlUrl="https://www.infoier.com/feed/" htmlUrl="https://www.infoier.com/" description="My WordPress Blog"/>
       <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/rss" htmlUrl="https://blog.lihaoya.com/" description="👋🏻  我叫浩子，欢迎来到我的博客。😃  我是一名全栈软件工程师，非常喜欢编程，比较擅长 Java 和 Golang 同时也喜欢创造一些小轮子，目前我正在运营着 typeType.io"/>
       <outline text="Li Hui Blog" type="rss" xmlUrl="https://lihui.net/feed" htmlUrl="https://lihui.net/" description="想给世界留下一些东西"/>
-      <outline text="Lu Shuyu" type="rss" xmlUrl="https://blog.lushuyu.site/feed" htmlUrl="https://blog.lushuyu.site/" description=""/>
+      <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="myfreax" type="rss" xmlUrl="https://www.myfreax.com/rss/" htmlUrl="https://www.myfreax.com/" description="编程,语言,IT,技术,玩家,linux,命令行,终端,黑客,工具,myfreax"/>
       <outline text="Ngzhio’s Blog" type="rss" xmlUrl="https://ngzhio.github.io/feed.xml" htmlUrl="https://ngzhio.github.io/" description="The personal blog of Shangzhi Huang"/>
       <outline text="Oasis's Blog" type="rss" xmlUrl="https://www.imoasis.cn/feed" htmlUrl="https://blog.imoasislee.com/" description="Just So So ..."/>
