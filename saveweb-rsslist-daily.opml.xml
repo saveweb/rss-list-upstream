@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 02 Aug 2022 13:16:01</dateCreated>
+    <dateCreated>Wed, 03 Aug 2022 13:12:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -538,7 +538,7 @@
       <outline text="Wujunze's Blog" type="rss" xmlUrl="https://wujunze.com/index.xml" htmlUrl="https://wujunze.com" description="Recent content in wujunze`s Blog on wujunze`s Blog"/>
       <outline text="Wulu's Blog" type="rss" xmlUrl="https://wulu.zone/atom.xml" htmlUrl="https://emuqi.github.io/" description=""/>
       <outline text="WuSiYu Blog" type="rss" xmlUrl="https://wusiyu.me/feed/" htmlUrl="https://wusiyu.me" description="IT相关各种折腾"/>
-      <outline text="wys.me" type="rss" xmlUrl="https://www.wys.me/feed" htmlUrl="https://www.wys.me" description="Including all the text paragraphs arranged by him."/>
+      <outline text="wys.me" type="rss" xmlUrl="https://www.wys.me/feed" htmlUrl="https://www.wys.me" description="拍片列文，宁肯天下人“付”我。"/>
       <outline text="wzyboy's blog" type="rss" xmlUrl="https://wzyboy.im/feed.xml" htmlUrl="https://wzyboy.im/" description=""/>
       <outline text="XAOXUU" type="rss" xmlUrl="https://xaoxuu.com/atom.xml" htmlUrl="https://xaoxuu.com/" description="风暴前夕 | xaoxuu.com"/>
       <outline text="x Homology's RSS Feed" type="rss" xmlUrl="https://www.giuem.com/rss.xml" htmlUrl="https://www.giuem.com/" description="GIUEM(@giuemcom) 的博客，平常会简单开箱测评买到的科技数码产品，也会记录分享日常的折腾奇奇怪怪的东西，技术向的文章会偏前端、信息安全"/>
