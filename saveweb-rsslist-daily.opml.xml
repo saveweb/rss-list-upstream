@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 03 Aug 2022 13:12:02</dateCreated>
+    <dateCreated>Thu, 04 Aug 2022 12:54:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -308,7 +308,7 @@
       <outline text="Lucien's Blog" type="rss" xmlUrl="https://blog.lucien.ink/feed/" htmlUrl="https://blog.lucien.ink" description="因为孤独是人之常态，所以陪伴才显得尤为珍贵"/>
       <outline text="lucifer的网络博客" type="rss" xmlUrl="https://lucifer.ren/blog/atom.xml" htmlUrl="https://lucifer.ren/blog" description="LeetCode 前端"/>
       <outline text="Lucifr" type="rss" xmlUrl="https://lucifr.com/rss/" htmlUrl="https://lucifr.com/" description="Thoughts, stories and ideas."/>
-      <outline text="Luckydesigner" type="rss" xmlUrl="https://www.luckydesigner.space/feed" htmlUrl="https://www.luckydesigner.space/" description="行运设计师|一个有趣 有料 有深度的网站"/>
+      <outline text="Luckydesigner" type="rss" xmlUrl="https://www.luckydesigner.space/feed/" htmlUrl="https://www.luckydesigner.space/" description="行运设计师|一个有趣 有料 有深度的网站"/>
       <outline text="Lufs's Blog" type="rss" xmlUrl="https://blog.isteed.cc/atom.xml" htmlUrl="https://blog.isteed.cc/" description=""/>
       <outline text="Luis Blog" type="rss" xmlUrl="https://blog.winterchen.com/atom.xml" htmlUrl="https://blog.winterchen.com/" description="coding is my life"/>
       <outline text="Luminous' Home" type="rss" xmlUrl="https://luotianyi.vc/feed" htmlUrl="https://luotianyi.vc/" description="记录生活中的点滴"/>
@@ -566,7 +566,7 @@
       <outline text="Yuexun`s Blog" type="rss" xmlUrl="https://yuexunjiang.me/rss.xml" htmlUrl="https://yuexunjiang.me/" description="想去发现生活中的无限美好"/>
       <outline text="Yuko's Blog" type="rss" xmlUrl="https://yuukoamamiya.github.io/index.xml" htmlUrl="https://yuukoamamiya.github.io/" description="Recent content on Yuko's Blog"/>
       <outline text="Yulin Lewis' Blog" type="rss" xmlUrl="https://lewky.cn/index.xml" htmlUrl="https://lewky.cn/" description="不想当写手的码农不是好咸鱼_(xз」∠)_"/>
-      <outline text="YunFanCH · 云帆沧海" type="rss" xmlUrl="https://yunfanch.com/feed/" htmlUrl="https://yunfanch.com/" description="一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。"/>
+      <outline text="YunFanCH · 云帆沧海" type="rss" xmlUrl="https://www.yf-ch.com/feed/" htmlUrl="https://yunfanch.com/" description="一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。"/>
       <outline text="Yunfeng's Simple Blog" type="rss" xmlUrl="https://vra.github.io/atom.xml" htmlUrl="http://vra.github.io/" description="Love, Life, Linux"/>
       <outline text="Yuuno Blog" type="rss" xmlUrl="https://yuuno.cc/atom.xml" htmlUrl="https://yuuno.cc" description=""/>
       <outline text="yzqzss|一座桥在水上's Blog" type="rss" xmlUrl="https://blog.othing.xyz/feed/" htmlUrl="https://blog.othing.xyz/" description="你能听到吗？"/>
