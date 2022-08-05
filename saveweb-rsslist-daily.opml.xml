@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 04 Aug 2022 12:54:02</dateCreated>
+    <dateCreated>Fri, 05 Aug 2022 12:55:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -215,7 +215,7 @@
       <outline text="inDev. Journal" type="rss" xmlUrl="https://www.frankindev.com/feed.xml" htmlUrl="https://www.frankindev.com/" description="Hey, there! This is Frank Lin (@flinhong), one of the 1.41 billion 🇨🇳. This 'inDev. Journal' site holds the exploration of my quirky thoughts and random adventures through life. Hope you enjoy reading and perusing my posts."/>
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
       <outline text="informal" type="rss" xmlUrl="http://www.informal.top/index.php/feed/" htmlUrl="http://www.informal.top/" description="一花一世界"/>
-      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="iNote"/>
+      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek truth, Find value, Work hard, Travel the world, Meet amazing people, Build careers"/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
       <outline text="iPotato" type="rss" xmlUrl="https://ipotato.me/feed" htmlUrl="https://ipotato.me" description=""/>
       <outline text="isaced" type="rss" xmlUrl="https://www.isaced.com/index.xml" htmlUrl="http://www.isaced.com" description="Recent content on isaced"/>
@@ -439,7 +439,7 @@
       <outline text="Samson's Machete" type="rss" xmlUrl="https://nalaginrut.com/feed/atom" htmlUrl="http://nalaginrut.com/" description=""/>
       <outline text="Sanzo's blog." type="rss" xmlUrl="https://sanzo.top/atom.xml" htmlUrl="https://sanzo.top/" description=""/>
       <outline text="Saul's Atomsphere" type="rss" xmlUrl="https://saulnoble.github.io/atom.xml" htmlUrl="https://saulnoble.github.io/" description="偷懒学教授，艺术家"/>
-      <outline text="Save The Web Project" type="rss" xmlUrl="https://saveweb.othing.xyz/feed/" htmlUrl="https://saveweb.othing.xyz/" description="一些东西，值得永存"/>
+      <outline text="Save The Web Project" type="rss" xmlUrl="https://saveweb.othing.xyz/feed/" htmlUrl="https://saveweb.othing.xyz/" description="[招募网络存档爱好者] 公益社团，互联网中的局部保鲜剂。"/>
       <outline text="SC's 神奇的JavaWeb" type="rss" xmlUrl="https://shicheng.cool/atom.xml" htmlUrl="https://shicheng.cool/" description="Perseverance And Patience"/>
       <outline text="ScarSu的个人网站" type="rss" xmlUrl="https://www.scarsu.com/atom.xml" htmlUrl="https://www.scarsu.com/" description="不要标榜，去行动😃"/>
       <outline text="Senraの小窝" type="rss" xmlUrl="http://www.senra.me/feed/" htmlUrl="http://www.senra.me/" description="初闻天籁之音，未使心之将来。"/>
@@ -566,7 +566,7 @@
       <outline text="Yuexun`s Blog" type="rss" xmlUrl="https://yuexunjiang.me/rss.xml" htmlUrl="https://yuexunjiang.me/" description="想去发现生活中的无限美好"/>
       <outline text="Yuko's Blog" type="rss" xmlUrl="https://yuukoamamiya.github.io/index.xml" htmlUrl="https://yuukoamamiya.github.io/" description="Recent content on Yuko's Blog"/>
       <outline text="Yulin Lewis' Blog" type="rss" xmlUrl="https://lewky.cn/index.xml" htmlUrl="https://lewky.cn/" description="不想当写手的码农不是好咸鱼_(xз」∠)_"/>
-      <outline text="YunFanCH · 云帆沧海" type="rss" xmlUrl="https://www.yf-ch.com/feed/" htmlUrl="https://yunfanch.com/" description="一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。"/>
+      <outline text="YunFanCH · 云帆沧海" type="rss" xmlUrl="https://yf-ch.com/feed/" htmlUrl="https://yunfanch.com/" description="一个持续更新的个人博客，记录生活、工作、爱好的点点滴滴。"/>
       <outline text="Yunfeng's Simple Blog" type="rss" xmlUrl="https://vra.github.io/atom.xml" htmlUrl="http://vra.github.io/" description="Love, Life, Linux"/>
       <outline text="Yuuno Blog" type="rss" xmlUrl="https://yuuno.cc/atom.xml" htmlUrl="https://yuuno.cc" description=""/>
       <outline text="yzqzss|一座桥在水上's Blog" type="rss" xmlUrl="https://blog.othing.xyz/feed/" htmlUrl="https://blog.othing.xyz/" description="你能听到吗？"/>
@@ -1272,7 +1272,7 @@
       <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。&lt;br&gt;&lt;hr&gt;&lt;p&gt; See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for privacy and opt-out information.&lt;/p&gt;"/>
       <outline text="无业游民" type="rss" xmlUrl="https://theue.me/feed/podcast" htmlUrl="https://theue.me/" description="《无业游民》是一档关于自我探索的谈话节目，希望透过对他者的关怀和对世界的探索，让听众、也让我们可以多一些认识自己和建立自我。"/>
       <outline text="日语日语" type="rss" xmlUrl="https://riyu.io/hibi?format=rss" htmlUrl="https://riyu.io/hibi/" description="一档日语主题的短语音娱乐节目，由网站riyu.io制作播出。我们希望能帮助你发现进而独立体会日语乃至语言的趣味。有任何反馈欢迎发电邮至hi@riyu.io，同时也欢迎收听我们另一档更为严肃的节目：独立日。"/>
-      <outline text="星箭廣播" type="rss" xmlUrl="https://podcast.starrocket.io/rss" htmlUrl="https://podcast.starrocket.io/" description="《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan、Julie 和 Liz，以及不定期出現的特別來賓，一起探索科技和創新的邊界。 本節目由三創育成基金會編輯部製作，每週更新。"/>
+      <outline text="星箭廣播" type="rss" xmlUrl="https://open.firstory.me/rss/user/cl6dx7tc400dk01xj1qa16dfw" htmlUrl="https://podcast.starrocket.io/" description="&lt;p&gt;《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan、Julie 和 Liz，以及不定期出現的特別來賓，一起探索科技和創新的邊界。 本節目由三創育成基金會編輯部製作，每週更新。 &lt;br&gt;&lt;br&gt;&lt;br&gt;Powered by &lt;a href=&quot;https://firstory.me/&quot;&gt;Firstory Hosting&lt;/a&gt;&lt;/p&gt;"/>
       <outline text="晚风说" type="rss" xmlUrl="https://podcasts.cosmosrepair.com/rss" htmlUrl="https://podcasts.cosmosrepair.com" description="“晚风说”是《禅与宇宙维修艺术》公众号出品的对话类播客节目。每期记录一场真实的对话，探索一个灵魂，收集一个故事，学习一种新知。有人曾说，历史上最伟大的思想都是通过对话形式产生和被记录的。我们无意成就伟大，只想在这个世界上好好玩耍。希望它对你，常常陪伴，偶尔启发。&#10;你可以在这里找到我们：&#10;播客官网：https://podcasts.cosmosrepair.com/&#10;Telegram 群：https://t.me/cosmosrepair&#10;微信公众号：cosmosrepair&#10;各大声音平台或泛用型播客客户端搜索“禅与宇宙维修艺术”或“晚风说”。"/>
       <outline text="机核网 GADIO 游戏广播" type="rss" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" htmlUrl="http://feed.tangsuanradio.com/gadio.xml" description="机核网 www.gcores.com"/>
       <outline text="来听呗 | GoPod.FM" type="rss" xmlUrl="https://gopod.fm/index.xml" htmlUrl="https://gopod.fm/about/" description="来听呗 | GoPod.FM 是一档 “我来讲，你来听” 的播客节目，在这里有你爱听的内容，肯定也有你没必要听的内容。你不小心遇到了那你就跳过就好了。欢迎你给我留言或发邮件，hi@gopod.fm"/>
