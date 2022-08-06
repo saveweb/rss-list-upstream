@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 05 Aug 2022 12:55:03</dateCreated>
+    <dateCreated>Sat, 06 Aug 2022 12:33:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -212,10 +212,10 @@
       <outline text="iMaeGoo's Blog" type="rss" xmlUrl="https://www.imaegoo.com/atom.xml" htmlUrl="https://www.imaegoo.com/" description="虹墨空间站"/>
       <outline text="ImBearChild" type="rss" xmlUrl="https://imbearchild.cyou/feed/" htmlUrl="https://imbearchild.cyou/" description="又一个WordPress站点"/>
       <outline text="ImCaO's Blog" type="rss" xmlUrl="https://www.imcao.cn/atom.xml" htmlUrl="https://www.imcao.cn/" description=""/>
-      <outline text="inDev. Journal" type="rss" xmlUrl="https://www.frankindev.com/feed.xml" htmlUrl="https://www.frankindev.com/" description="Hey, there! This is Frank Lin (@flinhong), one of the 1.41 billion 🇨🇳. This 'inDev. Journal' site holds the exploration of my quirky thoughts and random adventures through life. Hope you enjoy reading and perusing my posts."/>
+      <outline text="inDev. Journal" type="rss" xmlUrl="https://frankindev.com/feed.xml" htmlUrl="https://www.frankindev.com/" description="Hey, there! This is Frank Lin (@flinhong), one of the 1.41 billion 🇨🇳. This 'inDev. Journal' site holds the exploration of my quirky thoughts and random adventures through life. Hope you enjoy reading and perusing my posts."/>
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
       <outline text="informal" type="rss" xmlUrl="http://www.informal.top/index.php/feed/" htmlUrl="http://www.informal.top/" description="一花一世界"/>
-      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek truth, Find value, Work hard, Travel the world, Meet amazing people, Build careers"/>
+      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek truth, Find value"/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
       <outline text="iPotato" type="rss" xmlUrl="https://ipotato.me/feed" htmlUrl="https://ipotato.me" description=""/>
       <outline text="isaced" type="rss" xmlUrl="https://www.isaced.com/index.xml" htmlUrl="http://www.isaced.com" description="Recent content on isaced"/>
