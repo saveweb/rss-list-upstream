@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 07 Aug 2022 12:33:02</dateCreated>
+    <dateCreated>Mon, 08 Aug 2022 12:42:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1324,6 +1324,7 @@
     </outline>
     <outline text="Uncategorized">
       <outline text="EatRice的技术分享" type="rss" xmlUrl="https://www.eatrice.cn/atom.xml" htmlUrl="https://www.eatrice.cn/" description="熬夜中。。。"/>
+      <outline text="gq's blog" type="rss" xmlUrl="https://zgq.ink/feed" htmlUrl="https://zgq.ink/" description="A place to think and write."/>
       <outline text="Hi! 上天不?" type="rss" xmlUrl="https://a-wing.top/feed.xml" htmlUrl="https://a-wing.top/" description="新一的个人博客"/>
       <outline text="Project RC" type="rss" xmlUrl="https://stdrc.cc/feed.xml" htmlUrl="https://stdrc.cc/feed.xml" description="一只腊鸡的技术成长。"/>
       <outline text="束花柳の家" type="rss" xmlUrl="https://www.rmoe.top/feed/" htmlUrl="https://www.rmoe.top/" description="一方寂静的角落里，有一间歪斜的小木屋，在那不尽的狂风中，木屋似乎随时都会消失。"/>

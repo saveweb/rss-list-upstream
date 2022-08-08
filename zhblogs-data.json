@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 1827,
+    "total": 1829,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -34468,11 +34468,11 @@
         "feed": "https://www.christianpoet.de/rss",
         "status": "unknown",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "https://www.christianpoet.de/sitemap.xml",
         "arch": "Wordpress",
         "join_time": 1659688608937,
-        "update_time": 1659691330283,
+        "update_time": 1659923642296,
         "saveweb_id": "",
         "recommend": false
       },
@@ -34561,6 +34561,52 @@
         "arch": "Hexo",
         "join_time": 1659753507396,
         "update_time": 1659754316495,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "90a7c2e7-f9c6-433e-9106-f80706759edd",
+        "idx": 1864,
+        "name": "泠风寒声の小窝",
+        "url": "https://blog.lfhsheng.com",
+        "tags": [
+          "代码",
+          "杂录",
+          "记录",
+          "随笔",
+          "wordpress"
+        ],
+        "sign": "沉浸在Touch Fish的海洋中无法自拔",
+        "feed": "https://blog.lfhsheng.com/feed",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": true,
+        "sitemap": "",
+        "arch": "Wordpress",
+        "join_time": 1659930580640,
+        "update_time": 1659930580640,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "9ef4c27b-8bb0-4d9b-b2f0-930b6ae17322",
+        "idx": 1865,
+        "name": "Siphilsの日常",
+        "url": "https://eriri.ink",
+        "tags": [
+          "Linux",
+          "日常",
+          "Typecho"
+        ],
+        "sign": "",
+        "feed": "",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": true,
+        "sitemap": "",
+        "arch": "Typecho",
+        "join_time": 1659931361616,
+        "update_time": 1659931361616,
         "saveweb_id": "",
         "recommend": false
       }
