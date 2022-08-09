@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 08 Aug 2022 12:42:01</dateCreated>
+    <dateCreated>Tue, 09 Aug 2022 12:49:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -618,7 +618,7 @@
       <outline text="三无青年" type="rss" xmlUrl="https://www.duanxiansen.com/feed/" htmlUrl="https://www.duanxiansen.com/" description="段先森的个人博客"/>
       <outline text="三点钟的太阳" type="rss" xmlUrl="https://iamxcb.com/atom.xml" htmlUrl="https://iamxcb.com" description=""/>
       <outline text="三省吾身丶丶" type="rss" xmlUrl="https://blog.guowenfh.com/atom.xml" htmlUrl="https://blog.guowenfh.com/" description="兴趣遍地都是，专注和持之以恒才是真正稀缺的。"/>
-      <outline text="三言三语" type="rss" xmlUrl="https://best33.com/feed" htmlUrl="https://best33.com/" description="#爆栈 #Node.js #Ainou #求勾搭 | 希望和你做朋友！"/>
+      <outline text="三言三语" type="rss" xmlUrl="https://best33.com/feed" htmlUrl="https://best33.com/" description="我希望我只是一个前端 | 希望和你做朋友！"/>
       <outline text="不吐不快" type="rss" xmlUrl="https://mianao.info/feed/" htmlUrl="https://mianao.info" description="我心中的一团火是不会熄地"/>
       <outline text="不方思" type="rss" xmlUrl="https://irr.ink/atom.xml" htmlUrl="https://irr.ink/" description="Like tears in rain."/>
       <outline text="不曾长大-秦飞的个人空间" type="rss" xmlUrl="https://qfsyj.com/feed/" htmlUrl="https://qfsyj.com/" description="万里归来仍少年，此心安处是吾乡。"/>
@@ -1280,7 +1280,7 @@
       <outline text="模糊地带" type="rss" xmlUrl="https://mohudidai.com/episodes/feed.xml" htmlUrl="https://mohudidai.com" description="你好，我是​Brook。放录音机在身上，记录有感触的时刻，捕捉和人的连接。孤单的时候，重新点开，一边听，一边获得一些陪伴​。​"/>
       <outline text="比特新声" type="rss" xmlUrl="https://bitvoice.banlan.show/feed/audio.xml" htmlUrl="https://bitvoice.banlan.show/" description="郝海龙和有才主持的中文科技类播客。在节目中，我们会尽量避免不加解释地使用过于抽象的科技术语，力争让每一个有独立思考能力的人听懂我们的节目。我们坚信凡实验性的东西都有一种独特的魅力，好奇心是第一生产力，同时希望用不同的观点去描述我们所处的时代。"/>
       <outline text="没理想编辑部" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/116.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/116.xml" description="「没理想编辑部」是由「看理想」新媒体部出品的谈话类生活文化播客，a.k.a编辑们的午饭闲聊精选集，欢迎入座。每两周日更新一集。&#10;欢迎下载「看理想」App留言互动，更多精彩内容请搜索微信公众号或微博 @看理想。"/>
-      <outline text="津津乐道" type="rss" xmlUrl="https://feeds.daopub.com/all.xml" htmlUrl="https://dao.fm/" description="各领域达人联手制作的多档高质量播客，分享经验、传播体验。每周一早八点，我们一起用耳朵体验世界"/>
+      <outline text="津津乐道" type="rss" xmlUrl="https://feeds.daopub.com/all.xml" htmlUrl="https://dao.fm/" description="在一派纷繁芜杂里，我们为愉悦双耳而生。科技、教育、文化、美食、生活、技能、情绪……严肃认真却不刻板，拒绝空泛浮夸。与专业且有趣的人携手缔造清流，分享经历，传播体验，厘清世界与你的关系。"/>
       <outline text="流动人口 Stray Population" type="rss" xmlUrl="https://podcast.cscript.site/podcast.xml" htmlUrl="https://podcast.cscript.site/" description="【流动人口 Stray Population】是由程序员发起的一档音频播客，我们关注科技，游戏等任何引发思考的议题。请关注同名微信号，这样不仅可以体验最佳音频质量的内容。也可以和主播即时参与内容讨论。"/>
       <outline text="海螺电台" type="rss" xmlUrl="http://thespiral.fm/feed/audio.xml" htmlUrl="https://thespiral.fm/" description="「海螺电台」播客是一个记录行动和探索过程的创作计划。"/>
       <outline text="热敏修辞学 Instant Acumen" type="rss" xmlUrl="https://iafolder.typlog.io/feed.xml" htmlUrl="https://iafolder.typlog.io/" description="「热敏修辞学/Instant Acumen」是一档由言玖和蒂尼带来的谈话类播客节目。每期节目我们都将选定一个关键词并展开限时对话，经由随机发散与联想，捕捉关键词有别于日常语境的含义与用法。我们讨论的「修辞」不限于广义或狭义的定义，而是作为敏感的人对「表达」本身的在意。"/>
