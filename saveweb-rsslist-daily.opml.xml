@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 09 Aug 2022 12:49:02</dateCreated>
+    <dateCreated>Wed, 10 Aug 2022 12:32:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -289,7 +289,7 @@
       <outline text="Life Sailor" type="rss" xmlUrl="https://www.lifesailor.me/feed" htmlUrl="https://www.lifesailor.me/" description="One more struggle, and I am free"/>
       <outline text="lijiakaijun" type="rss" xmlUrl="https://blog.lijiakaijun.cyou/atom.xml" htmlUrl="https://blog.lijiakaijun.cyou/" description="跟随梦想的脚步，感受生命的温度"/>
       <outline text="limboy's HQ" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="https://limboy.me" description="Recent content on Limboy's HQ"/>
-      <outline text="Linghao's Blog" type="rss" xmlUrl="https://linghao.io/feed.xml" htmlUrl="https://linghao.io/" description="Synthesist in the Shell | Blog by Linghao"/>
+      <outline text="Linghao's Blog" type="rss" xmlUrl="https://linghao.io/feed.xml" htmlUrl="https://linghao.io/" description="Synthesist in the Shell — A blog by Linghao Zhang"/>
       <outline text="Linmi" type="rss" xmlUrl="https://linmi.cc/feed" htmlUrl="https://linmi.cc/" description="探索未知，沉淀新知，迭代认知。"/>
       <outline text="LinuxTOY" type="rss" xmlUrl="https://linuxtoy.org/feeds/all.atom.xml" htmlUrl="https://linuxtoy.org/" description=""/>
       <outline text="Lin‘s Blog" type="rss" xmlUrl="https://blog.bdyz.xyz/?feed=rss2" htmlUrl="https://blog.bdyz.xyz/" description="Lin‘s Blog"/>
@@ -798,7 +798,7 @@
       <outline text="峡州仙士之页 - 杂谈" type="rss" xmlUrl="https://cjh0613.com/categories/%E6%97%B6%E4%BA%8B-%E6%9D%82%E8%B0%88/rss2.xml" htmlUrl="https://cjh0613.com/" description=""/>
       <outline text="崎径 其镜赵安琪的博客" type="rss" xmlUrl="http://www.z16388.top/atom.xml" htmlUrl="http://www.z16388.top/" description="求学道路上的行车记录仪"/>
       <outline text="左岸博客 - 科技宅有趣的技术分享！" type="rss" xmlUrl="https://www.zrahh.com/feed/" htmlUrl="https://www.zrahh.com/" description="左岸博客,一个恩爱狗的个人博客，记录成长，记录生活。不论是在人生或者编程的路上，我们永远只是初学者。"/>
-      <outline text="左胡" type="rss" xmlUrl="https://hugobingo.com/index.xml" htmlUrl="https://hugobingo.com/" description="Recent content on 左胡"/>
+      <outline text="左胡" type="rss" xmlUrl="https://hugobingo.com/index.xml" htmlUrl="https://hugobingo.com/" description="Recent content on Hugo Bingo"/>
       <outline text="帆域 | 帆帆的小破站" type="rss" xmlUrl="https://www.fancraft.top/feed/" htmlUrl="https://www.fancraft.top/" description="奇怪的帆爱干奇怪的事"/>
       <outline text="年华转瞬" type="rss" xmlUrl="https://blog.xiaket.org/feed.xml" htmlUrl="https://blog.xiaket.org" description="夏恺, xiaket, 读书人, Pythonista, DevOps"/>
       <outline text="幸吾有志" type="rss" xmlUrl="https://fmcf.cc/feed/" htmlUrl="https://www.symbk.cn/" description="生命的绽放"/>
