@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 10 Aug 2022 12:32:01</dateCreated>
+    <dateCreated>Thu, 11 Aug 2022 12:34:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -62,7 +62,7 @@
       <outline text="BoxCat" type="rss" xmlUrl="https://boxcat.cc/?feed=rss2" htmlUrl="https://boxcat.cc/" description="盒猫的小窝"/>
       <outline text="Bright LGM's Blog" type="rss" xmlUrl="https://brightliao.com/atom.xml" htmlUrl="http://brightliao.com/" description="Code speaks."/>
       <outline text="BTDOS - DOS怀旧网" type="rss" xmlUrl="http://www.btdos.com/rss.php" htmlUrl="http://www.btdos.com/" description="一个纪念DOS时代的怀旧网站"/>
-      <outline text="Cat in Chinese" type="rss" xmlUrl="https://www.blogger.com/feeds/7005036/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
+      <outline text="Cat in Chinese" type="rss" xmlUrl="https://chinese.catchen.me/feeds/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
       <outline text="Celia的博客" type="rss" xmlUrl="https://blog.becomingcelia.com/feed.php" htmlUrl="https://blog.becomingcelia.com/" description="读万卷书，行万里路。本人是Celia，曾立志当走南闯北游历天下的独立博客博主，现为喜欢整活的高中生一枚，在此记下数学、编程、设计方面各种小杂碎、见闻与生活点滴，时不时分享图书软件小资源。"/>
       <outline text="chai2010 的博客" type="rss" xmlUrl="https://chai2010.cn/index.xml" htmlUrl="https://chai2010.cn" description="Recent content on chai2010 的博客"/>
       <outline text="chaomai's blog" type="rss" xmlUrl="https://chaomai.github.io/atom.xml" htmlUrl="https://chaomai.github.io/" description=""/>
@@ -271,7 +271,7 @@
       <outline text="KuangjuX(狂且)" type="rss" xmlUrl="http://blog.kuangjux.top/atom.xml" htmlUrl="http://blog.kuangjux.top/" description="风声雨声读书声 声声入耳 家事国事天下事 事事关心"/>
       <outline text="Kuricat's Blog" type="rss" xmlUrl="https://kuricat.com/rss" htmlUrl="https://kuricat.com" description=""/>
       <outline text="Kurococ Liu" type="rss" xmlUrl="https://blog.lkurococ.top/feed/" htmlUrl="https://blog.lkurococ.top/" description="被子外面很危险！"/>
-      <outline text="L1Yu's Blog | LL的博客" type="rss" xmlUrl="https://www.l1yu.com/feed/feed.xml" htmlUrl="https://www.l1yu.com" description="LL的博客"/>
+      <outline text="L1Yu's Blog | LL的博客" type="rss" xmlUrl="https://www.l1yu.com/feed/feed.xml" htmlUrl="https://www.l1yu.com" description="I am writing about my experiences as a naval navel-gazer."/>
       <outline text="Labno3" type="rss" xmlUrl="https://www.labno3.com/feed/" htmlUrl="https://www.labno3.com/" description="3号实验室，生命不息，折腾不止"/>
       <outline text="laike9m's blog" type="rss" xmlUrl="https://laike9m.com/blog/rss/" htmlUrl="https://laike9m.com/blog/rss" description="Update on laike9m blog's articles."/>
       <outline text="Lao_Liu Blog" type="rss" xmlUrl="https://blog.laoliu.eu.org/atom.xml" htmlUrl="https://blog.laoliu.eu.org/" description="A place to say something."/>
@@ -1272,7 +1272,7 @@
       <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。&lt;br&gt;&lt;hr&gt;&lt;p&gt; See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for privacy and opt-out information.&lt;/p&gt;"/>
       <outline text="无业游民" type="rss" xmlUrl="https://theue.me/feed/podcast" htmlUrl="https://theue.me/" description="《无业游民》是一档关于自我探索的谈话节目，希望透过对他者的关怀和对世界的探索，让听众、也让我们可以多一些认识自己和建立自我。"/>
       <outline text="日语日语" type="rss" xmlUrl="https://riyu.io/hibi?format=rss" htmlUrl="https://riyu.io/hibi/" description="一档日语主题的短语音娱乐节目，由网站riyu.io制作播出。我们希望能帮助你发现进而独立体会日语乃至语言的趣味。有任何反馈欢迎发电邮至hi@riyu.io，同时也欢迎收听我们另一档更为严肃的节目：独立日。"/>
-      <outline text="星箭廣播" type="rss" xmlUrl="https://open.firstory.me/rss/user/cl6dx7tc400dk01xj1qa16dfw" htmlUrl="https://podcast.starrocket.io/" description="&lt;p&gt;《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan、Julie 和 Liz，以及不定期出現的特別來賓，一起探索科技和創新的邊界。 本節目由三創育成基金會編輯部製作，每週更新。 &lt;br&gt;&lt;br&gt;&lt;br&gt;Powered by &lt;a href=&quot;https://firstory.me/&quot;&gt;Firstory Hosting&lt;/a&gt;&lt;/p&gt;"/>
+      <outline text="星箭廣播" type="rss" xmlUrl="https://feeds.fireside.fm/starrocket/rss" htmlUrl="https://podcast.starrocket.io/" description="《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan、Julie 和 Liz，以及不定期出現的特別來賓，一起探索科技和創新的邊界。 本節目由三創育成基金會編輯部製作，每週更新。"/>
       <outline text="晚风说" type="rss" xmlUrl="https://podcasts.cosmosrepair.com/rss" htmlUrl="https://podcasts.cosmosrepair.com" description="“晚风说”是《禅与宇宙维修艺术》公众号出品的对话类播客节目。每期记录一场真实的对话，探索一个灵魂，收集一个故事，学习一种新知。有人曾说，历史上最伟大的思想都是通过对话形式产生和被记录的。我们无意成就伟大，只想在这个世界上好好玩耍。希望它对你，常常陪伴，偶尔启发。&#10;你可以在这里找到我们：&#10;播客官网：https://podcasts.cosmosrepair.com/&#10;Telegram 群：https://t.me/cosmosrepair&#10;微信公众号：cosmosrepair&#10;各大声音平台或泛用型播客客户端搜索“禅与宇宙维修艺术”或“晚风说”。"/>
       <outline text="机核网 GADIO 游戏广播" type="rss" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" htmlUrl="http://feed.tangsuanradio.com/gadio.xml" description="机核网 www.gcores.com"/>
       <outline text="来听呗 | GoPod.FM" type="rss" xmlUrl="https://gopod.fm/index.xml" htmlUrl="https://gopod.fm/about/" description="来听呗 | GoPod.FM 是一档 “我来讲，你来听” 的播客节目，在这里有你爱听的内容，肯定也有你没必要听的内容。你不小心遇到了那你就跳过就好了。欢迎你给我留言或发邮件，hi@gopod.fm"/>
