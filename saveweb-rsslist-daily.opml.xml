@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 12 Aug 2022 12:40:02</dateCreated>
+    <dateCreated>Sat, 13 Aug 2022 12:33:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -435,7 +435,7 @@
       <outline text="RyujoPad's Blog" type="rss" xmlUrl="https://blog.higuchi.xyz/atom.xml" htmlUrl="https://blog.higuchi.xyz/" description=""/>
       <outline text="SakuraWald" type="rss" xmlUrl="https://www.sakurawald.com/?feed=rss2" htmlUrl="https://www.sakurawald.com/" description=""/>
       <outline text="SaltyLeo's Blog" type="rss" xmlUrl="https://tstrs.me/atom.xml" htmlUrl="https://tstrs.me/" description="In me the tiger sniffs the rose."/>
-      <outline text="Sam's Wood House" type="rss" xmlUrl="https://blog.samliu.tech/feed/" htmlUrl="https://blog.samliu.tech/" description="Share for everything"/>
+      <outline text="Sam's Wood House" type="rss" xmlUrl="https://blog.samliu.tech/feed/" htmlUrl="https://blog.samliu.tech/" description="Everything about Homelab"/>
       <outline text="Samson's Machete" type="rss" xmlUrl="https://nalaginrut.com/feed/atom" htmlUrl="http://nalaginrut.com/" description=""/>
       <outline text="Sanzo's blog." type="rss" xmlUrl="https://sanzo.top/atom.xml" htmlUrl="https://sanzo.top/" description=""/>
       <outline text="Saul's Atomsphere" type="rss" xmlUrl="https://saulnoble.github.io/atom.xml" htmlUrl="https://saulnoble.github.io/" description="偷懒学教授，艺术家"/>
