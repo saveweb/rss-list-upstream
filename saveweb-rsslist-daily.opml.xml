@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sat, 13 Aug 2022 12:33:02</dateCreated>
+    <dateCreated>Sun, 14 Aug 2022 12:36:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -62,7 +62,7 @@
       <outline text="BoxCat" type="rss" xmlUrl="https://boxcat.cc/?feed=rss2" htmlUrl="https://boxcat.cc/" description="盒猫的小窝"/>
       <outline text="Bright LGM's Blog" type="rss" xmlUrl="https://brightliao.com/atom.xml" htmlUrl="http://brightliao.com/" description="Code speaks."/>
       <outline text="BTDOS - DOS怀旧网" type="rss" xmlUrl="http://www.btdos.com/rss.php" htmlUrl="http://www.btdos.com/" description="一个纪念DOS时代的怀旧网站"/>
-      <outline text="Cat in Chinese" type="rss" xmlUrl="https://chinese.catchen.me/feeds/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
+      <outline text="Cat in Chinese" type="rss" xmlUrl="https://www.blogger.com/feeds/7005036/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
       <outline text="Celia的博客" type="rss" xmlUrl="https://blog.becomingcelia.com/feed.php" htmlUrl="https://blog.becomingcelia.com/" description="读万卷书，行万里路。本人是Celia，曾立志当走南闯北游历天下的独立博客博主，现为喜欢整活的高中生一枚，在此记下数学、编程、设计方面各种小杂碎、见闻与生活点滴，时不时分享图书软件小资源。"/>
       <outline text="chai2010 的博客" type="rss" xmlUrl="https://chai2010.cn/index.xml" htmlUrl="https://chai2010.cn" description="Recent content on chai2010 的博客"/>
       <outline text="chaomai's blog" type="rss" xmlUrl="https://chaomai.github.io/atom.xml" htmlUrl="https://chaomai.github.io/" description=""/>
@@ -435,7 +435,7 @@
       <outline text="RyujoPad's Blog" type="rss" xmlUrl="https://blog.higuchi.xyz/atom.xml" htmlUrl="https://blog.higuchi.xyz/" description=""/>
       <outline text="SakuraWald" type="rss" xmlUrl="https://www.sakurawald.com/?feed=rss2" htmlUrl="https://www.sakurawald.com/" description=""/>
       <outline text="SaltyLeo's Blog" type="rss" xmlUrl="https://tstrs.me/atom.xml" htmlUrl="https://tstrs.me/" description="In me the tiger sniffs the rose."/>
-      <outline text="Sam's Wood House" type="rss" xmlUrl="https://blog.samliu.tech/feed/" htmlUrl="https://blog.samliu.tech/" description="Everything about Homelab"/>
+      <outline text="Sam's Wood House" type="rss" xmlUrl="https://blog.samliu.tech/feed/" htmlUrl="https://blog.samliu.tech/" description="Homelab"/>
       <outline text="Samson's Machete" type="rss" xmlUrl="https://nalaginrut.com/feed/atom" htmlUrl="http://nalaginrut.com/" description=""/>
       <outline text="Sanzo's blog." type="rss" xmlUrl="https://sanzo.top/atom.xml" htmlUrl="https://sanzo.top/" description=""/>
       <outline text="Saul's Atomsphere" type="rss" xmlUrl="https://saulnoble.github.io/atom.xml" htmlUrl="https://saulnoble.github.io/" description="偷懒学教授，艺术家"/>
@@ -656,7 +656,7 @@
       <outline text="依云's Blog" type="rss" xmlUrl="https://blog.lilydjwg.me/posts.rss" htmlUrl="https://blog.lilydjwg.me" description=""/>
       <outline text="俊杰の博客" type="rss" xmlUrl="https://cjj.today/feed/" htmlUrl="https://cjj.today/" description=""/>
       <outline text="俍注" type="rss" xmlUrl="https://oneinf.com/feed" htmlUrl="https://oneinf.com/" description="一个金融行业互联网人的记录与分享"/>
-      <outline text="保罗的小宇宙" type="rss" xmlUrl="https://paugram.com/feed" htmlUrl="https://paugram.com" description="Still single, still lonely."/>
+      <outline text="保罗的小宇宙" type="rss" xmlUrl="https://paugram.com/feed/" htmlUrl="https://paugram.com" description="Still single, still lonely."/>
       <outline text="修改七十七次" type="rss" xmlUrl="https://liushiqi.xyz/feed/" htmlUrl="https://liushiqi.xyz/" description="在平凡世界里找宝藏"/>
       <outline text="偕臧" type="rss" xmlUrl="https://ifmet.cn/atom.xml" htmlUrl="https://ifmet.cn/" description=""/>
       <outline text="先森博客" type="rss" xmlUrl="https://www.sey.ink/feed/" htmlUrl="https://www.sey.ink/" description="分享IT知识丨生活小栈"/>
@@ -982,7 +982,7 @@
       <outline text="燕渡寒潭" type="rss" xmlUrl="https://hisherry.com/feed/" htmlUrl="https://hisherry.com/" description="别为活命而败坏生存之根"/>
       <outline text="爪哇堂" type="rss" xmlUrl="https://www.javatang.com/feed" htmlUrl="https://www.javatang.com/" description="荣辱不惊闲看庭前花开花谢，去留无意漫随天外云卷云舒。——马寅初"/>
       <outline text="爱写代码的小书童" type="rss" xmlUrl="https://zofun.github.io/atom.xml" htmlUrl="https://zofun.github.io/" description="博观而约取 厚积而薄发"/>
-      <outline text="牧羊人" type="rss" xmlUrl="https://www.shephe.com/feed/" htmlUrl="https://www.shephe.com/" description=""/>
+      <outline text="牧羊人" type="rss" xmlUrl="https://www.shephe.com/feed/" htmlUrl="https://www.shephe.com/" description="记录、分享、洞见"/>
       <outline text="犀利豆的博客" type="rss" xmlUrl="https://xilidou.com/atom.xml" htmlUrl="https://xilidou.com" description="高质量的技术博客"/>
       <outline text="狡猫三窝" type="rss" xmlUrl="https://slykiten.com/feed/" htmlUrl="https://slykiten.com/" description="“美”不是一种外部标准，它是一种内在情感。那是爱。"/>
       <outline text="独孤伶俜" type="rss" xmlUrl="https://blog.dugulingping.com/feed" htmlUrl="https://blog.dugulingping.com/" description="独孤伶俜的个人博客"/>
@@ -1056,7 +1056,7 @@
       <outline text="老虎不吃人" type="rss" xmlUrl="https://tdeh.top/feed/" htmlUrl="https://tdeh.top/" description="恋をしているから、その子は輝くんた"/>
       <outline text="老高的博客" type="rss" xmlUrl="https://blog.mute-g.com/index.xml" htmlUrl="https://blog.mute-g.com/" description="Recent content on 老高的博客"/>
       <outline text="老麦笔记" type="rss" xmlUrl="https://laomai.org/feed" htmlUrl="https://laomai.org/" description=""/>
-      <outline text="考拉咖啡馆" type="rss" xmlUrl="https://blog.guhub.cn/feed/" htmlUrl="https://blog.guhub.cn/" description="带我去月球"/>
+      <outline text="考拉咖啡馆" type="rss" xmlUrl="https://blog.guhub.cn/feed/" htmlUrl="https://blog.guhub.cn/" description="轻吻我入眠"/>
       <outline text="胡家小子" type="rss" xmlUrl="https://www.boyhu.cn/feed/" htmlUrl="https://www.boyhu.cn/" description="记录对生活的向往，记录生活周遭的个人网站。"/>
       <outline text="胡涂说" type="rss" xmlUrl="https://hutusi.com/feed.xml" htmlUrl="https://hutusi.com/" description="hutusi.com"/>
       <outline text="胡言胡语" type="rss" xmlUrl="https://husay.cc/feed" htmlUrl="https://husay.cc/" description="总有那么一些话是胡说的"/>
