@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 16 Aug 2022 12:47:02</dateCreated>
+    <dateCreated>Wed, 17 Aug 2022 13:14:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -966,7 +966,7 @@
       <outline text="渚碧" type="rss" xmlUrl="https://jubeny.com/feed.xml" htmlUrl="https://jubeny.com/" description="我欲種菜 亦植薔薇"/>
       <outline text="游魂博客" type="rss" xmlUrl="https://www.iyouhun.com/rss.php" htmlUrl="https://www.iyouhun.com/" description="技术交流,资源共享,分享点滴。"/>
       <outline text="火丁笔记" type="rss" xmlUrl="https://blog.huoding.com/feed" htmlUrl="https://blog.huoding.com/" description="多研究些问题，少谈些主义。"/>
-      <outline text="火喵博客･日记本" type="rss" xmlUrl="https://cat.dorcandy.cn/feed" htmlUrl="https://cat.dorcandy.cn/" description="——放逐茫茫人海里，常常会有这样的陌路擦肩。某一个人走进你的视线里，成了令你心动的风景，而他却不知道这世界上有过一个你。又或许，你落入别人的风景里，却不知道，这世上曾经有过一个他。"/>
+      <outline text="火喵博客･日记本" type="rss" xmlUrl="https://cat.dorcandy.cn/feed/" htmlUrl="https://cat.dorcandy.cn/" description="——放逐茫茫人海里，常常会有这样的陌路擦肩。某一个人走进你的视线里，成了令你心动的风景，而他却不知道这世界上有过一个你。又或许，你落入别人的风景里，却不知道，这世上曾经有过一个他。"/>
       <outline text="灰常记忆" type="rss" xmlUrl="https://bestcherish.com/feed" htmlUrl="https://bestcherish.com/" description="记录生活 珍藏回忆"/>
       <outline text="灰流" type="rss" xmlUrl="https://fucktheworld.top/atom.xml" htmlUrl="https://fucktheworld.top/" description="用视觉来记录自己和世界的故事。"/>
       <outline text="灰蝴蝶灰" type="rss" xmlUrl="https://www.seeseeme.cn/atom.xml" htmlUrl="https://www.seeseeme.cn/" description="—— 🖖 蝴蝶 🦋 —— | 👉 www.seeseeme.cn"/>
