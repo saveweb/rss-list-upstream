@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 17 Aug 2022 13:14:02</dateCreated>
+    <dateCreated>Thu, 18 Aug 2022 13:06:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -678,7 +678,7 @@
       <outline text="初等記憶體" type="rss" xmlUrl="https://axionl.me/index.xml" htmlUrl="https://axionl.me" description="Recent content on 初等記憶體"/>
       <outline text="前端工程师 Toweave" type="rss" xmlUrl="https://toweave.github.io/rss.xml" htmlUrl="https://toweave.github.io" description="A starter blog demonstrating what Gatsby can do."/>
       <outline text="加菲猫的创客工坊" type="rss" xmlUrl="https://www.gaficat.com/atom.xml" htmlUrl="https://gaficat.com" description="今天有什么好的想法呢？"/>
-      <outline text="勤奋的思远" type="rss" xmlUrl="https://lsybk.xyz/feed.php" htmlUrl="https://lsybk.xyz/" description="一个爱折腾的男孩子"/>
+      <outline text="勤奋的思远" type="rss" xmlUrl="https://lsybk.xyz/feed.php" htmlUrl="https://lsybk.xyz/" description="myHobby"/>
       <outline text="北京奇安盘古实验室科技有限公司" type="rss" xmlUrl="https://www.pangulab.cn/index.xml" htmlUrl="https://www.pangulab.cn/" description="Recent content on 北京奇安盘古实验室科技有限公司"/>
       <outline text="北门清燕" type="rss" xmlUrl="https://www.bmqy.net/feed" htmlUrl="https://www.bmqy.net/" description="分享生活、记录点滴，给回忆一个绽放的美丽。"/>
       <outline text="十贰的小窝" type="rss" xmlUrl="https://hehysh.github.io/atom.xml" htmlUrl="https://hehysh.github.io/" description=""/>
