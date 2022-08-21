@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 19 Aug 2022 12:55:02</dateCreated>
+    <dateCreated>Sun, 21 Aug 2022 12:40:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -674,7 +674,7 @@
       <outline text="凌赟's blog" type="rss" xmlUrl="https://www.zhukang.tech/feed.xml" htmlUrl="https://www.zhukang.tech//" description="正心，诚意，进德，修身，养气，为学，笃行，慎独。 微信公众号：zhukang6139."/>
       <outline text="刘未鹏 Mind Hacks – 思维改变生活" type="rss" xmlUrl="http://mindhacks.cn/feed/" htmlUrl="http://mindhacks.cn/" description="思维改变生活"/>
       <outline text="刘荣星的博客" type="rss" xmlUrl="https://www.liurongxing.com/feed" htmlUrl="https://www.liurongxing.com/" description="关注Linux,记录成长点滴。"/>
-      <outline text="初之音" type="rss" xmlUrl="https://www.himiku.com/feed" htmlUrl="https://www.himiku.com/" description="聆听心中最初的声音"/>
+      <outline text="初之音" type="rss" xmlUrl="https://www.himiku.com/feed/" htmlUrl="https://www.himiku.com/" description="聆听心中最初的声音"/>
       <outline text="初等記憶體" type="rss" xmlUrl="https://axionl.me/index.xml" htmlUrl="https://axionl.me" description="Recent content on 初等記憶體"/>
       <outline text="前端工程师 Toweave" type="rss" xmlUrl="https://toweave.github.io/rss.xml" htmlUrl="https://toweave.github.io" description="A starter blog demonstrating what Gatsby can do."/>
       <outline text="加菲猫的创客工坊" type="rss" xmlUrl="https://www.gaficat.com/atom.xml" htmlUrl="https://gaficat.com" description="今天有什么好的想法呢？"/>
@@ -763,7 +763,7 @@
       <outline text="宝硕博客" type="rss" xmlUrl="https://blog.baoshuo.ren/atom.xml" htmlUrl="https://blog.baoshuo.ren/" description=""/>
       <outline text="寂静花园" type="rss" xmlUrl="https://www.addesp.com/feed" htmlUrl="https://www.addesp.com/" description="寂静中交织着热情"/>
       <outline text="寒山志" type="rss" xmlUrl="https://baozi.fun/rss.xml" htmlUrl="https://baozi.fun/" description="长风破浪会有时，直挂云帆济沧海"/>
-      <outline text="小A的个人站" type="rss" xmlUrl="https://blog.lipux.cn//feed/" htmlUrl="http://blog.fasv.top/" description="原小A的个人站、致力于记录、学习、分享"/>
+      <outline text="小A的个人站" type="rss" xmlUrl="https://blog.lipux.cn//feed/" htmlUrl="http://blog.fasv.top/" description="学习、记录、分享"/>
       <outline text="小z博客" type="rss" xmlUrl="https://www.xiaoz.me/feed" htmlUrl="https://www.xiaoz.me/" description="生命不息，吾将折腾不止。"/>
       <outline text="小众分享" type="rss" xmlUrl="https://www.smbinn.com/feed" htmlUrl="https://www.smbinn.com/" description=""/>
       <outline text="小小孩子们的博客" type="rss" xmlUrl="https://www.xxhzm.cn/feed/" htmlUrl="https://xxhzm.cn/" description="小小孩子们的Blog，记录美好生活"/>
@@ -1349,7 +1349,7 @@
       <outline text="木瓜园" type="rss" xmlUrl="https://muguayuan.com/feed" htmlUrl="https://muguayuan.com/" description=""/>
       <outline text="束花柳の家" type="rss" xmlUrl="https://www.rmoe.top/feed/" htmlUrl="https://www.rmoe.top/" description="一方寂静的角落里，有一间歪斜的小木屋，在那不尽的狂风中，木屋似乎随时都会消失。"/>
       <outline text="果果喵" type="rss" xmlUrl="http://moe.xin/feed" htmlUrl="http://moe.xin/" description="(๑≧∀≦๑)"/>
-      <outline text="梓宸的小屋" type="rss" xmlUrl="https://zichen.zone/feed/" htmlUrl="https://zichen.zone/" description="一个不太开心的创作者的博客"/>
+      <outline text="梓宸的小屋" type="rss" xmlUrl="https://zichen.zone/feed/" htmlUrl="https://zichen.zone/" description="Look around, everything's alright?"/>
       <outline text="没有如果" type="rss" xmlUrl="https://noif.cc/index.xml" htmlUrl="https://noif.cc/" description="分享编程和输入法"/>
       <outline text="流浪天下" type="rss" xmlUrl="https://maie.name/feed" htmlUrl="https://maie.name/" description="背包行走，流浪天下"/>
       <outline text="薄荷的猫草" type="rss" xmlUrl="https://bohecat.com/feed/" htmlUrl="https://bohecat.com/" description="冷水薄荷的博客-懒癌晚期95后的网络折腾和生活记录"/>

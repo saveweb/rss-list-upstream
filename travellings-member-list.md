@@ -37,6 +37,7 @@
 | 45 | 顶栏 | ajian | https://blog.yegetables.cn |
 | 46 | 侧栏* | freejishu的美丽世界 | https://www.freejishu.com |
 | 47 | 侧栏* | 小太の游乐园 | https://baka.fun |
+| 48 | 底部 | 梦墨's HomePage | https://dreamo.ink |
 | 49 | 侧栏 | 地皮-DefiedParty | https://dpii.club |
 | 52 | 顶栏 | SpinTouch's Something | https://spinaround.tk |
 | 53 | 顶栏 | Lin. 's Blog | https://www.lin03.cn |
@@ -403,7 +404,6 @@
 | 501 | Jun | https://blog.junrz.cn |
 | 502 | 尖嘴钳子_lyon的记事本 | https://lml023.top |
 | 503 | Astrophel's Blog | https://www.astrophel.top |
-| 504 | 启小凡 | https://www.qixiaofan.icu |
 | 505 | 威风的博客 | https://weistuday.com |
 | 506 | 芸熙の小屋 | https://stvue.com |
 | 507 | 百乐的编程学习 | https://www.leyoubaloy.xyz/ |
@@ -505,6 +505,9 @@
 | 604 | 圆周率的博客 | https://yuanzj.top |
 | 605 | Hairy's Blog | https://www.hairy.blog |
 | 606 | ShootZone | https://blog.roccoshi.top |
+| 607 | CheeseburgerIM's Blog | https://cheeseburgerim.github.io |
+| 608 | 强曰为道 | https://pkold.com |
+| 609 | 无名博客 | https://wumingboke.xyz |
 
 ---
 
@@ -534,7 +537,6 @@
 | 40 | QUIT | Smilear's Blog | https://smilear.cn |
 | 43 | QUIT | Nymane's Blog | https://www.nymane.xyz |
 | 44 | LOST | 风吟 | https://blog.yilon.top |
-| 48 | LOST | Zhou‘s Blog | https://idream.ink |
 | 50 | QUIT | CORE | https://core.moe |
 | 51 | LOST | solar'blog | https://www.solarme.vip |
 | 52 | QUIT | SpinTouch's Something | https://spinblog.tk |
@@ -643,6 +645,7 @@
 | 343 | QUIT | 小理的小窝 | https://xiaolii.com |
 | 350 | QUIT | 人人都是艺术家 | https://here.sy |
 | 362 | ERROR | 初 x 见 | https://chuxjian.asia |
+| 504 | QUIT | 启小凡 | https://www.qixiaofan.icu |
 | 582 | QUIT | WikiMimo | https://www.wikimimo.com |
 
 ---
