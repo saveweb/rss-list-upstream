@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 23 Aug 2022 13:23:02</dateCreated>
+    <dateCreated>Wed, 24 Aug 2022 13:16:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1235,7 +1235,7 @@
       <outline text="一画一话" type="rss" xmlUrl="https://www.theviewtalk.com/rss" htmlUrl="http://www.theviewtalk.com/" description="都市文化有声杂志，编辑部在上海。&#10;中文播客界第一个专注现当代艺术的节目。&#10;​给您进阶一点点的文艺分享。"/>
       <outline text="不丧" type="rss" xmlUrl="http://busangpodcast.com/feed/audio.xml" htmlUrl="https://busangpodcast.com/" description="「不丧」是一档严肃活泼，温情脉脉的夫妻聊天节目，男主播思维迟缓，女主播百无禁忌，黄腔不断。我们读书，观影，谈论流行文化；也关心社会和政治，拒绝自我审查，呼唤不同背景下人与人间的同情和理解。"/>
       <outline text="不动声色" type="rss" xmlUrl="https://bds.wht.one/feed.xml" htmlUrl="https://bds.wht.one" description="这是一个声音记录档案，没有主题、没有制式，旨在呈现多样且有趣的声音。"/>
-      <outline text="不可理论" type="rss" xmlUrl="https://bukelilun.com/feed.xml" htmlUrl="https://www.bukelilun.com/" description="一档带你用理论来理解生活的播客节目。"/>
+      <outline text="不可理论" type="rss" xmlUrl="http://bukelilun.com/feed.xml" htmlUrl="https://www.bukelilun.com/" description="一档带你用理论来理解生活的播客节目。"/>
       <outline text="不合时宜" type="rss" xmlUrl="https://feed.xyzfm.space/ww7cqnybekty" htmlUrl="https://justpodmedia.com/shows/theweirdo" description="《不合时宜》是一档由三个生活在不同时区的（前）媒体人共同创作的播客节目。 微博： @不合时宜 TheWeirdo"/>
       <outline text="不在场" type="rss" xmlUrl="https://buzaichang.xyz/feed/audio.xml" htmlUrl="https://buzaichang.xyz/" description="对无用之事的obsessions"/>
       <outline text="业余玩家" type="rss" xmlUrl="https://amateurplayer.libsyn.com/rss" htmlUrl="https://www.yeyuwanjia.net" description="《业余玩家》是一档关注影像、科技的播客，关注艺术和技术背后的故事。我们推荐您用泛用型播客客户端收听我们的节目。您也可以在喜马拉雅、网易云音乐等平台搜索「业余玩家播客」找到我们。"/>
@@ -1369,6 +1369,7 @@
       <outline text="程序师" type="rss" xmlUrl="https://www.techug.com/feed" htmlUrl="https://www.techug.com" description="程序员、编程语言、软件开发、编程技术"/>
     </outline>
     <outline text="不提供RSS">
+      <outline text="Caos" type="rss" xmlUrl="https://caos.me/feed" htmlUrl="https://caos.me/" description="A description about your own website that really shows off what it's all about"/>
       <outline text="Caviar-X's archive" type="rss" xmlUrl="https://pigeons.icu/rss.xml" htmlUrl="https://pigeons.icu/" description="兜兜转转又回到了原点"/>
       <outline text="FongSoul" type="rss" xmlUrl="https://fongsoul.com/feed/" htmlUrl="https://fongsoul.com/" description="𝑾𝒓𝒊𝒕𝒊𝒏𝒈 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑺𝒐𝒖𝒍. ✎"/>
       <outline text="Wiken" type="rss" xmlUrl="https://www.hehuapei.com/feed" htmlUrl="https://www.hehuapei.com" description=""/>
@@ -1437,7 +1438,6 @@
       <outline text="BIHell" type="rss" xmlUrl="https://bihell.com/feed.xml" htmlUrl="https://bihell.com/" description="专注于大数据技术"/>
       <outline text="buzhou.blog" type="rss" xmlUrl="https://buzhou.typlog.io/feed.xml" htmlUrl="https://buzhou.typlog.io/" description="不周的博客。"/>
       <outline text="CallMeSoul" type="rss" xmlUrl="https://callmesoul.cn/rss.xml" htmlUrl="https://callmesoul.cn" description="callmesoul前端开发者"/>
-      <outline text="Caos" type="rss" xmlUrl="https://caos.me/feed" htmlUrl="https://caos.me/" description="A description about your own website that really shows off what it's all about"/>
       <outline text="ChrAlpha 的幻想乡（博客）" type="rss" xmlUrl="https://blog.ichr.me/atom.xml" htmlUrl="https://blog.ichr.me" description=""/>
       <outline text="Daniel's Blog" type="rss" xmlUrl="https://moecm.com/feed/" htmlUrl="https://moecm.com/" description="Here's the BioniCosmos!"/>
       <outline text="EGOIST 庶民样本" type="rss" xmlUrl="https://egoist.sh/zh/atom.xml" htmlUrl="https://egoist.sh/" description="The coolest anime fan"/>
