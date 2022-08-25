@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 24 Aug 2022 13:16:02</dateCreated>
+    <dateCreated>Thu, 25 Aug 2022 13:24:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -118,7 +118,7 @@
       <outline text="Dvel's Blog" type="rss" xmlUrl="https://dvel.me/index.xml" htmlUrl="https://dvel.me/" description="Recent content on Dvel's Blog"/>
       <outline text="easeapi blog" type="rss" xmlUrl="https://easeapi.com/blog/feed.xml" htmlUrl="https://easeapi.com/blog" description="移动互联网技术原创博客，分享开发技术、观点心得、创意产品和职业感想。"/>
       <outline text="Eason Yang's Blog" type="rss" xmlUrl="https://easonyang.com/atom.xml" htmlUrl="https://easonyang.com/" description="Recent content on Eason Yang's Blog"/>
-      <outline text="Easton Man's Blog" type="rss" xmlUrl="https://blog.eastonman.com/feed/" htmlUrl="https://blog.eastonman.com/" description="生如夏花之绚烂，死如秋叶之静美"/>
+      <outline text="Easton Man's Blog" type="rss" xmlUrl="https://blog.eastonman.com/feed/" htmlUrl="https://blog.eastonman.com/" description="临渊羡鱼，不如退而结网"/>
       <outline text="EasyApple" type="rss" xmlUrl="https://easyapple.net/?feed=rss2" htmlUrl="http://easyapple.net/" description="Ideas, Techs and Apps"/>
       <outline text="EdNovas的小站" type="rss" xmlUrl="https://ednovas.xyz/atom.xml" htmlUrl="https://ednovas.xyz/" description=""/>
       <outline text="EE Archeology 电子考古学" type="rss" xmlUrl="http://7400.me/atom.xml" htmlUrl="http://7400.me/" description=""/>
@@ -599,7 +599,7 @@
       <outline text="☾ Yuk的部落格" type="rss" xmlUrl="https://blog.yuk7.com/atom.xml" htmlUrl="https://blog.yuk7.com/" description="在水果摊上画画"/>
       <outline text="いつの間に" type="rss" xmlUrl="https://www.iinorii.com/feed/" htmlUrl="https://www.iinorii.com/" description="か隣にいたり"/>
       <outline text="一个二货程序员的日常编码" type="rss" xmlUrl="https://itgoyo.github.io/atom.xml" htmlUrl="https://itgoyo.github.io/" description="Talk is cheap,Show me the girl."/>
-      <outline text="一个博客" type="rss" xmlUrl="https://boke.one/feed" htmlUrl="https://boke.one/" description="又一个WordPress站点"/>
+      <outline text="一个博客" type="rss" xmlUrl="https://www.boke.one/feed/" htmlUrl="https://boke.one/" description="Your description here."/>
       <outline text="一个博客站点,记录各种事情" type="rss" xmlUrl="https://blog.logc.icu/index.xml" htmlUrl="https://blog.logc.icu/" description="Recent content on 一个博客站点,记录各种事情"/>
       <outline text="一个坏掉的番茄" type="rss" xmlUrl="https://tomotoes.com/blog/atom.xml" htmlUrl="https://tomotoes.com/" description=""/>
       <outline text="一个学电子的人" type="rss" xmlUrl="http://bg2kaj.cn/WordPress/?feed=rss2" htmlUrl="http://bg2kaj.cn/WordPress" description="纪念我在无线电、电子制作以及胶片摄影里投入的光阴"/>
@@ -610,7 +610,7 @@
       <outline text="一叶斋" type="rss" xmlUrl="https://xieguanglei.github.io/blog/feed.xml" htmlUrl="http://xieguanglei.github.io/" description="一叶障目 一叶知秋"/>
       <outline text="一叶知秋" type="rss" xmlUrl="https://blog.rain.cx/feed/" htmlUrl="https://blog.rain.cx/" description="悟已往之不谏，知来者之可追。"/>
       <outline text="一座島 - 一座島，一個人，一個世界。" type="rss" xmlUrl="https://island.shaform.com/zh/index.xml" htmlUrl="https://island.shaform.com/zh/" description="Recent content on 一座島"/>
-      <outline text="一恒的网志" type="rss" xmlUrl="https://hu86.cc/feed/" htmlUrl="https://hu86.cc/" description="这是一个个人网站，这里记录了站长十多年来所见、所闻、所思、所做、所感、所悟。"/>
+      <outline text="一恒的网志" type="rss" xmlUrl="https://hu86.cc/feed/" htmlUrl="https://hu86.cc/" description="与你分享我十多年来所见、所闻、所思、所做、所感、所悟。"/>
       <outline text="一杯茶" type="rss" xmlUrl="https://www.zuoyu.top/atom.xml" htmlUrl="https://www.zuoyu.top/" description="Follow your heart, Be yourself."/>
       <outline text="一派胡言" type="rss" xmlUrl="https://zhangyet.github.io/feed.xml" htmlUrl="https://zhangyet.github.io/" description="dantezy 的在线栋笃笑"/>
       <outline text="一颗小树" type="rss" xmlUrl="https://yeshu.cloud/atom.xml" htmlUrl="https://yeshu.cloud/" description="Product Developer"/>
@@ -1235,7 +1235,7 @@
       <outline text="一画一话" type="rss" xmlUrl="https://www.theviewtalk.com/rss" htmlUrl="http://www.theviewtalk.com/" description="都市文化有声杂志，编辑部在上海。&#10;中文播客界第一个专注现当代艺术的节目。&#10;​给您进阶一点点的文艺分享。"/>
       <outline text="不丧" type="rss" xmlUrl="http://busangpodcast.com/feed/audio.xml" htmlUrl="https://busangpodcast.com/" description="「不丧」是一档严肃活泼，温情脉脉的夫妻聊天节目，男主播思维迟缓，女主播百无禁忌，黄腔不断。我们读书，观影，谈论流行文化；也关心社会和政治，拒绝自我审查，呼唤不同背景下人与人间的同情和理解。"/>
       <outline text="不动声色" type="rss" xmlUrl="https://bds.wht.one/feed.xml" htmlUrl="https://bds.wht.one" description="这是一个声音记录档案，没有主题、没有制式，旨在呈现多样且有趣的声音。"/>
-      <outline text="不可理论" type="rss" xmlUrl="http://bukelilun.com/feed.xml" htmlUrl="https://www.bukelilun.com/" description="一档带你用理论来理解生活的播客节目。"/>
+      <outline text="不可理论" type="rss" xmlUrl="https://bukelilun.com/feed.xml" htmlUrl="https://www.bukelilun.com/" description="一档带你用理论来理解生活的播客节目。"/>
       <outline text="不合时宜" type="rss" xmlUrl="https://feed.xyzfm.space/ww7cqnybekty" htmlUrl="https://justpodmedia.com/shows/theweirdo" description="《不合时宜》是一档由三个生活在不同时区的（前）媒体人共同创作的播客节目。 微博： @不合时宜 TheWeirdo"/>
       <outline text="不在场" type="rss" xmlUrl="https://buzaichang.xyz/feed/audio.xml" htmlUrl="https://buzaichang.xyz/" description="对无用之事的obsessions"/>
       <outline text="业余玩家" type="rss" xmlUrl="https://amateurplayer.libsyn.com/rss" htmlUrl="https://www.yeyuwanjia.net" description="《业余玩家》是一档关注影像、科技的播客，关注艺术和技术背后的故事。我们推荐您用泛用型播客客户端收听我们的节目。您也可以在喜马拉雅、网易云音乐等平台搜索「业余玩家播客」找到我们。"/>
@@ -1289,7 +1289,7 @@
       <outline text="生产力维基" type="rss" xmlUrl="https://productivity.wiki/feed/podcast" htmlUrl="https://productivity.wiki" description="一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客. 欢迎一同讨论生产力工具的心得！"/>
       <outline text="生活在别处" type="rss" xmlUrl="https://feeds.fireside.fm/life-is-elsewhere/rss" htmlUrl="https://life-is-elsewhere.com/" description="欢迎光临“生活在别处”，我是主播响响。“生活在别处”，是一档 和嘉宾们一起探索打卡上班之外另一种人生体验 的聊天节目，内容与嘉宾的日常执迷的爱好高度相关，涉及且不限于，文学、电影、博物、绘画等等。如果你感兴趣，可以在Apple podcast, Spotify以及其他泛用性播客和官网 life-is-elsewhere.com 收听和订阅本节目。"/>
       <outline text="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" htmlUrl="https://crazy.capital/" description="做中文世界最有意思的商业类播客"/>
-      <outline text="疲惫娇娃 CyberPink" type="rss" xmlUrl="https://cyberpinkfm.xyz/feed.xml" htmlUrl="https://cyberpinkfm.typlog.io/" description="一档从饭桌聊到宇宙深处的泛文化播客，用女性的声波延展对世界的参与和想象"/>
+      <outline text="疲惫娇娃 CyberPink" type="rss" xmlUrl="http://cyberpinkfm.xyz/feed.xml" htmlUrl="https://cyberpinkfm.typlog.io/" description="一档从饭桌聊到宇宙深处的泛文化播客，用女性的声波延展对世界的参与和想象"/>
       <outline text="看理想电台" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" description="「看理想」App，一个陪你成长的知识剧场。&#10;看理想电台，由看理想出品，入选“2019 Apple 最佳播客”。每周四更新，不一定有用的电台杂志。&#10;欢迎下载「看理想」App留言互动。"/>
       <outline text="硬地文化" type="rss" xmlUrl="https://www.indie.cn/feed/" htmlUrl="https://www.indie.cn/" description=""/>
       <outline text="硬影像" type="rss" xmlUrl="https://hardimage.pro/feed/audio.xml" htmlUrl="https://hardimage.pro/" description="《硬影像》由 IPN 出品，由罗登主持，是一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。"/>
@@ -1306,7 +1306,7 @@
       <outline text="踏浪寻星广播电台" type="rss" xmlUrl="https://tlxxfm.com/feed/podcast" htmlUrl="https://tlxxfm.com/" description="踏浪寻星社（Tide and Star，TAS Club）希望能在天与海之间，与大家分享天空与海洋的梦想故事。"/>
       <outline text="迟早更新" type="rss" xmlUrl="https://podcast.weareones.com/feed.xml" htmlUrl="https://podcast.weareones.com/" description="一档探讨科技、商业、设计和生活之间混沌关系的播客节目"/>
       <outline text="迷于星际" type="rss" xmlUrl="https://trekin.space/feed.xml" htmlUrl="https://trekin.space/" description="以星际迷航为主题的聊天节目。"/>
-      <outline text="道听途说" type="rss" xmlUrl="http://fakefestival.org/feed/audio.xml" htmlUrl="https://fakefestival.org/" description="「道听途说」是假艺术节旗下的独立文化播客，内容主要围绕展览、戏剧、表演和现场艺术展开。节目也会不定期邀请专业领域的嘉宾共同探讨行业的见闻，分享闲散的思考。每期播客配套的补充图文索引，都会同步更新在微信公众平台「假艺术节」。&#10;&#10;「道听途说」是 Apple Podcasts 2019年度最佳播客之一。&#10;&#10;&#10;播客官网: fakefestival.org&#10;新浪微博: @道听途说播客&#10;微信公众平台: 假艺术节&#10;主题音乐 © 孙大肆&#10;联络邮箱: info@fakefestival.org"/>
+      <outline text="道听途说" type="rss" xmlUrl="https://fakefestival.org/feed/audio.xml" htmlUrl="https://fakefestival.org/" description="「道听途说」是假艺术节旗下的独立文化播客，内容主要围绕展览、戏剧、表演和现场艺术展开。节目也会不定期邀请专业领域的嘉宾共同探讨行业的见闻，分享闲散的思考。每期播客配套的补充图文索引，都会同步更新在微信公众平台「假艺术节」。&#10;&#10;「道听途说」是 Apple Podcasts 2019年度最佳播客之一。&#10;&#10;&#10;播客官网: fakefestival.org&#10;新浪微博: @道听途说播客&#10;微信公众平台: 假艺术节&#10;主题音乐 © 孙大肆&#10;联络邮箱: info@fakefestival.org"/>
       <outline text="闭门造车" type="rss" xmlUrl="https://anchor.fm/s/2d9522d4/podcast/rss" htmlUrl="http://gulugulufm.tk/" description="Miki和各类创作者的深度访谈，了解创作背后的故事。访谈本身围绕着创作的方方面面来展开：为什么去做，怎么开始的，怎么继续下去的，以及为了创作做出的努力、勇气，外加钻研和运气。不要一直做消费者了，去创作自己喜欢的东西吧。"/>
     </outline>
     <outline text="RSS不规范">
