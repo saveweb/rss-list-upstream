@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 25 Aug 2022 13:24:01</dateCreated>
+    <dateCreated>Fri, 26 Aug 2022 13:33:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -299,7 +299,7 @@
       <outline text="Ljcbaby 的 网络小屋" type="rss" xmlUrl="https://blog.ljcbaby.top/atom.xml" htmlUrl="https://blog.ljcbaby.top/" description="宁静的栖身之地"/>
       <outline text="LJF.COM" type="rss" xmlUrl="https://ljf.com/feed/" htmlUrl="https://ljf.com/" description=""/>
       <outline text="LLLgoyour的世界" type="rss" xmlUrl="https://blog.lllgoyour.tk/feed/" htmlUrl="https://blog.lllgoyour.tk/" description="事有终始，万物归源"/>
-      <outline text="Lookcos的网络日志" type="rss" xmlUrl="https://lookcos.cn/feed/" htmlUrl="https://lookcos.cn/" description="专注网络爬虫与WEB技术"/>
+      <outline text="Lookcos的网络日志" type="rss" xmlUrl="https://lookcos.cn/feed/" htmlUrl="https://lookcos.cn/" description="本网站为个人网站，主要内容用于记录技术类文章，记录自己学习的知识点和难点，存放自己所需要的资料，方便自己查阅。"/>
       <outline text="LoRexxar's Blog" type="rss" xmlUrl="https://lorexxar.cn/atom.xml" htmlUrl="https://lorexxar.cn/" description="带着对技术的敬畏之心成长，不安于一隅..."/>
       <outline text="Louis Aeilot's Blog" type="rss" xmlUrl="https://blog.aeilot.top/index.xml" htmlUrl="https://blog.aeilot.top/" description="Stay hungry. Stay Foolish."/>
       <outline text="lowinli’s blog" type="rss" xmlUrl="https://lowin.li/atom.xml" htmlUrl="https://lowin.li/" description="金属成色"/>
