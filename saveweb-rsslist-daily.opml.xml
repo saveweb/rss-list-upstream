@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 26 Aug 2022 13:33:01</dateCreated>
+    <dateCreated>Sun, 28 Aug 2022 13:00:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -498,7 +498,7 @@
       <outline text="Tonm's Blog" type="rss" xmlUrl="https://owo-bo.cn/feed/" htmlUrl="https://owo-bo.cn/" description="彼岸花开彼岸，断肠草断肝肠"/>
       <outline text="Tony's Toy Blog" type="rss" xmlUrl="https://www.tony-bro.com/atom.xml" htmlUrl="https://www.tony-bro.com/" description="TONY'S TOY BLOG"/>
       <outline text="TRHX'S BLOG" type="rss" xmlUrl="https://www.itbob.cn/atom.xml" htmlUrl="https://www.itrhx.com/" description="一入 IT 深似海 从此学习无绝期"/>
-      <outline text="TripleZ's Blog" type="rss" xmlUrl="https://blog.triplez.cn/index.xml" htmlUrl="https://blog.triplez.cn/" description="Recent content on TripleZ's Blog"/>
+      <outline text="TripleZ's Blog" type="rss" xmlUrl="https://blog.triplez.cn/index.xml" htmlUrl="https://blog.triplez.cn/" description="Recent content on 小赵空间"/>
       <outline text="Troy's Blog" type="rss" xmlUrl="https://itroy.cc/feed" htmlUrl="https://itroy.cc/" description="Troy 的星球"/>
       <outline text="True's ME" type="rss" xmlUrl="https://chujian.xyz/feed/" htmlUrl="https://chujian.xyz/" description="追寻着释然的态度..."/>
       <outline text="Tsanfer's Blog" type="rss" xmlUrl="https://tsanfer.com/rss.xml" htmlUrl="https://tsanfer.com/" description="现居住于猎户臂上的一个碳基生命"/>
@@ -958,7 +958,7 @@
       <outline text="海加尔金鹰" type="rss" xmlUrl="https://www.hjljy.cn/rss.xml" htmlUrl="https://www.hjljy.cn/" description="天道酬勤，星星之火可以燎原"/>
       <outline text="海岛心hey" type="rss" xmlUrl="https://fehey.com/atom.xml" htmlUrl="https://fehey.com/fehey.com" description="Hi, 我是海岛心hey，这里是我的个人网站，记录关于产品、设计、前端"/>
       <outline text="海布里天井" type="rss" xmlUrl="https://blog.feimind.xyz/feed" htmlUrl="https://blog.feimind.xyz/" description="记录我遇见我"/>
-      <outline text="海德沙龙（HeadSalon）" type="rss" xmlUrl="http://headsalon.org/feed" htmlUrl="http://headsalon.org/" description="A Salon for Heads, No Sofa for Ass"/>
+      <outline text="海德沙龙（HeadSalon）" type="rss" xmlUrl="https://headsalon.org/feed" htmlUrl="http://headsalon.org/" description="A Salon for Heads, No Sofa for Ass"/>
       <outline text="涛叔" type="rss" xmlUrl="https://taoshu.in/feed.xml" htmlUrl="https://taoshu.in/" description=""/>
       <outline text="涯余" type="rss" xmlUrl="https://yanhang.me/index.xml" htmlUrl="https://yanhang.me" description="Recent content on The Blog"/>
       <outline text="涼花的书房" type="rss" xmlUrl="https://suzuka.cc/feed/" htmlUrl="https://suzuka.cc/" description="越过喧嚣找到你"/>
@@ -974,7 +974,7 @@
       <outline text="灵感电台" type="rss" xmlUrl="https://museradio.net/atom.xml" htmlUrl="http://museradio.net/" description="Jack's art hobby habitat"/>
       <outline text="炎忍的博客" type="rss" xmlUrl="https://blog.imyan.ren/atom.xml" htmlUrl="https://blog.imyan.ren/" description="同学习，共成长，不将就，不妥协！"/>
       <outline text="炭火寡言" type="rss" xmlUrl="https://www.mumfire.me/feeds/posts/default" htmlUrl="https://www.mumfire.me/" description="泛起零星的火，毫无意义却静穆地燃烧着"/>
-      <outline text="炸裂志" type="rss" xmlUrl="https://zhfyi.com/feed.xml" htmlUrl="https://zh.fyi/" description="无去来处，动静等观"/>
+      <outline text="炸裂志" type="rss" xmlUrl="https://zh.fyi/rss.xml" htmlUrl="https://zh.fyi/" description="无去来处，动静等观"/>
       <outline text="烟草的香味" type="rss" xmlUrl="https://hujingnb.com/feed" htmlUrl="https://hujingnb.com/" description="一条没什么理想的后端咸鱼"/>
       <outline text="烟雨寒云" type="rss" xmlUrl="https://www.yyhy.me/feed" htmlUrl="https://www.yyhy.me/" description="一个Ctrl+C/V的练习生"/>
       <outline text="烧饼博客" type="rss" xmlUrl="https://u.sb/rss.xml" htmlUrl="https://u.sb/" description="烧饼博客是一个专注于服务器运维、专业域名投资分析的网站"/>
