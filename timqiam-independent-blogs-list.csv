@@ -227,7 +227,7 @@ ITBOB'S BLOG, https://www.itbob.cn/, https://www.itbob.cn/atom.xml, 编程; Pyth
 CallMeSoul, https://callmesoul.cn, https://callmesoul.cn/rss.xml, 编程; 前端
 龚成博客, https://laogongshuo.com, https://laogongshuo.com/feed, 随想; 编程; 哲学; 经济学
 Seven's blog, https://blog.diqigan.cn/, https://blog.diqigan.cn/atom.xml, 编程; 随笔; Geek; Java; Linux
-木土金王可, https://www.dujinke.com/, https://www.dujinke.com/feed.xml, 编程; 技术; 生活
+木土金王可, https://dujinke.com/, https://dujinke.com/feed/, 编程; 技术; 生活
 治部少辅, https://www.codewoody.com, https://www.codewoody.com/atom.xml, 编程; 随笔; 新闻
 CRIMX Blog, https://blog.crimx.com/, https://blog.crimx.com/rss.xml, 编程; 前端; 开源; 随笔
 小非的物理小站, https://xiaophy.com/, https://xiaophy.com/feed.xml, 物理; 开放科学; 随笔
@@ -782,7 +782,7 @@ RUNNINGJ, https://runningj.top, https://runningj.top/feed.xml, 编程; 生活; �
 Frange Zone｜Xu's Blog, https://frangezone.github.io, https://frangezone.github.io/index.xml, 产品; 生活; 数码; 随笔
 程序员的喵, https://catcoding.me/, https://catcoding.me/atom.xml, 编程; 技术; 写作; 阅读; 分享
 后端工程师, https://hdgcs.com, https://hdgcs.com/feed.xml, 编程; 技术; 开源; 后端
-柯善康, https://www.keshankang.org/, https://www.keshankang.org/feed/, 记录; 分享
+柯善康, https://blog.keshankang.org/, https://blog.keshankang.org/feed/, 记录; 分享
 nickChenyx, https://nickchenyx.github.io/, https://nickchenyx.github.io/atom.xml, 编程; 技术; 分享
 让我们一起发现西西里岛, https://mattia88.com/, https://mattia88.com/feed/, 西西里人; 西西里旅游
 Shadow Walker 松烟阁, https://www.edony.ink/, https://www.edony.ink/rss/, Linux 操作系统安全（LSM，ebpf 等）; 基础设施可信; 产品思考; 数字花园; Obsidian
@@ -898,3 +898,4 @@ zguishen's blog, https://zguishen.com, https://zguishen.com/atom.xml, 技术; �
 洛雪のCat, https://blog.sayhi.moe, https://blog.sayhi.moe/index.php/feed/, 校园; 生活; 随笔; 二次元; 日常
 一念, https://xnzw.org, , 生活; 随笔; 佛学
 matsuri's neverland, https://matsuri.site/, https://matsuri.site/atom.xml, 编程; 效率工具; 游戏; 互联网
+颜海镜, https://yanhaijing.com/, https://yanhaijing.com/rss.xml, 前端
