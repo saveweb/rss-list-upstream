@@ -153,7 +153,7 @@
 | 239 | 顶栏 | 拾忆小站 | https://syzhan.cn |
 | 240 | 顶栏 | 嚣张的灯塔 | https://www.liuzhimin.vip |
 | 241 | 顶栏 | W4J1e's blog | https://www.hin.cool |
-| 242 | 侧栏 | 轻风记 | https://www.3328bk.cn |
+| 242 | 侧栏 | 轻风记 | https://hilzl.cn |
 | 243 | 中心 | Ganto的个人主页 | https://www.ganto.cn |
 | 244 | 顶栏 | Weidows の Nest | https://weidows.github.io |
 | 245 | 顶栏 | Magma Ink | https://magma.ink |
@@ -242,7 +242,6 @@
 | 342 | 顶栏 | Laugh | https://blog.laugh12321.cn |
 | 344 | 顶栏 | 996 worker's ICU | https://www.996workers.icu |
 | 345 | 顶栏 | Moyok的小屋 | https://blog.integer.top |
-| 346 | 顶栏 | Hicool嗨酷 | https://www.hicool.icu |
 | 347 | 侧栏 | 云梦 ╮不浅の部落阁 | https://blog.adworld.top |
 | 348 | 顶栏 | 李本伟的博客 | https://blog.libw.cc |
 | 349 | 顶栏 | Po7mn1's Blog | https://blog.icecliffs.me |
@@ -513,6 +512,10 @@
 | 613 | 怡然一记 | https://xsunhua.cn |
 | 614 | WindowsRegeditのsite | https://wufan.fun |
 | 615 | Niute Fony | https://blogs.niufuyu.top |
+| 616 | fffzlfk's Blog | https://fffzlfk.github.io |
+| 617 | Braindance | https://www.penginman.com |
+| 618 | 兔儿轩的小空间 | https://tuerxuan.top |
+| 619 | LYXの小破站 | https://yisous.xyz |
 
 ---
 
@@ -653,5 +656,6 @@
 | 504 | QUIT | 启小凡 | https://www.qixiaofan.icu |
 | 521 | BROKEN | 梦境花园 | https://www.keanes.cn |
 | 582 | QUIT | WikiMimo | https://www.wikimimo.com |
+| 346 | QUIT | Hicool嗨酷 | https://www.hicool.icu |
 
 ---
