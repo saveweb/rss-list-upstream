@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 04 Sep 2022 13:06:02</dateCreated>
+    <dateCreated>Mon, 05 Sep 2022 13:36:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -45,7 +45,7 @@
       <outline text="Battle Le" type="rss" xmlUrl="https://battlele.com/atom.xml" htmlUrl="https://battlele.com/" description=""/>
       <outline text="BBing's Blog" type="rss" xmlUrl="https://bbing.com.cn/index.xml" htmlUrl="https://bbing.com.cn/" description="个人技术博客"/>
       <outline text="BBing's Blog" type="rss" xmlUrl="https://www.bbing.com.cn/index.xml" htmlUrl="https://bbing.com.cn/" description="个人技术博客"/>
-      <outline text="Bboysoul's Blog" type="rss" xmlUrl="https://www.bboy.app/atom.xml" htmlUrl="https://www.bboy.app/" description="向知识投资"/>
+      <outline text="Bboysoul's Blog" type="rss" xmlUrl="https://www.bboy.app/atom.xml" htmlUrl="https://www.bboy.app/" description="Recent content on Bboysoul's Blog"/>
       <outline text="Becomin' Charles" type="rss" xmlUrl="https://sexywp.com/feed" htmlUrl="https://sexywp.com" description="算法 | LNMP | Flutter | Mac"/>
       <outline text="Bensz" type="rss" xmlUrl="https://blognas.hwb0307.com/feed" htmlUrl="https://blognas.hwb0307.com/" description="苯苯"/>
       <outline text="beyond stars" type="rss" xmlUrl="https://beyondstars.xyz/posts/index.xml" htmlUrl="https://beyondstars.xyz/" description="在探索中学习……"/>
