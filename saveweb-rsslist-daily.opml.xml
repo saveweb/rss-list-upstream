@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 06 Sep 2022 13:40:03</dateCreated>
+    <dateCreated>Wed, 07 Sep 2022 13:43:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -249,7 +249,7 @@
       <outline text="JoyQi" type="rss" xmlUrl="https://joyqi.com/feed/" htmlUrl="https://joyqi.com/" description="Do not go gentle into that good night."/>
       <outline text="jtr109's Castle" type="rss" xmlUrl="https://www.jtr109.com/index.xml" htmlUrl="https://www.jtr109.com/" description="Recent content on jtr109's Castle"/>
       <outline text="Jun's Blog" type="rss" xmlUrl="https://www.junz.org/index.xml" htmlUrl="https://junz.org/" description="Recent content on Jun's Blog"/>
-      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="普吉岛的夏天永不停歇，我爱的少年一直热恋。"/>
+      <outline text="Just.Snake" type="rss" xmlUrl="https://imsnake.cn/?feed=rss2" htmlUrl="https://imsnake.cn/" description="泰兰德夏日的风不停，我爱的少年便永远热恋。"/>
       <outline text="Just for Life." type="rss" xmlUrl="https://muyuuuu.github.io/atom.xml" htmlUrl="https://muyuuuu.github.io/" description="明月更几时"/>
       <outline text="Just lepture" type="rss" xmlUrl="https://lepture.com/feed.xml" htmlUrl="https://lepture.com/" description="Love its people, but never trust its government."/>
       <outline text="JustZht" type="rss" xmlUrl="https://www.justzht.com/rss/" htmlUrl="https://www.justzht.com/" description="Haotian Zheng (Justin Fincher)'s blog. CMU mobile engineering student by day, indie apps/games developer by night. 郑昊天的碎碎念博客，日常记事 / 独立软件。"/>
@@ -819,7 +819,7 @@
       <outline text="我叫尤加利" type="rss" xmlUrl="https://youjiali1995.github.io/feed.xml" htmlUrl="https://youjiali1995.github.io/" description="My blog."/>
       <outline text="我有点酷" type="rss" xmlUrl="https://blog.woyou.cool/feed" htmlUrl="https://blog.woyou.cool/" description="woyou.cool"/>
       <outline text="我爱自然语言处理" type="rss" xmlUrl="https://www.52nlp.cn/feed" htmlUrl="http://www.52nlp.cn/" description="I Love Natural Language Processing"/>
-      <outline text="我道1900的博客" type="rss" xmlUrl="http://1900.live/rss/" htmlUrl="http://1900.live/" description="闲言俗语，杂文杂记，图个自在"/>
+      <outline text="我道1900的博客" type="rss" xmlUrl="https://1900.live/rss/" htmlUrl="http://1900.live/" description="闲言俗语，杂文杂记，图个自在"/>
       <outline text="戴兜的小屋" type="rss" xmlUrl="https://daidr.me/feed" htmlUrl="https://daidr.me/" description="在迷失中寻找自我"/>
       <outline text="扫地老僧的Blog" type="rss" xmlUrl="https://doyj.com/feed/" htmlUrl="https://doyj.com/" description="Laputa - 远方地平线，闪耀着光芒"/>
       <outline text="扯氮集" type="rss" xmlUrl="http://weiwuhui.com/feed" htmlUrl="http://weiwuhui.com/" description="多歧为贵 不取苟同"/>
