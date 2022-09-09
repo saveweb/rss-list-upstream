@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 08 Sep 2022 13:32:01</dateCreated>
+    <dateCreated>Fri, 09 Sep 2022 13:19:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -220,7 +220,7 @@
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
       <outline text="informal" type="rss" xmlUrl="http://www.informal.top/index.php/feed/" htmlUrl="http://www.informal.top/" description="一花一世界"/>
       <outline text="Inoki in the world" type="rss" xmlUrl="https://blog.inoki.cc/atom.xml" htmlUrl="https://blog.inoki.cc/" description=""/>
-      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek truth, Find value"/>
+      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Thoughts, stories and ideas."/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
       <outline text="iPotato" type="rss" xmlUrl="https://ipotato.me/feed" htmlUrl="https://ipotato.me" description=""/>
       <outline text="isaced" type="rss" xmlUrl="https://www.isaced.com/index.xml" htmlUrl="http://www.isaced.com" description="Recent content on isaced"/>
@@ -429,7 +429,7 @@
       <outline text="RidiQulous" type="rss" xmlUrl="https://ridiqulous.com/feed/" htmlUrl="https://ridiqulous.com" description=""/>
       <outline text="RivenNero's Blog" type="rss" xmlUrl="https://rivennero.com/atom.xml" htmlUrl="https://rivennero.com/" description="RivenNero 的博客"/>
       <outline text="Robotkang" type="rss" xmlUrl="https://robotkang.cc/feed.xml" htmlUrl="https://robotkang.cc/" description="科技、生活、音乐、人生"/>
-      <outline text="ROYWANG" type="rss" xmlUrl="https://uaxk.com/feed/" htmlUrl="https://uaxk.com/" description="知善恶，懂因果"/>
+      <outline text="ROYWANG" type="rss" xmlUrl="https://roy.wang/feed/" htmlUrl="https://uaxk.com/" description="知善恶，懂因果"/>
       <outline text="Rss Feed - 苏洋博客" type="rss" xmlUrl="https://soulteary.com/feed/" htmlUrl="https://soulteary.com/feed/" description="苏洋博客最近更新内容。"/>
       <outline text="rui.plus" type="rss" xmlUrl="https://blog.rui.plus/atom.xml#force_feed" htmlUrl="https://blog.rui.plus/" description="Rui.plus"/>
       <outline text="rxliuli blog" type="rss" xmlUrl="https://blog.rxliuli.com/atom.xml" htmlUrl="https://blog.rxliuli.com/" description=""/>
@@ -1065,7 +1065,7 @@
       <outline text="罗磊的独立博客" type="rss" xmlUrl="https://luolei.org/feed/" htmlUrl="https://luolei.org" description="前端工程师，ZUOLUOTV制作人"/>
       <outline text="罗 菲 Luo Fei" type="rss" xmlUrl="https://www.luofei.org/feed/" htmlUrl="https://www.luofei.org/" description=""/>
       <outline text="美樂地" type="rss" xmlUrl="https://meledee.com/feed" htmlUrl="https://meledee.com/" description="Meledee.com"/>
-      <outline text="老兄de博客" type="rss" xmlUrl="https://www.moec.top/feed/" htmlUrl="https://www.moec.top/" description=""/>
+      <outline text="老兄de博客" type="rss" xmlUrl="https://www.moec.top/feed" htmlUrl="https://www.moec.top/" description=""/>
       <outline text="老周快救我" type="rss" xmlUrl="https://zxx.im/feed" htmlUrl="https://zxx.im" description="Life Is Fantastic."/>
       <outline text="老苏的blog" type="rss" xmlUrl="https://laosu.ml/atom.xml" htmlUrl="https://laosu.ml/" description="聚沙成塔，集腋成裘"/>
       <outline text="老虎不吃人" type="rss" xmlUrl="https://tdeh.top/feed/" htmlUrl="https://tdeh.top/" description="恋をしているから、その子は輝くんた"/>
