@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 11 Sep 2022 13:09:01</dateCreated>
+    <dateCreated>Mon, 12 Sep 2022 13:41:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -221,7 +221,7 @@
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
       <outline text="informal" type="rss" xmlUrl="http://www.informal.top/index.php/feed/" htmlUrl="http://www.informal.top/" description="一花一世界"/>
       <outline text="Inoki in the world" type="rss" xmlUrl="https://blog.inoki.cc/atom.xml" htmlUrl="https://blog.inoki.cc/" description=""/>
-      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Thoughts, stories and ideas"/>
+      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek truth, Find value"/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
       <outline text="iPotato" type="rss" xmlUrl="https://ipotato.me/feed" htmlUrl="https://ipotato.me" description=""/>
       <outline text="isaced" type="rss" xmlUrl="https://www.isaced.com/index.xml" htmlUrl="http://www.isaced.com" description="Recent content on isaced"/>
@@ -231,7 +231,7 @@
       <outline text="Jack Liu博客" type="rss" xmlUrl="https://www.jack-liu.com/rss.php" htmlUrl="https://www.jack-liu.com" description="专注于研究新西兰技术移民"/>
       <outline text="Jacky Tong" type="rss" xmlUrl="https://www.jackytong.com/feed" htmlUrl="http://www.jackytong.com/" description=""/>
       <outline text="JalenChuh" type="rss" xmlUrl="https://jalenz.cn/atom.xml" htmlUrl="https://jalenz.cn/" description="Jalen 的个人博客。"/>
-      <outline text="JanYork" type="rss" xmlUrl="https://www.ideaopen.cn/index.php/feed/" htmlUrl="https://ideaopen.cn/" description="又一个WordPress站点"/>
+      <outline text="JanYork" type="rss" xmlUrl="https://www.ideaopen.cn/index.php/feed/" htmlUrl="https://ideaopen.cn/" description="面朝大海,春暖花开"/>
       <outline text="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" type="rss" xmlUrl="https://jarodise.com/rss.xml" htmlUrl="https://jarodise.com/" description="中文互联网最权威的数字游民生活方式设计主题内容品牌"/>
       <outline text="Jartto's Blog" type="rss" xmlUrl="http://jartto.wang/atom.xml" htmlUrl="http://jartto.wang/" description="Jartto 个人博客"/>
       <outline text="Jason" type="rss" xmlUrl="https://atjason.com/atom.xml" htmlUrl="https://atjason.com" description="独立开发，自由职业"/>
