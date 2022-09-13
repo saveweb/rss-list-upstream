@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 12 Sep 2022 13:41:01</dateCreated>
+    <dateCreated>Tue, 13 Sep 2022 13:41:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -811,7 +811,7 @@
       <outline text="年华转瞬" type="rss" xmlUrl="https://blog.xiaket.org/feed.xml" htmlUrl="https://blog.xiaket.org" description="夏恺, xiaket, 读书人, Pythonista, DevOps"/>
       <outline text="幸吾有志" type="rss" xmlUrl="https://fmcf.cc/feed/" htmlUrl="https://www.symbk.cn/" description="生命的绽放"/>
       <outline text="幻想世界轻小说" type="rss" xmlUrl="https://book.1meji.com/feed" htmlUrl="https://book.1meji.com/" description="轻阅读"/>
-      <outline text="开源之心" type="rss" xmlUrl="http://sht2019.cn/atom.xml" htmlUrl="http://sht2019.cn/" description="有生之物不可能消散！永恒就顺着万物变迁，你活要活得幸福美满！"/>
+      <outline text="开源之心" type="rss" xmlUrl="http://sht2019.cn/atom.xml" htmlUrl="http://sht2019.cn/" description="I don’t believe the world is gonna change for me，So I’ll take the love I need"/>
       <outline text="开源实验室" type="rss" xmlUrl="https://www.kymjs.com/feed.xml" htmlUrl="https://kymjs.com" description="张涛的开源实验室"/>
       <outline text="开飞机的老张" type="rss" xmlUrl="https://kaifeiji.cc/atom.xml" htmlUrl="http://kaifeiji.cc/" description="写给未来的信"/>
       <outline text="异国迷宫的十字路口" type="rss" xmlUrl="https://blog.fivezha.cn/atom.xml" htmlUrl="http://blog.fivezha.cn/" description="一位弱鸡带学毕业生的个人博客"/>
