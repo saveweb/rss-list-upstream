@@ -37328,7 +37328,11 @@
         "idx": 1994,
         "name": "Cysime Moflu",
         "url": "https://blog.cysi.me/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "分享",
+          "随笔"
+        ],
         "sign": "",
         "feed": "https://blog.cysi.me/index.xml",
         "status": "unknown",
@@ -37337,7 +37341,7 @@
         "sitemap": "",
         "arch": "Hugo",
         "join_time": 1661262925639,
-        "update_time": 1661262925639,
+        "update_time": 1663211984993,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37346,7 +37350,9 @@
         "idx": 1995,
         "name": "D2PE",
         "url": "https://d2pe.com/",
-        "tags": [],
+        "tags": [
+          "文章较少"
+        ],
         "sign": "A true man does what he will, not what he must.",
         "feed": "https://d2pe.com/atom.xml",
         "status": "unknown",
@@ -37355,7 +37361,7 @@
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1661262987887,
-        "update_time": 1661262987887,
+        "update_time": 1663212074808,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37364,7 +37370,9 @@
         "idx": 1996,
         "name": "Dawnnnnnn",
         "url": "https://dawnnnnnn.com/",
-        "tags": [],
+        "tags": [
+          "文章较少"
+        ],
         "sign": "",
         "feed": "https://dawnnnnnn.com/atom.xml",
         "status": "unknown",
@@ -37373,7 +37381,7 @@
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1661263457307,
-        "update_time": 1661263457307,
+        "update_time": 1663213014878,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37382,7 +37390,11 @@
         "idx": 1997,
         "name": "DebugUself with DAMA",
         "url": "https://du.101.camp/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "思考",
+          "随笔"
+        ],
         "sign": "",
         "feed": "",
         "status": "unknown",
@@ -37391,7 +37403,7 @@
         "sitemap": "",
         "arch": "Jekyll",
         "join_time": 1661263694552,
-        "update_time": 1661263694552,
+        "update_time": 1663214632407,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37405,11 +37417,11 @@
         "feed": "https://blog.delphij.net/index.xml",
         "status": "unknown",
         "repeat": false,
-        "enabled": true,
+        "enabled": false,
         "sitemap": "",
         "arch": "Hugo",
         "join_time": 1661263963364,
-        "update_time": 1661263963364,
+        "update_time": 1663214737989,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37418,7 +37430,10 @@
         "idx": 1999,
         "name": "Dorole's Blog",
         "url": "https://dorole.com/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "随笔"
+        ],
         "sign": "影像，不因时间而消逝",
         "feed": "https://dorole.com/feed/",
         "status": "unknown",
@@ -37427,7 +37442,7 @@
         "sitemap": "",
         "arch": "WordPress",
         "join_time": 1661264112744,
-        "update_time": 1661264112744,
+        "update_time": 1663214773420,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37436,7 +37451,11 @@
         "idx": 2000,
         "name": "DreamCity",
         "url": "https://www.littleqiu.net/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "随笔",
+          "分享"
+        ],
         "sign": "愿你有一天，能与你最重要的人重逢",
         "feed": "https://www.littleqiu.net/atom.xml",
         "status": "unknown",
@@ -37445,7 +37464,7 @@
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1661264199651,
-        "update_time": 1661264199651,
+        "update_time": 1663214875693,
         "saveweb_id": "",
         "recommend": false
       },

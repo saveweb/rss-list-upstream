@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 14 Sep 2022 13:37:03</dateCreated>
+    <dateCreated>Thu, 15 Sep 2022 13:36:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -66,7 +66,7 @@
       <outline text="BoxCat" type="rss" xmlUrl="https://boxcat.cc/?feed=rss2" htmlUrl="https://boxcat.cc/" description="盒猫的小窝"/>
       <outline text="Bright LGM's Blog" type="rss" xmlUrl="https://brightliao.com/atom.xml" htmlUrl="http://brightliao.com/" description="Code speaks."/>
       <outline text="BTDOS - DOS怀旧网" type="rss" xmlUrl="http://www.btdos.com/rss.php" htmlUrl="http://www.btdos.com/" description="一个纪念DOS时代的怀旧网站"/>
-      <outline text="Cat in Chinese" type="rss" xmlUrl="https://www.blogger.com/feeds/7005036/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
+      <outline text="Cat in Chinese" type="rss" xmlUrl="https://chinese.catchen.me/feeds/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
       <outline text="Celia的博客" type="rss" xmlUrl="https://blog.becomingcelia.com/feed.php" htmlUrl="https://blog.becomingcelia.com/" description="读万卷书，行万里路。本人是Celia，曾立志当走南闯北游历天下的独立博客博主，现为喜欢整活的高中生一枚，在此记下数学、编程、设计方面各种小杂碎、见闻与生活点滴，时不时分享图书软件小资源。"/>
       <outline text="chai2010 的博客" type="rss" xmlUrl="https://chai2010.cn/index.xml" htmlUrl="https://chai2010.cn" description="Recent content on chai2010 的博客"/>
       <outline text="chaomai's blog" type="rss" xmlUrl="https://chaomai.github.io/atom.xml" htmlUrl="https://chaomai.github.io/" description=""/>
