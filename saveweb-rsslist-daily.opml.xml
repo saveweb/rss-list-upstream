@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 16 Sep 2022 13:36:02</dateCreated>
+    <dateCreated>Sat, 17 Sep 2022 13:08:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -66,7 +66,7 @@
       <outline text="BoxCat" type="rss" xmlUrl="https://boxcat.cc/?feed=rss2" htmlUrl="https://boxcat.cc/" description="盒猫的小窝"/>
       <outline text="Bright LGM's Blog" type="rss" xmlUrl="https://brightliao.com/atom.xml" htmlUrl="http://brightliao.com/" description="Code speaks."/>
       <outline text="BTDOS - DOS怀旧网" type="rss" xmlUrl="http://www.btdos.com/rss.php" htmlUrl="http://www.btdos.com/" description="一个纪念DOS时代的怀旧网站"/>
-      <outline text="Cat in Chinese" type="rss" xmlUrl="https://chinese.catchen.me/feeds/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
+      <outline text="Cat in Chinese" type="rss" xmlUrl="https://www.blogger.com/feeds/7005036/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
       <outline text="Celia的博客" type="rss" xmlUrl="https://blog.becomingcelia.com/feed.php" htmlUrl="https://blog.becomingcelia.com/" description="读万卷书，行万里路。本人是Celia，曾立志当走南闯北游历天下的独立博客博主，现为喜欢整活的高中生一枚，在此记下数学、编程、设计方面各种小杂碎、见闻与生活点滴，时不时分享图书软件小资源。"/>
       <outline text="chai2010 的博客" type="rss" xmlUrl="https://chai2010.cn/index.xml" htmlUrl="https://chai2010.cn" description="Recent content on chai2010 的博客"/>
       <outline text="chaomai's blog" type="rss" xmlUrl="https://chaomai.github.io/atom.xml" htmlUrl="https://chaomai.github.io/" description=""/>
@@ -1287,7 +1287,7 @@
       <outline text="推杯唤斩" type="rss" xmlUrl="https://talk.dyingfordrinking.com/feed/audio.xml" htmlUrl="https://talk.dyingfordrinking.com/" description="《推杯唤斩》是一档和酒有关的节目。在这档节目中，我们会开几瓶酒，坐下来和你扯扯我们对酒的了解。我们的醉后胡言如果能博君一笑，乃至口齿生津，酒兴大发，我们的目的就达到了。"/>
       <outline text="提前怀旧" type="rss" xmlUrl="https://pretro.xyz/feed" htmlUrl="https://pretro.xyz/" description="一切未来终将成为过去。欢迎收听《提前怀旧》，一档由任宁和 Rio 主持的科技评论节目。"/>
       <outline text="故事FM" type="rss" xmlUrl="https://storyfm.cn/feed/episodes" htmlUrl="https://storyfm.cn/" description="欢迎收听故事 FM 。在这里，我们用你的声音，讲述你的故事。每周一、三、五，各平台同步更新。"/>
-      <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。&lt;br&gt;&lt;hr&gt;&lt;p&gt; Our GDPR privacy policy was updated on August 8, 2022. Visit &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
+      <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。&lt;br&gt;&lt;hr&gt;&lt;p&gt; Hosted on Acast. See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
       <outline text="无业游民" type="rss" xmlUrl="https://theue.me/feed/podcast" htmlUrl="https://theue.me/" description="《无业游民》是一档关于自我探索的谈话节目，希望透过对他者的关怀和对世界的探索，让听众、也让我们可以多一些认识自己和建立自我。"/>
       <outline text="日语日语" type="rss" xmlUrl="https://riyu.io/hibi?format=rss" htmlUrl="https://riyu.io/hibi/" description="一档日语主题的短语音娱乐节目，由网站riyu.io制作播出。我们希望能帮助你发现进而独立体会日语乃至语言的趣味。有任何反馈欢迎发电邮至hi@riyu.io，同时也欢迎收听我们另一档更为严肃的节目：独立日。"/>
       <outline text="星箭廣播" type="rss" xmlUrl="https://open.firstory.me/rss/user/cl6dx7tc400dk01xj1qa16dfw" htmlUrl="https://podcast.starrocket.io/" description="&lt;p&gt;《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan、Julie 和 Liz，以及不定期出現的特別來賓，一起探索科技和創新的邊界。 本節目由三創育成基金會編輯部製作，每週更新。 &lt;br&gt;&lt;br&gt;&lt;br&gt;Powered by &lt;a href=&quot;https://firstory.me/&quot;&gt;Firstory Hosting&lt;/a&gt;&lt;/p&gt;"/>
