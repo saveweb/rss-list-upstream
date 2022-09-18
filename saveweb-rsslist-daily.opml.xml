@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sat, 17 Sep 2022 13:08:02</dateCreated>
+    <dateCreated>Sun, 18 Sep 2022 13:11:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -493,7 +493,7 @@
       <outline text="The Art of Chawye Hsu" type="rss" xmlUrl="https://chawyehsu.com/feed/atom.xml" htmlUrl="https://chawyehsu.com/" description="Personal Website of Chawye Hsu"/>
       <outline text="The Trivial" type="rss" xmlUrl="https://jessieji.com/feed.xml" htmlUrl="https://jessieji.com/" description="二三事"/>
       <outline text="the wandering potato 出遊的土豆" type="rss" xmlUrl="https://thewanderingpotato.github.io/feed.xml" htmlUrl="https://thewanderingpotato.github.io/" description=""/>
-      <outline text="The Will Will Web" type="rss" xmlUrl="http://feeds.feedburner.com/TheWillWillWeb" htmlUrl="https://blog.miniasp.com" description="記載著 Will 在網路世界的學習心得與技術分享"/>
+      <outline text="The Will Will Web" type="rss" xmlUrl="https://feeds.feedburner.com/TheWillWillWeb" htmlUrl="https://blog.miniasp.com" description="記載著 Will 在網路世界的學習心得與技術分享"/>
       <outline text="the5fire的技术博客" type="rss" xmlUrl="https://www.the5fire.com/rss/" htmlUrl="https://www.the5fire.com" description="关注python、vim、linux、web开发和互联网--life is short, we need python."/>
       <outline text="Thinking Null" type="rss" xmlUrl="https://awsl.blog/feed/" htmlUrl="https://awsl.blog/" description="又一个萌新..."/>
       <outline text="Thoughtful Nights" type="rss" xmlUrl="http://haoxiang.org/feed/" htmlUrl="http://haoxiang.org/" description="Computer Vision, Deep Learning, Robotics"/>
@@ -1003,7 +1003,7 @@
       <outline text="狸狌的平行世界" type="rss" xmlUrl="https://florestan-eusebius.github.io/feed.xml" htmlUrl="https://florestan-eusebius.github.io/" description="当理性从左半边开始崩塌"/>
       <outline text="猕猴の那年记忆" type="rss" xmlUrl="https://www.kiwiape.cn/feed/" htmlUrl="https://www.kiwiape.cn/" description="希望你的坚持都是因为热爱，而不是不甘"/>
       <outline text="猫叔" type="rss" xmlUrl="https://maoshu.me/feed" htmlUrl="https://maoshu.me/" description="养了一只叫火锅的猫"/>
-      <outline text="猫鱼的小窝  –  2Cat.Net" type="rss" xmlUrl="https://2cat.net/?feed=rss2" htmlUrl="https://2cat.net/" description=""/>
+      <outline text="猫鱼的小窝  –  2Cat.Net" type="rss" xmlUrl="https://2cat.net/feed/" htmlUrl="https://2cat.net/" description=""/>
       <outline text="玉令天下的Blog" type="rss" xmlUrl="http://yulingtianxia.com/atom.xml" htmlUrl="http://yulingtianxia.com" description="玉令天下的博客"/>
       <outline text="玉明-风起于青萍之末" type="rss" xmlUrl="https://xdym11235.com/feed/" htmlUrl="https://xdym11235.com/" description="风起于青萍之末"/>
       <outline text="王垠的博客" type="rss" xmlUrl="https://rsshub.app/blogs/wangyin" htmlUrl="https://www.yinwang.org/" description="王垠的博客 - 当然我在扯淡 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
