@@ -37473,7 +37473,10 @@
         "idx": 2001,
         "name": "EasyApple",
         "url": "http://easyapple.net/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "分享"
+        ],
         "sign": "Ideas, Techs and Apps",
         "feed": "https://easyapple.net/?feed=rss2",
         "status": "unknown",
@@ -37482,7 +37485,7 @@
         "sitemap": "",
         "arch": "WordPress",
         "join_time": 1661294988144,
-        "update_time": 1661294988144,
+        "update_time": 1663491809937,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37491,7 +37494,10 @@
         "idx": 2002,
         "name": "ek1ng's Blog",
         "url": "http://ek1ng.com/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "网络攻防"
+        ],
         "sign": "",
         "feed": "https://ek1ng.com/atom.xml",
         "status": "unknown",
@@ -37500,7 +37506,7 @@
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1661295092003,
-        "update_time": 1661295092003,
+        "update_time": 1663491955967,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37516,11 +37522,11 @@
         "feed": "https://eulerian.xyz/feed.xml",
         "status": "unknown",
         "repeat": false,
-        "enabled": true,
+        "enabled": false,
         "sitemap": "",
         "arch": "Jekyll",
         "join_time": 1661295255943,
-        "update_time": 1661295255943,
+        "update_time": 1663491995859,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37529,7 +37535,10 @@
         "idx": 2004,
         "name": "Farseerfc的小窩",
         "url": "https://farseerfc.me/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "雨露均沾"
+        ],
         "sign": "",
         "feed": "https://farseerfc.me/feeds/atom.xml",
         "status": "unknown",
@@ -37538,7 +37547,7 @@
         "sitemap": "",
         "arch": "Pelican",
         "join_time": 1661295455847,
-        "update_time": 1661295455847,
+        "update_time": 1663492183089,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37547,7 +37556,10 @@
         "idx": 2005,
         "name": "FH云彩博客",
         "url": "https://yuncaioo.com/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "分享"
+        ],
         "sign": "",
         "feed": "https://yuncaioo.com/feed",
         "status": "unknown",
@@ -37556,7 +37568,7 @@
         "sitemap": "",
         "arch": "WordPress",
         "join_time": 1661295785115,
-        "update_time": 1661295785115,
+        "update_time": 1663492259367,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37565,7 +37577,10 @@
         "idx": 2006,
         "name": "Free Mind",
         "url": "http://freemind.pluskid.org/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "阅读"
+        ],
         "sign": "",
         "feed": "https://freemind.pluskid.org/rss.xml",
         "status": "unknown",
@@ -37574,7 +37589,7 @@
         "sitemap": "",
         "arch": "",
         "join_time": 1661296005323,
-        "update_time": 1661296005323,
+        "update_time": 1663493545772,
         "saveweb_id": "",
         "recommend": false
       },
