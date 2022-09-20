@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 19 Sep 2022 13:41:02</dateCreated>
+    <dateCreated>Tue, 20 Sep 2022 13:37:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -684,7 +684,7 @@
       <outline text="勤奋的思远" type="rss" xmlUrl="https://lsybk.xyz/feed.php" htmlUrl="https://lsybk.xyz/" description="myHobby"/>
       <outline text="北京奇安盘古实验室科技有限公司" type="rss" xmlUrl="https://www.pangulab.cn/index.xml" htmlUrl="https://www.pangulab.cn/" description="Recent content on 北京奇安盘古实验室科技有限公司"/>
       <outline text="北门清燕" type="rss" xmlUrl="https://www.bmqy.net/feed" htmlUrl="https://www.bmqy.net/" description="分享生活、记录点滴，给回忆一个绽放的美丽。"/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="十贰的小窝" type="rss" xmlUrl="https://hehysh.github.io/atom.xml" htmlUrl="https://hehysh.github.io/" description="" frss:cssFullContent=".post-body"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="十贰的小窝" type="rss" xmlUrl="https://hehysh.github.io/atom.xml" htmlUrl="https://hehysh.github.io/" description="十贰的博客：生活，技术与思考" frss:cssFullContent=".post-body"/>
       <outline text="千古壹号的博客" type="rss" xmlUrl="https://qianguyihao.com/atom.xml" htmlUrl="https://www.qianguyihao.com/" description=""/>
       <outline text="千百度" type="rss" xmlUrl="https://blog.qaiu.top/rss.xml" htmlUrl="https://blog.qaiu.top/" description=""/>
       <outline text="半个C++程序员" type="rss" xmlUrl="http://cppdebug.com/feed" htmlUrl="http://cppdebug.com/" description=""/>
