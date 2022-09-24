@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 23 Sep 2022 13:35:02</dateCreated>
+    <dateCreated>Sat, 24 Sep 2022 13:16:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -878,7 +878,7 @@
       <outline text="星怒 – Starfury" type="rss" xmlUrl="https://starfury.tech/feed" htmlUrl="http://starfury.tech/" description="太阳之井的能量流遍索利达尔弓身"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="星空下的YZY" type="rss" xmlUrl="https://www.226yzy.com/atom.xml" htmlUrl="https://www.226yzy.com/" description="星空下的YZY" frss:cssFullContent="#article-container"/>
       <outline text="星辰日记" type="rss" xmlUrl="https://blog.xsot.cn/feed/" htmlUrl="https://blog.xsot.cn/" description="Just Write Something"/>
-      <outline text="春为曙" type="rss" xmlUrl="https://omoi.cc/feed/" htmlUrl="https://omoi.cc/" description="Your description here."/>
+      <outline text="春为曙" type="rss" xmlUrl="https://omoi.cc/feed/" htmlUrl="https://omoi.cc/" description="Just So So ..."/>
       <outline text="春水煎茶" type="rss" xmlUrl="http://feeds.feedburner.com/writings-sh" htmlUrl="https://writings.sh/" description="王超的个人博客"/>
       <outline text="晓白博客" type="rss" xmlUrl="https://blog.chs.pub/index.xml" htmlUrl="https://blog.chs.pub/" description="Recent content on 晓白博客"/>
       <outline text="晚晴幽草轩" type="rss" xmlUrl="https://www.jeffjade.com/atom.xml" htmlUrl="https://www.jeffjade.com" description="It's only too late if you decide it is. Get busy living. or get busy dying!"/>
@@ -1431,7 +1431,7 @@
       <outline text="KSkun's Blog" type="rss" xmlUrl="https://ksmeow.moe/feed/" htmlUrl="https://ksmeow.moe/" description="May all the beauty be blessed."/>
       <outline text="L1Yu's Blog | LL的博客" type="rss" xmlUrl="https://www.l1yu.com/feed/feed.xml" htmlUrl="https://www.l1yu.com" description="I am writing about my experiences as a naval navel-gazer."/>
       <outline text="Li Hui Blog" type="rss" xmlUrl="https://lihui.net/feed" htmlUrl="https://lihui.net/" description="想给世界留下一些东西"/>
-      <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/rss" htmlUrl="https://blog.lihaoya.com/" description="👋🏻  我叫浩子，欢迎来到我的博客。😃  我是一名全栈软件工程师，非常喜欢编程，比较擅长 Java 和 Golang 同时也喜欢创造一些小轮子，目前我正在运营着 typeType.io"/>
+      <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/feed/" htmlUrl="https://blog.lihaoya.com/" description="Lihaoya's Blog"/>
       <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="myfreax" type="rss" xmlUrl="https://www.myfreax.com/rss/" htmlUrl="https://www.myfreax.com/" description="编程,语言,IT,技术,玩家,linux,命令行,终端,黑客,工具,myfreax"/>
       <outline text="Ngzhio’s Blog" type="rss" xmlUrl="https://ngzhio.github.io/feed.xml" htmlUrl="https://ngzhio.github.io/" description="The personal blog of Shangzhi Huang"/>
