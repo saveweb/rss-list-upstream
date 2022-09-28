@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 27 Sep 2022 13:25:02</dateCreated>
+    <dateCreated>Wed, 28 Sep 2022 13:40:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -154,7 +154,7 @@
       <outline text="forecho 的独立博客" type="rss" xmlUrl="https://blog.forecho.com/atom.xml" htmlUrl="https://blog.forecho.com" description="Recent content on forecho's Blog"/>
       <outline text="Frange Zone" type="rss" xmlUrl="https://frangezone.github.io/feed.xml" htmlUrl="https://frangezone.github.io/" description="小贝壳，Web &amp; Mobile Lover，Product Mananger | 这里是 @小贝壳 的个人博客，与你一起发现更大的世界。"/>
       <outline text="Frank's Weblog" type="rss" xmlUrl="https://nyan.im/feed" htmlUrl="https://nyan.im/" description=""/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="Frank笔记" type="rss" xmlUrl="https://frank2019.me/rss.xml" htmlUrl="https://frank2019.me/" description="记录蜕变后的生活" frss:cssFullContent=".vditor-reset"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="Frank笔记" type="rss" xmlUrl="https://frank2019.me/rss.xml" htmlUrl="https://frank2019.me/" description="&lt;a href=&quot;https://www.foreverblog.cn/&quot; target=&quot;_blank&quot;&gt; &lt;img src=&quot;https://img.foreverblog.cn/logo_en_default.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;" frss:cssFullContent=".vditor-reset"/>
       <outline text="Fred Wu's Blog" type="rss" xmlUrl="https://fredwu.me/rss.xml" htmlUrl="https://fredwu.me/" description="Located in Melbourne, Australia, I am a software developer and leader with a strong focus on code craftsmanship, business value and user experience."/>
       <outline text="Free Mind" type="rss" xmlUrl="https://freemind.pluskid.org/rss.xml" htmlUrl="http://freemind.pluskid.org/" description=""/>
       <outline text="Frost's Blog" type="rss" xmlUrl="https://frost-lee.github.io/atom.xml" htmlUrl="https://frost-lee.github.io" description="Frost's Blog"/>
@@ -225,7 +225,7 @@
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
       <outline text="informal" type="rss" xmlUrl="http://www.informal.top/index.php/feed/" htmlUrl="http://www.informal.top/" description="一花一世界"/>
       <outline text="Inoki in the world" type="rss" xmlUrl="https://blog.inoki.cc/atom.xml" htmlUrl="https://blog.inoki.cc/" description=""/>
-      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek Truth, Find Value"/>
+      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek truth, Find value"/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
       <outline text="iPotato" type="rss" xmlUrl="https://ipotato.me/feed" htmlUrl="https://ipotato.me" description=""/>
       <outline xmlns:frss="https://freshrss.org/opml" text="isaced" type="rss" xmlUrl="https://www.isaced.com/index.xml" htmlUrl="http://www.isaced.com" description="Recent content on isaced" frss:cssFullContent=".post"/>
@@ -1339,6 +1339,11 @@
     </outline>
     <outline text="SSL错误">
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
+    </outline>
+    <outline text="Uncategorized">
+      <outline text="./kwaa.dev" type="rss" xmlUrl="https://kwaa.dev/atom.xml" htmlUrl="https://kwaa.dev/" description=""/>
+      <outline text="Seviche.cc" type="rss" xmlUrl="https://seviche.cc/atom.xml" htmlUrl="https://seviche.cc/" description="Tech / Code / Random Life"/>
+      <outline text="成功他媽．阿瑋" type="rss" xmlUrl="https://urara.kwchang0831.dev/atom.xml" htmlUrl="https://www.kwchang0831.dev/" description="成功最終會回來找他媽的"/>
     </outline>
     <outline text="不在首页显示">
       <outline text="Cryptospace" type="rss" xmlUrl="https://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com" description="Bitcoin Hodler，自由主义者，区块链创业者，ChainONE 社区发起人，dbarobin.com 博主，隐私极客。如您所见，本人发布的文章与评论内容仅代表本人观点。「万物之中，希望至美；至美之物，永不凋零。」"/>
