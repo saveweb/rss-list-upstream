@@ -37726,7 +37726,10 @@
         "idx": 2013,
         "name": "Hugo.Linの生活志",
         "url": "https://399s.com/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "短录"
+        ],
         "sign": "",
         "feed": "https://399s.com/feed",
         "status": "unknown",
@@ -37735,7 +37738,7 @@
         "sitemap": "",
         "arch": "WordPress",
         "join_time": 1661296965599,
-        "update_time": 1661296965599,
+        "update_time": 1664371429737,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37744,7 +37747,11 @@
         "idx": 2014,
         "name": "icebreaker",
         "url": "https://icebreaker.top/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "开发",
+          "短录"
+        ],
         "sign": "",
         "feed": "https://www.icebreaker.top/rss.xml",
         "status": "unknown",
@@ -37753,7 +37760,7 @@
         "sitemap": "",
         "arch": "",
         "join_time": 1661297301324,
-        "update_time": 1661297301324,
+        "update_time": 1664371836195,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37762,7 +37769,10 @@
         "idx": 2015,
         "name": "Jack.H 's Blog",
         "url": "https://www.jackh.cn/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "分享"
+        ],
         "sign": "",
         "feed": "https://jackh.cn/feed",
         "status": "unknown",
@@ -37771,7 +37781,7 @@
         "sitemap": "",
         "arch": "WordPress",
         "join_time": 1661297492175,
-        "update_time": 1661297492175,
+        "update_time": 1664371951989,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37780,7 +37790,11 @@
         "idx": 2016,
         "name": "Jimmy Tian's Blog",
         "url": "https://www.jimmytian.com/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "测评",
+          "随笔"
+        ],
         "sign": "",
         "feed": "https://www.jimmytian.com/feed/",
         "status": "unknown",
@@ -37789,7 +37803,7 @@
         "sitemap": "",
         "arch": "Typecho",
         "join_time": 1661297732025,
-        "update_time": 1661297732025,
+        "update_time": 1664372611907,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37798,7 +37812,10 @@
         "idx": 2017,
         "name": "jtr109's Castle-Ryan Li",
         "url": "https://www.jtr109.com/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "后端"
+        ],
         "sign": "",
         "feed": "https://www.jtr109.com/index.xml",
         "status": "unknown",
@@ -37807,7 +37824,7 @@
         "sitemap": "",
         "arch": "Hugo",
         "join_time": 1661301771239,
-        "update_time": 1661301771239,
+        "update_time": 1664372711412,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37816,7 +37833,11 @@
         "idx": 2018,
         "name": "Jun's Blog",
         "url": "https://junz.org/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "后端",
+          "学习"
+        ],
         "sign": "",
         "feed": "https://www.junz.org/index.xml",
         "status": "unknown",
@@ -37825,7 +37846,7 @@
         "sitemap": "",
         "arch": "Hugo",
         "join_time": 1661301821571,
-        "update_time": 1661301821571,
+        "update_time": 1664372791748,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37834,7 +37855,10 @@
         "idx": 2019,
         "name": "Just Snake",
         "url": "https://imsnake.cn/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "随笔"
+        ],
         "sign": "普吉岛的夏天永不停歇，我爱的少年一直热恋。",
         "feed": "https://imsnake.cn/?feed=rss2",
         "status": "unknown",
@@ -37843,7 +37867,7 @@
         "sitemap": "",
         "arch": "WordPress",
         "join_time": 1661302964907,
-        "update_time": 1661302964907,
+        "update_time": 1664372981945,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37852,7 +37876,10 @@
         "idx": 2020,
         "name": "Just for Life.",
         "url": "https://muyuuuu.github.io/",
-        "tags": [],
+        "tags": [
+          "技术",
+          "后端"
+        ],
         "sign": "",
         "feed": "https://muyuuuu.github.io/atom.xml",
         "status": "unknown",
@@ -37861,7 +37888,7 @@
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1661303251186,
-        "update_time": 1661303251186,
+        "update_time": 1664373052402,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37870,7 +37897,10 @@
         "idx": 2021,
         "name": "Karuboniru's Blog",
         "url": "https://yanqiyu.info/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "随笔"
+        ],
         "sign": "",
         "feed": "https://yanqiyu.info/atom.xml",
         "status": "unknown",
@@ -37879,7 +37909,7 @@
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1661303341116,
-        "update_time": 1661303341116,
+        "update_time": 1664374776153,
         "saveweb_id": "",
         "recommend": false
       },
@@ -37888,7 +37918,11 @@
         "idx": 2022,
         "name": "Lao_Liu Blog",
         "url": "https://blog.laoliu.eu.org/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "随笔",
+          "分享"
+        ],
         "sign": "",
         "feed": "https://blog.laoliu.eu.org/atom.xml",
         "status": "unknown",
@@ -37897,7 +37931,7 @@
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1661304085473,
-        "update_time": 1661304085473,
+        "update_time": 1664374972548,
         "saveweb_id": "",
         "recommend": false
       },

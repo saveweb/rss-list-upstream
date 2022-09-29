@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 28 Sep 2022 13:40:03</dateCreated>
+    <dateCreated>Thu, 29 Sep 2022 13:40:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -279,6 +279,7 @@
       <outline text="kok的笔记本" type="rss" xmlUrl="https://wocai.de/index.xml/" htmlUrl="https://wocai.de" description="Recent content on kok的笔记本"/>
       <outline text="KP" type="rss" xmlUrl="https://zkpeace.com/blog-cn/atom.xml" htmlUrl="http://zkpeace.com/blog-cn/" description="The Universe of KP"/>
       <outline text="Krypton's Blog" type="rss" xmlUrl="https://blog.2333332.xyz/atom.xml" htmlUrl="https://blog.2333332.xyz/" description="快来扑腾的博客"/>
+      <outline text="KSkun's Blog" type="rss" xmlUrl="https://ksmeow.moe/feed/" htmlUrl="https://ksmeow.moe/" description="May all the beauty be blessed."/>
       <outline text="KuangjuX(狂且)" type="rss" xmlUrl="http://blog.kuangjux.top/atom.xml" htmlUrl="http://blog.kuangjux.top/" description="风声雨声读书声 声声入耳 家事国事天下事 事事关心"/>
       <outline text="Kuricat's Blog" type="rss" xmlUrl="https://kuricat.com/rss" htmlUrl="https://kuricat.com" description=""/>
       <outline text="Kurococ Liu" type="rss" xmlUrl="https://blog.lkurococ.top/feed/" htmlUrl="https://blog.lkurococ.top/" description="被子外面很危险！"/>
@@ -1183,7 +1184,7 @@
       <outline text="青萌" type="rss" xmlUrl="https://zzbapp.com/feed.php" htmlUrl="https://zzbapp.com/" description="青萌"/>
       <outline text="静かな森" type="rss" xmlUrl="https://innei.ren/feed" htmlUrl="https://innei.ren/" description=""/>
       <outline text="静水流深" type="rss" xmlUrl="https://geekboy.org/atom.xml" htmlUrl="https://geekboy.org/" description=""/>
-      <outline text="非学·派" type="rss" xmlUrl="https://fxpai.com/feed/" htmlUrl="https://fxpai.com/" description="不与偏见和痼习为伍"/>
+      <outline text="非学·派" type="rss" xmlUrl="https://fxpai.com/feed/" htmlUrl="https://fxpai.com/" description="非学·派’ - 不与偏见和痼习为伍"/>
       <outline text="非理勿试" type="rss" xmlUrl="https://www.ntiy.com/feed" htmlUrl="https://www.ntiy.com/" description="NEVER TRY IT YOURSELF"/>
       <outline text="非礼勿言" type="rss" xmlUrl="https://feiliwuyan.com/feed/" htmlUrl="https://feiliwuyan.com/" description="華夏騎士=雪夜繁星=椰林物语..."/>
       <outline text="面俗轩" type="rss" xmlUrl="http://mexlinker.top:8000//feed" htmlUrl="http://120.25.76.251:8000/" description="Just another WordPress site"/>
@@ -1229,7 +1230,7 @@
     </outline>
     <outline text="Podcast|播客">
       <outline text="Anyway.FM 设计杂谈" type="rss" xmlUrl="https://anyway.fm/rss.xml" htmlUrl="https://anyway.fm/" description="由 UI 设计师 JJ Ying 和 Leon Gao 主播的 podcast，主题包括但不限于视觉设计，入选 2015 年 Apple 最佳播客榜单。Anyway.FM 是两个闷骚男抒发对设计热情的地方、Anyway.FM 是两个老男人吐槽世界的地方、Anyway.FM 也是一对好基友想把自己的见解分享给更多人的地方。"/>
-      <outline text="Barney’s Talk" type="rss" xmlUrl="https://anchor.fm/s/b418bc8/podcast/rss" htmlUrl="https://www.barneystalk.taipei/" description="「品味巴尼選，幫你選品味」，一個聊各種品味的訪談 Podcast，我們相信品味養成來自廣泛的興趣，而培養興趣，就是在累積熱愛生活的能力！#品味養成來自廣泛興趣&#10;&#10;會員訂閱方案 ▶️ http://go.barneystalk.taipei/Mixerbox&#10;🎤 聽眾訪談募集中 ▶️ https://www.surveycake.com/s/emAoX&#10;社群媒體連結▶️ https://barney.soci.vip&#10;官方網站▶️ https://www.barneystalk.taipei/&#10;蘋果播客評論▶️ http://go.barneystalk.taipei/giveme5star"/>
+      <outline text="Barney’s Talk" type="rss" xmlUrl="https://anchor.fm/s/b418bc8/podcast/rss" htmlUrl="https://www.barneystalk.taipei/" description="「品味巴尼選，幫你選品味」，一個聊各種品味的訪談 Podcast，我們相信品味養成來自廣泛的興趣，而培養興趣，就是在累積熱愛生活的能力！#品味養成來自廣泛興趣&#10;&#10;加入我們的 Discord ▶️ https://discord.gg/MVMEZVWRAw&#10;Mixerbox 收聽連結 ▶️ https://www.mbplayer.com/podcast/339054&#10;會員訂閱方案 ▶️ http://go.barneystalk.taipei/Mixerbox&#10;🎤 聽眾訪談募集中 ▶️ https://www.surveycake.com/s/emAoX&#10;社群媒體連結 ▶️ https://barney.soci.vip&#10;官方網站 ▶️ https://www.barneystalk.taipei/"/>
       <outline text="Byte.Coffee" type="rss" xmlUrl="https://byte.coffee/feed.xml" htmlUrl="https://byte.coffee/" description="一家以工科视角面对世界的字节咖啡店，提供一支独立极简、健康明亮、科学主调、人文余韵的声波咖啡豆。"/>
       <outline text="ByteTalk" type="rss" xmlUrl="https://bytetalk.fm/index.xml" htmlUrl="https://bytetalk.fm/" description="聊聊程序员的故事"/>
       <outline text="Casticle" type="rss" xmlUrl="https://feeds.fireside.fm/casticle/rss" htmlUrl="https://casticle.fm/" description="Casticle由「podcast」与「listicle」合成而来，是一档以推荐单集英文播客为节目形式的中文播客。每集节目将为你推荐三集各有特色的英文播客，评述它们的精彩之处，整理相关的内容资源与知识脉络。通过我们的筛选与策划，希望能帮助你直接获取一手信息，接触英文原生内容，享受随之而来的快乐与启发。"/>
@@ -1433,7 +1434,6 @@
       <outline text="EGOIST 庶民样本" type="rss" xmlUrl="https://egoist.sh/zh/atom.xml" htmlUrl="https://egoist.sh/" description="The coolest anime fan"/>
       <outline text="HUI 爷的小破站" type="rss" xmlUrl="https://www.ghost666.xyz/index.php/feed/" htmlUrl="https://www.ghost666.xyz/" description="与你同行"/>
       <outline text="infoier | 设计乘数" type="rss" xmlUrl="https://www.infoier.com/feed/" htmlUrl="https://www.infoier.com/" description="My WordPress Blog"/>
-      <outline text="KSkun's Blog" type="rss" xmlUrl="https://ksmeow.moe/feed/" htmlUrl="https://ksmeow.moe/" description="May all the beauty be blessed."/>
       <outline text="L1Yu's Blog | LL的博客" type="rss" xmlUrl="https://www.l1yu.com/feed/feed.xml" htmlUrl="https://www.l1yu.com" description="I am writing about my experiences as a naval navel-gazer."/>
       <outline text="Li Hui Blog" type="rss" xmlUrl="https://lihui.net/feed" htmlUrl="https://lihui.net/" description="想给世界留下一些东西"/>
       <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/feed/" htmlUrl="https://blog.lihaoya.com/" description="Lihaoya's Blog"/>
