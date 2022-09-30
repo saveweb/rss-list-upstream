@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 29 Sep 2022 13:40:03</dateCreated>
+    <dateCreated>Fri, 30 Sep 2022 13:37:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1436,7 +1436,7 @@
       <outline text="infoier | 设计乘数" type="rss" xmlUrl="https://www.infoier.com/feed/" htmlUrl="https://www.infoier.com/" description="My WordPress Blog"/>
       <outline text="L1Yu's Blog | LL的博客" type="rss" xmlUrl="https://www.l1yu.com/feed/feed.xml" htmlUrl="https://www.l1yu.com" description="I am writing about my experiences as a naval navel-gazer."/>
       <outline text="Li Hui Blog" type="rss" xmlUrl="https://lihui.net/feed" htmlUrl="https://lihui.net/" description="想给世界留下一些东西"/>
-      <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/feed/" htmlUrl="https://blog.lihaoya.com/" description="Lihaoya's Blog"/>
+      <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/feed/" htmlUrl="https://blog.lihaoya.com/" description="👋👋👋"/>
       <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="myfreax" type="rss" xmlUrl="https://www.myfreax.com/rss/" htmlUrl="https://www.myfreax.com/" description="编程,语言,IT,技术,玩家,linux,命令行,终端,黑客,工具,myfreax"/>
       <outline text="Ngzhio’s Blog" type="rss" xmlUrl="https://ngzhio.github.io/feed.xml" htmlUrl="https://ngzhio.github.io/" description="The personal blog of Shangzhi Huang"/>
