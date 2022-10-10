@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 09 Oct 2022 13:07:02</dateCreated>
+    <dateCreated>Mon, 10 Oct 2022 13:38:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -285,7 +285,7 @@
       <outline text="Kurococ Liu" type="rss" xmlUrl="https://blog.lkurococ.top/feed/" htmlUrl="https://blog.lkurococ.top/" description="被子外面很危险！"/>
       <outline text="Labno3" type="rss" xmlUrl="https://www.labno3.com/feed/" htmlUrl="https://www.labno3.com/" description="测试和实践"/>
       <outline text="laike9m's blog" type="rss" xmlUrl="https://laike9m.com/blog/rss/" htmlUrl="https://laike9m.com/blog/rss" description="Update on laike9m blog's articles."/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="Lao_Liu Blog" type="rss" xmlUrl="https://blog.laoliu.eu.org/atom.xml" htmlUrl="https://blog.laoliu.eu.org/" description="A place to say something." frss:cssFullContent=".markdown-body"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="Lao_Liu Blog" type="rss" xmlUrl="https://blog.udon.eu.org/atom.xml" htmlUrl="https://blog.laoliu.eu.org/" description="A place to say something." frss:cssFullContent=".markdown-body"/>
       <outline text="LarsCheng" type="rss" xmlUrl="https://www.larscheng.com/atom.xml" htmlUrl="https://www.larscheng.com/" description="分享Java技术, 记录点滴生活"/>
       <outline text="Lawrence" type="rss" xmlUrl="https://lawrenceli.me/atom.xml" htmlUrl="https://lawrenceli.me/" description="Blog"/>
       <outline text="LCZBlog" type="rss" xmlUrl="https://licaoz.com/feed/" htmlUrl="https://licaoz.com/" description="寄蜉蝣於天地，渺滄海之一粟。"/>
