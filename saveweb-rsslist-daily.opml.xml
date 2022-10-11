@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 10 Oct 2022 13:38:02</dateCreated>
+    <dateCreated>Tue, 11 Oct 2022 13:35:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -116,7 +116,7 @@
       <outline text="DoctorXu" type="rss" xmlUrl="https://xuyisheng.top/rss/" htmlUrl="https://xuyisheng.top/" description="Android-Kotlin-Flutter 修炼 &amp; 修仙"/>
       <outline text="Domon" type="rss" xmlUrl="https://www.domon.cn/rss/" htmlUrl="https://www.domon.cn/" description="学习 技术 个人成长"/>
       <outline text="Dorole's Blog" type="rss" xmlUrl="https://dorole.com/feed/" htmlUrl="https://dorole.com/" description="影像，不因时间而消逝"/>
-      <outline text="Dosk 技术站" type="rss" xmlUrl="https://www.dosk.win/feed.xml" htmlUrl="https://www.dosk.win/" description="SpringHack 的无名技术小站"/>
+      <outline text="Dosk 技术站" type="rss" xmlUrl="https://dosk.win/feed.xml" htmlUrl="https://www.dosk.win/" description="SpringHack 的无名技术小站"/>
       <outline text="Dr.Pika's Blog" type="rss" xmlUrl="https://blog.drpika.com/atom.xml" htmlUrl="https://blog.drpika.com/" description="不务正业の医生小屁卡的随笔"/>
       <outline text="Drawoceans的博客" type="rss" xmlUrl="https://blog.dort.me/feed/" htmlUrl="https://blog.dort.me/" description="去感受，去思考，去爱。"/>
       <outline text="DreamCity" type="rss" xmlUrl="https://www.littleqiu.net/atom.xml" htmlUrl="https://www.littleqiu.net/" description="愿你有一天，能与你最重要的人重逢"/>
@@ -225,7 +225,7 @@
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
       <outline text="informal" type="rss" xmlUrl="http://www.informal.top/index.php/feed/" htmlUrl="http://www.informal.top/" description="一花一世界"/>
       <outline text="Inoki in the world" type="rss" xmlUrl="https://blog.inoki.cc/atom.xml" htmlUrl="https://blog.inoki.cc/" description=""/>
-      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek Truth, Find Value"/>
+      <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Thoughts, stories and ideas."/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
       <outline text="iPotato" type="rss" xmlUrl="https://ipotato.me/feed" htmlUrl="https://ipotato.me" description=""/>
       <outline xmlns:frss="https://freshrss.org/opml" text="isaced" type="rss" xmlUrl="https://www.isaced.com/index.xml" htmlUrl="http://www.isaced.com" description="Recent content on isaced" frss:cssFullContent=".post"/>
@@ -613,7 +613,7 @@
       <outline text="一只会敲代码的Sheep" type="rss" xmlUrl="https://codeyang.pages.dev/atom.xml" htmlUrl="https://codeyang.pages.dev/" description="Koyang'Blog"/>
       <outline text="一只橙梓一个窝" type="rss" xmlUrl="https://blog.orangii.cn/feed/" htmlUrl="https://blog.orangii.cn/" description="可能会长出二叉树？"/>
       <outline text="一叶斋" type="rss" xmlUrl="https://xieguanglei.github.io/blog/feed.xml" htmlUrl="http://xieguanglei.github.io/" description="一叶障目 一叶知秋"/>
-      <outline text="一叶知秋" type="rss" xmlUrl="https://blog.rain.cx/feed/" htmlUrl="https://blog.rain.cx/" description="秋是悲欢离合，雨是一生错过。"/>
+      <outline text="一叶知秋" type="rss" xmlUrl="https://blog.rain.cx/feed/" htmlUrl="https://blog.rain.cx/" description="上穷碧落下黄泉，予心茫茫无所至。"/>
       <outline text="一座島 - 一座島，一個人，一個世界。" type="rss" xmlUrl="https://island.shaform.com/zh/index.xml" htmlUrl="https://island.shaform.com/zh/" description="Recent content on 一座島"/>
       <outline text="一恒的网志" type="rss" xmlUrl="https://hu86.cc/feed/" htmlUrl="https://hu86.cc/" description="与你分享我十多年来所见、所闻、所思、所做、所感、所悟。"/>
       <outline text="一杯茶" type="rss" xmlUrl="https://www.zuoyu.top/atom.xml" htmlUrl="https://www.zuoyu.top/" description="Follow your heart, Be yourself."/>
@@ -1293,7 +1293,7 @@
       <outline text="掘火电台" type="rss" xmlUrl="https://www.digforfire.net/digforfire_radio_feed.xml" htmlUrl="https://www.digforfire.net/?cat=7" description="掘火档案（https://www.digforfire.net) 有声部分。除了使用podcast收听外，您还可以访问掘火主页收听并查阅曲目/唱片/附带视频及其他更多资料，或到苹果appstore下载掘火电台app。电台封面设计: vac, petit, yowen, mog, zzz"/>
       <outline text="推杯唤斩" type="rss" xmlUrl="https://talk.dyingfordrinking.com/feed/audio.xml" htmlUrl="https://talk.dyingfordrinking.com/" description="《推杯唤斩》是一档和酒有关的节目。在这档节目中，我们会开几瓶酒，坐下来和你扯扯我们对酒的了解。我们的醉后胡言如果能博君一笑，乃至口齿生津，酒兴大发，我们的目的就达到了。"/>
       <outline text="提前怀旧" type="rss" xmlUrl="https://pretro.xyz/feed" htmlUrl="https://pretro.xyz/" description="一切未来终将成为过去。欢迎收听《提前怀旧》，一档由任宁和 Rio 主持的科技评论节目。"/>
-      <outline text="故事FM" type="rss" xmlUrl="https://storyfm.cn/feed/episodes" htmlUrl="https://storyfm.cn/" description="欢迎收听故事 FM 。在这里，我们用你的声音，讲述你的故事。每周一、三、五，各平台同步更新。"/>
+      <outline text="故事FM" type="rss" xmlUrl="https://storyfm.cn/feed/episodes" htmlUrl="https://storyfm.cn/" description="欢迎收听故事 FM 。在这里，我们用你的声音，讲述你的故事。"/>
       <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。&lt;br&gt;&lt;hr&gt;&lt;p&gt; Hosted on Acast. See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
       <outline text="无业游民" type="rss" xmlUrl="https://theue.me/feed/podcast" htmlUrl="https://theue.me/" description="《无业游民》是一档关于自我探索的谈话节目，希望透过对他者的关怀和对世界的探索，让听众、也让我们可以多一些认识自己和建立自我。"/>
       <outline text="日语日语" type="rss" xmlUrl="https://riyu.io/hibi?format=rss" htmlUrl="https://riyu.io/hibi/" description="一档日语主题的短语音娱乐节目，由网站riyu.io制作播出。我们希望能帮助你发现进而独立体会日语乃至语言的趣味。有任何反馈欢迎发电邮至hi@riyu.io，同时也欢迎收听我们另一档更为严肃的节目：独立日。"/>
