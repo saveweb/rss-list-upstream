@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 12 Oct 2022 13:11:01</dateCreated>
+    <dateCreated>Thu, 13 Oct 2022 13:35:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -23,7 +23,7 @@
       <outline text="7Wate`s Blog" type="rss" xmlUrl="https://blog.7wate.com/rss.xml" htmlUrl="https://blog.7wate.com/" description=""/>
       <outline text="Aaron's Blog" type="rss" xmlUrl="https://blog.aoaoao.me/index.xml" htmlUrl="https://blog.aoaoao.me/" description="Recent content on Aaron's Blog"/>
       <outline text="Aemon's Blog" type="rss" xmlUrl="https://aemoncao.github.io/rss2.xml" htmlUrl="https://www.aemon.top/" description=""/>
-      <outline text="Aicsukの世界" type="rss" xmlUrl="https://www.aicsuk.net/feed/" htmlUrl="https://www.aicsuk.moe/" description="一个小小的博客"/>
+      <outline text="Aicsukの世界" type="rss" xmlUrl="https://www.aicsuk.net/atom.xml" htmlUrl="https://www.aicsuk.net/" description="一个小小的博客"/>
       <outline text="AiDai" type="rss" xmlUrl="https://aidaip.github.io/feed.xml" htmlUrl="https://aidaip.github.io/" description="AiDai"/>
       <outline text="Airing 的小屋" type="rss" xmlUrl="https://me.ursb.me/feed" htmlUrl="https://me.ursb.me/" description="Airing 的小屋"/>
       <outline text="Aiur · Zellux 的博客" type="rss" xmlUrl="https://blog.yxwang.me/index.xml" htmlUrl="https://blog.yxwang.me/" description="Recent content on Aiur · Zellux 的博客"/>
@@ -67,7 +67,7 @@
       <outline text="BoxCat" type="rss" xmlUrl="https://boxcat.cc/?feed=rss2" htmlUrl="https://boxcat.cc/" description="盒猫的小窝"/>
       <outline text="Bright LGM's Blog" type="rss" xmlUrl="https://brightliao.com/atom.xml" htmlUrl="http://brightliao.com/" description="Code speaks."/>
       <outline text="BTDOS - DOS怀旧网" type="rss" xmlUrl="http://www.btdos.com/rss.php" htmlUrl="http://www.btdos.com/" description="一个纪念DOS时代的怀旧网站"/>
-      <outline text="Cat in Chinese" type="rss" xmlUrl="https://chinese.catchen.me/feeds/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
+      <outline text="Cat in Chinese" type="rss" xmlUrl="https://www.blogger.com/feeds/7005036/posts/default?redirect=false" htmlUrl="https://chinese.catchen.me" description=""/>
       <outline text="Celia的博客" type="rss" xmlUrl="https://blog.becomingcelia.com/feed.php" htmlUrl="https://blog.becomingcelia.com/" description="读万卷书，行万里路。本人是Celia，曾立志当走南闯北游历天下的独立博客博主，现为喜欢整活的高中生一枚，在此记下数学、编程、设计方面各种小杂碎、见闻与生活点滴，时不时分享图书软件小资源。"/>
       <outline text="chai2010 的博客" type="rss" xmlUrl="https://chai2010.cn/index.xml" htmlUrl="https://chai2010.cn" description="Recent content on chai2010 的博客"/>
       <outline text="chaomai's blog" type="rss" xmlUrl="https://chaomai.github.io/atom.xml" htmlUrl="https://chaomai.github.io/" description=""/>
@@ -118,7 +118,6 @@
       <outline text="Dorole's Blog" type="rss" xmlUrl="https://dorole.com/feed/" htmlUrl="https://dorole.com/" description="影像，不因时间而消逝"/>
       <outline text="Dosk 技术站" type="rss" xmlUrl="https://dosk.win/feed.xml" htmlUrl="https://www.dosk.win/" description="SpringHack 的无名技术小站"/>
       <outline text="Dr.Pika's Blog" type="rss" xmlUrl="https://blog.drpika.com/atom.xml" htmlUrl="https://blog.drpika.com/" description="不务正业の医生小屁卡的随笔"/>
-      <outline text="Drawoceans的博客" type="rss" xmlUrl="https://blog.dort.me/feed/" htmlUrl="https://blog.dort.me/" description="去感受，去思考，去爱。"/>
       <outline text="DreamCity" type="rss" xmlUrl="https://www.littleqiu.net/atom.xml" htmlUrl="https://www.littleqiu.net/" description="愿你有一天，能与你最重要的人重逢"/>
       <outline text="Dvel's Blog" type="rss" xmlUrl="https://dvel.me/index.xml" htmlUrl="https://dvel.me/" description="Recent content on Dvel's Blog"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="easeapi blog" type="rss" xmlUrl="https://easeapi.com/blog/feed.xml" htmlUrl="https://easeapi.com/blog" description="移动互联网技术原创博客，分享开发技术、观点心得、创意产品和职业感想。" frss:cssFullContent=".entry-content"/>
@@ -235,7 +234,7 @@
       <outline text="Jack.H 's Blog" type="rss" xmlUrl="https://jackh.cn/feed" htmlUrl="https://www.jackh.cn/" description="Life is a movie."/>
       <outline text="Jacky Tong" type="rss" xmlUrl="https://www.jackytong.com/feed" htmlUrl="http://www.jackytong.com/" description=""/>
       <outline text="JalenChuh" type="rss" xmlUrl="https://jalenz.cn/atom.xml" htmlUrl="https://jalenz.cn/" description="Jalen 的个人博客。"/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="JanYork" type="rss" xmlUrl="https://www.ideaopen.cn/index.php/feed/" htmlUrl="https://ideaopen.cn/" description="面朝大海,春暖花开" frss:cssFullContent=".song"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="JanYork" type="rss" xmlUrl="https://www.ideaopen.cn/?feed=rss2" htmlUrl="https://ideaopen.cn/" description="面朝大海,春暖花开" frss:cssFullContent=".song"/>
       <outline text="Jarodise – 数字游民部落 – A Chinese Digital Nomad Blog" type="rss" xmlUrl="https://jarodise.com/rss.xml" htmlUrl="https://jarodise.com/" description="中文互联网最权威的数字游民生活方式设计主题内容品牌"/>
       <outline text="Jartto's Blog" type="rss" xmlUrl="http://jartto.wang/atom.xml" htmlUrl="http://jartto.wang/" description="Jartto 个人博客"/>
       <outline text="Jason" type="rss" xmlUrl="https://atjason.com/atom.xml" htmlUrl="https://atjason.com" description="独立开发，自由职业"/>
@@ -1224,6 +1223,9 @@
       <outline text="🏠 Jie Li's Blog 🏠" type="rss" xmlUrl="https://www.pupboss.com/rss/" htmlUrl="https://www.pupboss.com/" description="🚘 On-road / 📉 US Stock / 💻 Full Stack Engineer / ®️ ENTJ"/>
       <outline text="🍂りゅう" type="rss" xmlUrl="https://www.ryuu.top/atom.xml" htmlUrl="https://www.ryuu.top/" description="個人的な絵の共有と学習経験の記録"/>
       <outline text="𝙋𝙞𝙣𝙠 𝙏𝙝𝙚𝙢𝙚" type="rss" xmlUrl="https://kam.space/feed/" htmlUrl="https://kam.space/" description="私人朋友圈主题"/>
+    </outline>
+    <outline text="BOT严格">
+      <outline text="Drawoceans的博客" type="rss" xmlUrl="https://blog.dort.me/feed/" htmlUrl="https://blog.dort.me/" description="去感受，去思考，去爱。"/>
     </outline>
     <outline text="newsletter">
       <outline text="世界走走" type="rss" xmlUrl="https://sehseh.substack.com/feed" htmlUrl="https://sehseh.substack.com/" description="具性別意識的國際新聞全媒體，專屬對世界充滿好奇的妳。"/>
