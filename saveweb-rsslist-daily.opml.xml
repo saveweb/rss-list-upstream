@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 13 Oct 2022 13:35:02</dateCreated>
+    <dateCreated>Fri, 14 Oct 2022 13:36:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1317,7 +1317,7 @@
       <outline text="生产力维基" type="rss" xmlUrl="https://productivity.wiki/feed/podcast" htmlUrl="https://productivity.wiki" description="一个关注时间管理、知识管理、目标管理、项目管理、精力管理和个人效能的播客. 欢迎一同讨论生产力工具的心得！"/>
       <outline text="生活在别处" type="rss" xmlUrl="https://feeds.fireside.fm/life-is-elsewhere/rss" htmlUrl="https://life-is-elsewhere.com/" description="欢迎光临“生活在别处”，我是主播响响。“生活在别处”，是一档 和嘉宾们一起探索打卡上班之外另一种人生体验 的聊天节目，内容与嘉宾的日常执迷的爱好高度相关，涉及且不限于，文学、电影、博物、绘画等等。如果你感兴趣，可以在Apple podcast, Spotify以及其他泛用性播客和官网 life-is-elsewhere.com 收听和订阅本节目。"/>
       <outline text="疯投圈" type="rss" xmlUrl="https://crazy.capital/feed" htmlUrl="https://crazy.capital/" description="做中文世界最有意思的商业类播客"/>
-      <outline text="疲惫娇娃 CyberPink" type="rss" xmlUrl="http://cyberpinkfm.xyz/feed.xml" htmlUrl="https://cyberpinkfm.typlog.io/" description="一档从饭桌聊到宇宙深处的泛文化播客，用女性的声波延展对世界的参与和想象"/>
+      <outline text="疲惫娇娃 CyberPink" type="rss" xmlUrl="https://cyberpinkfm.xyz/feed.xml" htmlUrl="https://cyberpinkfm.typlog.io/" description="一档从饭桌聊到宇宙深处的泛文化播客，用女性的声波延展对世界的参与和想象"/>
       <outline text="看理想电台" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" description="「看理想」App，一个陪你成长的知识剧场。&#10;看理想电台，由看理想出品，入选“2019 Apple 最佳播客”。每周四更新，不一定有用的电台杂志。&#10;欢迎下载「看理想」App留言互动。"/>
       <outline text="硬地文化" type="rss" xmlUrl="https://www.indie.cn/feed/" htmlUrl="https://www.indie.cn/" description=""/>
       <outline text="硬影像" type="rss" xmlUrl="https://hardimage.pro/feed/audio.xml" htmlUrl="https://hardimage.pro/" description="《硬影像》由 IPN 出品，由罗登主持，是一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。"/>
