@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2157,
+    "total": 2158,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -41296,6 +41296,29 @@
         "arch": "hexo",
         "join_time": 1665826053231,
         "update_time": 1665826053231,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "c63142ff-0edd-475e-af9a-261ccd5897bc",
+        "idx": 2201,
+        "name": "嘀咕",
+        "url": "https://digu.plus/",
+        "tags": [
+          "生活",
+          "随笔",
+          "记录",
+          "Typecho"
+        ],
+        "sign": "留下痕迹，证明这个世界我来过。",
+        "feed": "https://digu.plus/feed",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://digu.plus/sitemap.xml",
+        "arch": "Typecho",
+        "join_time": 1665902006672,
+        "update_time": 1665902006672,
         "saveweb_id": "",
         "recommend": false
       }
