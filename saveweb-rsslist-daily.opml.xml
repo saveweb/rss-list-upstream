@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 18 Oct 2022 13:41:03</dateCreated>
+    <dateCreated>Wed, 19 Oct 2022 13:45:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -842,7 +842,7 @@
       <outline text="思有云" type="rss" xmlUrl="https://www.ioiox.com/feed/" htmlUrl="https://www.ioiox.com" description="IOIOX 个人博客 生活记录 原创文章 技术分享 资源分享 群晖技巧 群晖教程 免费frp 免费内网穿透"/>
       <outline text="思泉 | Jev0n" type="rss" xmlUrl="https://jev0n.com/feed/" htmlUrl="https://jev0n.com/" description="Coder,CTFer,专业写BUG"/>
       <outline text="思考问题的熊" type="rss" xmlUrl="https://kaopubear.top/blog/atom.xml" htmlUrl="https://kaopubear.top/blog" description="很高兴和你相遇&lt;br&gt;这里正在记录我的所思所学&lt;br&gt;邮箱 hi@kaopubear.top"/>
-      <outline text="惶心博客" type="rss" xmlUrl="https://huangxin.dev/atom.xml" htmlUrl="https://huangxin.dev/" description="”时间 是让人措不及防的东西“"/>
+      <outline text="惶心博客" type="rss" xmlUrl="https://huangxin.dev/atom.xml" htmlUrl="https://huangxin.dev/" description="”然后啊 然后就可以轻轻或者沉沉地睡去“"/>
       <outline text="愆伏" type="rss" xmlUrl="https://www.tortorse.com/atom.xml" htmlUrl="https://www.tortorse.com/" description="互联网杂谈"/>
       <outline text="成功他媽．阿瑋" type="rss" xmlUrl="https://urara.kwchang0831.dev/atom.xml" htmlUrl="https://www.kwchang0831.dev/" description="成功最終會回來找他媽的"/>
       <outline text="我叫尤加利" type="rss" xmlUrl="https://youjiali1995.github.io/feed.xml" htmlUrl="https://youjiali1995.github.io/" description="My blog."/>
@@ -1351,6 +1351,7 @@
     </outline>
     <outline text="Uncategorized">
       <outline text="思斯作响" type="rss" xmlUrl="http://thinkaloud.cc/feed" htmlUrl="http://thinkaloud.cc/" description=""/>
+      <outline text="蜗窝科技" type="rss" xmlUrl="http://www.wowotech.net/rss.php" htmlUrl="http://www.wowotech.net/" description="慢下来，享受技术。"/>
     </outline>
     <outline text="不在首页显示">
       <outline text="Cryptospace" type="rss" xmlUrl="https://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com" description="Bitcoin Hodler，自由主义者，区块链创业者，ChainONE 社区发起人，dbarobin.com 博主，隐私极客。如您所见，本人发布的文章与评论内容仅代表本人观点。「万物之中，希望至美；至美之物，永不凋零。」"/>
