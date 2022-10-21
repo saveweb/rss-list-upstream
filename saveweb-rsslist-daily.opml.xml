@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 20 Oct 2022 13:08:02</dateCreated>
+    <dateCreated>Fri, 21 Oct 2022 13:17:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -751,7 +751,7 @@
       <outline text="失眠海峡" type="rss" xmlUrl="https://blog.imalan.cn/feed/index.xml" htmlUrl="https://blog.imalan.cn" description="我要与你坦诚相见"/>
       <outline text="奔跑中的奶酪" type="rss" xmlUrl="https://www.runningcheese.com/feed" htmlUrl="https://www.runningcheese.com/" description="有智，有趣，有爱"/>
       <outline text="奶茶鸭naichaDuck的博客" type="rss" xmlUrl="https://naichaduck.github.io/atom.xml" htmlUrl="https://naichaduck.github.io/" description=""/>
-      <outline text="好墨：夏和帆的博客" type="rss" xmlUrl="https://hao.ink/feed/" htmlUrl="https://hao.ink/" description="发布自己的书法作品、小说作品、阅读笔记、和生活日常的博客"/>
+      <outline text="好墨：夏和帆的博客" type="rss" xmlUrl="https://hao.ink/feed/" htmlUrl="https://hao.ink/" description="习字/写作/人生"/>
       <outline text="好工具周刊" type="rss" xmlUrl="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" htmlUrl="https://discuss-cn.bestxtools.com/" description="weekly 标签新帖"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="如是乎 · 生活百味随笔" type="rss" xmlUrl="http://rushihu.com/feed" htmlUrl="http://rushihu.com/" description="书写使人无比孤单" frss:cssFullContent=".entry"/>
       <outline text="如有乐享" type="rss" xmlUrl="https://51.ruyo.net/feed/" htmlUrl="https://51.ruyo.net/" description="分享是一种美德，是一种态度。"/>
