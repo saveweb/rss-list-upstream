@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sat, 22 Oct 2022 13:11:01</dateCreated>
+    <dateCreated>Sun, 23 Oct 2022 13:13:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1407,7 +1407,7 @@
       <outline text="typeblog" type="rss" xmlUrl="https://typeblog.net/rss/" htmlUrl="https://typeblog.net/" description=""/>
       <outline text="YDLAN'S BLOG" type="rss" xmlUrl="https://blog.ydlan.cn/atom.xml" htmlUrl="https://blog.ydlan.cn/" description="一起来探索吧！"/>
       <outline text="Zeove'blog" type="rss" xmlUrl="https://zeove.com/feed" htmlUrl="https://zeove.com/" description="偶尔写写博客，吐槽下生活，分享点自己觉得有意思的东西。"/>
-      <outline text="一间茅庐 (vzchn's blog)" type="rss" xmlUrl="https://blog.vzchn.com/feed/" htmlUrl="https://blog.maolu.one" description="保持好奇心"/>
+      <outline text="一间茅庐 (vzchn's blog)" type="rss" xmlUrl="https://yipai.me/feed" htmlUrl="https://blog.maolu.one" description="胡一派的个人博客"/>
       <outline text="两个 iT 大叔" type="rss" xmlUrl="https://itdashu.podssible.com/feeds/rss.xml" htmlUrl="https://itdashu.podssible.com" description=""/>
       <outline text="伊艾拉博客| 一个站点 | 伊艾拉的个人站点 -伊艾拉的博客" type="rss" xmlUrl="https://onesite.pro/atom.xml" htmlUrl="https://onesite.pro/" description="Hello"/>
       <outline text="吃面条么" type="rss" xmlUrl="http://feed.miantiao.me/" htmlUrl="https://chi.miantiao.me" description=""/>
