@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 23 Oct 2022 13:13:02</dateCreated>
+    <dateCreated>Mon, 24 Oct 2022 13:43:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1352,6 +1352,7 @@
     <outline text="Uncategorized">
       <outline text="思斯作响" type="rss" xmlUrl="http://thinkaloud.cc/feed" htmlUrl="http://thinkaloud.cc/" description=""/>
       <outline text="蜗窝科技" type="rss" xmlUrl="http://www.wowotech.net/rss.php" htmlUrl="http://www.wowotech.net/" description="慢下来，享受技术。"/>
+      <outline text="螺莉莉数据中心" type="rss" xmlUrl="https://roriri.one/atom.xml" htmlUrl="https://roriri.one/" description=""/>
     </outline>
     <outline text="不在首页显示">
       <outline text="Cryptospace" type="rss" xmlUrl="https://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com" description="Bitcoin Hodler，自由主义者，区块链创业者，ChainONE 社区发起人，dbarobin.com 博主，隐私极客。如您所见，本人发布的文章与评论内容仅代表本人观点。「万物之中，希望至美；至美之物，永不凋零。」"/>
