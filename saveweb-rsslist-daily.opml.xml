@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 24 Oct 2022 13:43:01</dateCreated>
+    <dateCreated>Tue, 25 Oct 2022 13:44:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -255,7 +255,6 @@
       <outline text="JohnSmith的小家" type="rss" xmlUrl="https://xsn123.top/feed/" htmlUrl="https://xsn123.top/" description="本站分享自己在生活学习中的一些心得体会，如果你也喜欢欢迎关注我"/>
       <outline text="Josherich的博客" type="rss" xmlUrl="https://www.josherich.me/feed.xml" htmlUrl="https://www.josherich.me/" description="home sweet home"/>
       <outline text="Joway's Blog" type="rss" xmlUrl="https://blog.joway.io/index.xml" htmlUrl="https://blog.joway.io/" description="Recent content on Random Thoughts"/>
-      <outline text="JoyQi" type="rss" xmlUrl="https://joyqi.com/feed/" htmlUrl="https://joyqi.com/" description="Do not go gentle into that good night."/>
       <outline text="jtr109's Castle" type="rss" xmlUrl="https://www.jtr109.com/index.xml" htmlUrl="https://www.jtr109.com/" description="Recent content on jtr109's Castle"/>
       <outline text="Jun's Blog" type="rss" xmlUrl="https://www.junz.org/index.xml" htmlUrl="https://junz.org/" description="Recent content on Jun's Blog"/>
       <outline text="Just for Life." type="rss" xmlUrl="https://muyuuuu.github.io/atom.xml" htmlUrl="https://muyuuuu.github.io/" description="明月更几时"/>
@@ -296,6 +295,7 @@
       <outline text="LiesAuer's Blog" type="rss" xmlUrl="https://www.liesauer.net/blog/feed/" htmlUrl="https://www.liesauer.net/" description=""/>
       <outline text="Life is an adventure" type="rss" xmlUrl="https://www.hannahwu.com/feed/" htmlUrl="https://www.hannahwu.com/" description="They say you can’t turn a bad girl good but once a good girl’s gone bad, she’s gone forever."/>
       <outline text="Life Sailor" type="rss" xmlUrl="https://www.lifesailor.me/feed" htmlUrl="https://www.lifesailor.me/" description="One more struggle, and I am free"/>
+      <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/feed/" htmlUrl="https://blog.lihaoya.com/" description="👋👋👋"/>
       <outline text="lijiakaijun" type="rss" xmlUrl="https://blog.lijiakaijun.cyou/atom.xml" htmlUrl="https://blog.lijiakaijun.cyou/" description="跟随梦想的脚步，感受生命的温度"/>
       <outline text="limboy's HQ" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="https://limboy.me" description="Recent content on Limboy's HQ"/>
       <outline text="Lin‘s Blog" type="rss" xmlUrl="https://blog.bdyz.xyz/?feed=rss2" htmlUrl="https://blog.bdyz.xyz/" description="Lin‘s Blog"/>
@@ -736,8 +736,6 @@
       <outline text="土木坛子" type="rss" xmlUrl="https://tumutanzi.com/feed" htmlUrl="https://tumutanzi.com/" description="和光同尘，与时舒卷"/>
       <outline text="土豆不好吃" type="rss" xmlUrl="https://dmesg.app/feed" htmlUrl="https://dmesg.app/" description="Remember me."/>
       <outline text="坐卧行吟" type="rss" xmlUrl="https://lihuazhi.com/feed/" htmlUrl="https://lihuazhi.com/" description="活在这珍贵的人间 / 人类和植物一样幸福 / 爱情和雨水一样幸福"/>
-      <outline text="城南以南花亦开" type="rss" xmlUrl="https://blog.coonaa.cn/feed/" htmlUrl="https://blog.coonaa.cn/" description="生活原本沉闷，但跑起来就会有风。"/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="城南旧事" type="rss" xmlUrl="https://blog.loli.top/feed/" htmlUrl="https://blog.loli.top/" description="透过文字和影像记忆，我们延长了至少三倍的生命。" frss:cssFullContent=".post-content"/>
       <outline text="基石" type="rss" xmlUrl="https://sci-fic.xyz/feed/" htmlUrl="https://sci-fic.xyz/" description="基地-银河的边缘"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="夏·祈·楓" type="rss" xmlUrl="https://flymc.cc/atom.xml" htmlUrl="https://flymc.cc/" description="" frss:cssFullContent=".entry-content"/>
       <outline text="多媒体开发札记" type="rss" xmlUrl="https://glumes.com/index.xml" htmlUrl="https://glumes.com" description="Recent content on 音视频开发进阶"/>
@@ -750,7 +748,7 @@
       <outline xmlns:frss="https://freshrss.org/opml" text="天祺围棋" type="rss" xmlUrl="https://www.tianqiweiqi.com/feed" htmlUrl="https://www.tianqiweiqi.com/" description="围棋分段位【打谱】【猜局】提高法" frss:cssFullContent=".entry-content"/>
       <outline text="失眠海峡" type="rss" xmlUrl="https://blog.imalan.cn/feed/index.xml" htmlUrl="https://blog.imalan.cn" description="我要与你坦诚相见"/>
       <outline text="奔跑中的奶酪" type="rss" xmlUrl="https://www.runningcheese.com/feed" htmlUrl="https://www.runningcheese.com/" description="有智，有趣，有爱"/>
-      <outline text="奶茶鸭naichaDuck的博客" type="rss" xmlUrl="https://naichaduck.github.io/atom.xml" htmlUrl="https://naichaduck.github.io/" description=""/>
+      <outline text="奶茶鸭naichaDuck的博客" type="rss" xmlUrl="https://naichaduck.github.io/index.xml" htmlUrl="https://naichaduck.github.io/" description="Recent content on 奶茶鸭TeaDuck的博客"/>
       <outline text="好墨：夏和帆的博客" type="rss" xmlUrl="https://hao.ink/feed/" htmlUrl="https://hao.ink/" description="夏和帆的书法练习记录"/>
       <outline text="好工具周刊" type="rss" xmlUrl="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" htmlUrl="https://discuss-cn.bestxtools.com/" description="weekly 标签新帖"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="如是乎 · 生活百味随笔" type="rss" xmlUrl="http://rushihu.com/feed" htmlUrl="http://rushihu.com/" description="书写使人无比孤单" frss:cssFullContent=".entry"/>
@@ -773,7 +771,6 @@
       <outline text="小A的个人站" type="rss" xmlUrl="https://blog.lipux.cn//feed/" htmlUrl="http://blog.fasv.top/" description="学习、记录、分享"/>
       <outline text="小z博客" type="rss" xmlUrl="https://www.xiaoz.me/feed" htmlUrl="https://www.xiaoz.me/" description="生命不息，吾将折腾不止。"/>
       <outline text="小众分享" type="rss" xmlUrl="https://www.smbinn.com/feed" htmlUrl="https://www.smbinn.com/" description=""/>
-      <outline text="小小孩子们的博客" type="rss" xmlUrl="https://www.xxhzm.cn/feed/" htmlUrl="https://xxhzm.cn/" description="小小孩子们的Blog，记录美好生活"/>
       <outline text="小小小日天的博客" type="rss" xmlUrl="https://359303267.github.io/atom.xml" htmlUrl="https://359303267.github.io/" description="瞧！这里有个不知道叫什么好的小玩意！"/>
       <outline text="小康博客" type="rss" xmlUrl="https://www.antmoe.com/atom.xml" htmlUrl="https://www.antmoe.com/" description="每天进步一点点！"/>
       <outline text="小恐龙工作坊" type="rss" xmlUrl="https://xkonglong.com/feed/" htmlUrl="https://xkonglong.com/" description="免费源自科技"/>
@@ -1005,7 +1002,7 @@
       <outline text="牧羊人" type="rss" xmlUrl="https://www.shephe.com/feed/" htmlUrl="https://www.shephe.com/" description="记录、分享、洞见"/>
       <outline text="犀利豆的博客" type="rss" xmlUrl="https://xilidou.com/atom.xml" htmlUrl="https://xilidou.com" description="高质量的技术博客"/>
       <outline text="狡猫三窝" type="rss" xmlUrl="https://slykiten.com/feed/" htmlUrl="https://slykiten.com/" description="“美”不是一种外部标准，它是一种内在情感。那是爱。"/>
-      <outline text="独孤伶俜" type="rss" xmlUrl="https://blog.dugulingping.com/feed" htmlUrl="https://blog.dugulingping.com/" description="独孤伶俜的个人博客"/>
+      <outline text="独孤伶俜" type="rss" xmlUrl="https://blog.dugulingping.com/feed/" htmlUrl="https://blog.dugulingping.com/" description="独孤伶俜的个人博客"/>
       <outline text="狸狌的平行世界" type="rss" xmlUrl="https://florestan-eusebius.github.io/feed.xml" htmlUrl="https://florestan-eusebius.github.io/" description="当理性从左半边开始崩塌"/>
       <outline text="猕猴の那年记忆" type="rss" xmlUrl="https://www.kiwiape.cn/feed/" htmlUrl="https://www.kiwiape.cn/" description="希望你的坚持都是因为热爱，而不是不甘"/>
       <outline text="猫叔" type="rss" xmlUrl="https://maoshu.me/feed" htmlUrl="https://maoshu.me/" description="养了一只叫火锅的猫"/>
@@ -1108,7 +1105,7 @@
       <outline text="褪墨・时间管理" type="rss" xmlUrl="https://www.mifengtd.cn/feed.xml" htmlUrl="https://www.mifengtd.cn/" description="褪墨・时间管理是一个关注时间管理、GTD、个人提升、生活健康与习惯、学习方法和演讲技巧的网站。我们的目标是：把事情做到更好！"/>
       <outline text="西乔的九卦" type="rss" xmlUrl="http://blog.xiqiao.info/feed/" htmlUrl="http://blog.xiqiao.info/" description="你会成为你想要成为的样子"/>
       <outline text="西枫里博客" type="rss" xmlUrl="https://www.anji66.net/rss.xml" htmlUrl="https://www.anji66.net/" description="西枫里人博客专注于为安吉地区提供网站建设，系统开发，网站优化，互联网咨询的个人博客"/>
-      <outline text="西秦公子" type="rss" xmlUrl="https://www.ixiqin.com/feed/" htmlUrl="https://www.ixiqin.com/" description="战略的核心是聚焦"/>
+      <outline text="西秦公子" type="rss" xmlUrl="https://www.ixiqin.com/feed/#force_feed" htmlUrl="https://www.ixiqin.com/" description="战略的核心是聚焦"/>
       <outline text="覆沉" type="rss" xmlUrl="https://blog.ryey.icu/feeds/atom.xml" htmlUrl="https://blog.ryey.icu/" description="對沒錯，這是「人云E云」那貨的博客"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="见字如面" type="rss" xmlUrl="https://hiwannz.com/feed" htmlUrl="https://hiwannz.com" description="抽离自我，冷眼旁观" frss:cssFullContent=".post"/>
       <outline text="认知困难户" type="rss" xmlUrl="https://wangluzhou.com/atom.xml" htmlUrl="http://wangluzhou.github.io/" description="Keep it easy and keep myself busy."/>
@@ -1296,7 +1293,7 @@
       <outline text="推杯唤斩" type="rss" xmlUrl="https://talk.dyingfordrinking.com/feed/audio.xml" htmlUrl="https://talk.dyingfordrinking.com/" description="《推杯唤斩》是一档和酒有关的节目。在这档节目中，我们会开几瓶酒，坐下来和你扯扯我们对酒的了解。我们的醉后胡言如果能博君一笑，乃至口齿生津，酒兴大发，我们的目的就达到了。"/>
       <outline text="提前怀旧" type="rss" xmlUrl="https://pretro.xyz/feed" htmlUrl="https://pretro.xyz/" description="一切未来终将成为过去。欢迎收听《提前怀旧》，一档由任宁和 Rio 主持的科技评论节目。"/>
       <outline text="故事FM" type="rss" xmlUrl="https://storyfm.cn/feed/episodes" htmlUrl="https://storyfm.cn/" description="欢迎收听故事 FM 。在这里，我们用你的声音，讲述你的故事。"/>
-      <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。&lt;br&gt;&lt;hr&gt;&lt;p&gt; Hosted on Acast. See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
+      <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。完整节目、会员通讯、付费系列、会员小报、听众群链接等等资源请访问官网：culturepotato.com。文化土豆并不上传自己服务器与 YouTube 之外的任何内容平台，无法保证其他平台上节目的其完整性，谢谢留意。&lt;br&gt;&lt;hr&gt;&lt;p&gt; Hosted on Acast. See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
       <outline text="无业游民" type="rss" xmlUrl="https://theue.me/feed/podcast" htmlUrl="https://theue.me/" description="《无业游民》是一档关于自我探索的谈话节目，希望透过对他者的关怀和对世界的探索，让听众、也让我们可以多一些认识自己和建立自我。"/>
       <outline text="日语日语" type="rss" xmlUrl="https://riyu.io/hibi?format=rss" htmlUrl="https://riyu.io/hibi/" description="一档日语主题的短语音娱乐节目，由网站riyu.io制作播出。我们希望能帮助你发现进而独立体会日语乃至语言的趣味。有任何反馈欢迎发电邮至hi@riyu.io，同时也欢迎收听我们另一档更为严肃的节目：独立日。"/>
       <outline text="星箭廣播" type="rss" xmlUrl="https://open.firstory.me/rss/user/cl6dx7tc400dk01xj1qa16dfw" htmlUrl="https://podcast.starrocket.io/" description="&lt;p&gt;《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan、Julie 和 Liz，以及不定期出現的特別來賓，一起探索科技和創新的邊界。 本節目由三創育成基金會編輯部製作，每週更新。 &lt;br&gt;&lt;br&gt;&lt;br&gt;Powered by &lt;a href=&quot;https://firstory.me/&quot;&gt;Firstory Hosting&lt;/a&gt;&lt;/p&gt;"/>
@@ -1444,9 +1441,9 @@
       <outline text="HUI 爷的小破站" type="rss" xmlUrl="https://www.ghost666.xyz/index.php/feed/" htmlUrl="https://www.ghost666.xyz/" description="与你同行"/>
       <outline text="infoier | 设计乘数" type="rss" xmlUrl="https://www.infoier.com/feed/" htmlUrl="https://www.infoier.com/" description="My WordPress Blog"/>
       <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek Truth, Find Value"/>
+      <outline text="JoyQi" type="rss" xmlUrl="https://joyqi.com/feed/" htmlUrl="https://joyqi.com/" description="Do not go gentle into that good night."/>
       <outline text="L1Yu's Blog | LL的博客" type="rss" xmlUrl="https://www.l1yu.com/feed/feed.xml" htmlUrl="https://www.l1yu.com" description="I am writing about my experiences as a naval navel-gazer."/>
       <outline text="Li Hui Blog" type="rss" xmlUrl="https://lihui.net/feed" htmlUrl="https://lihui.net/" description="想给世界留下一些东西"/>
-      <outline text="Lihaoya 的技术博客" type="rss" xmlUrl="https://blog.lihaoya.com/feed/" htmlUrl="https://blog.lihaoya.com/" description="👋👋👋"/>
       <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="myfreax" type="rss" xmlUrl="https://www.myfreax.com/rss/" htmlUrl="https://www.myfreax.com/" description="编程,语言,IT,技术,玩家,linux,命令行,终端,黑客,工具,myfreax"/>
       <outline text="Ngzhio’s Blog" type="rss" xmlUrl="https://ngzhio.github.io/feed.xml" htmlUrl="https://ngzhio.github.io/" description="The personal blog of Shangzhi Huang"/>
@@ -1475,6 +1472,8 @@
       <outline text="依米" type="rss" xmlUrl="https://www.feed.cc/feed/" htmlUrl="https://www.feed.cc/" description="时间在流逝，世界在变化，要比昨天的自己活得更有价值。"/>
       <outline text="卡秋莎的小窝" type="rss" xmlUrl="https://katyusha.net/feed" htmlUrl="https://katyusha.net/" description=""/>
       <outline text="四方之云" type="rss" xmlUrl="https://jingyig.com/atom.xml" htmlUrl="https://jingyig01.github.io/" description=""/>
+      <outline text="城南以南花亦开" type="rss" xmlUrl="https://coonaa.cn/atom.xml" htmlUrl="https://blog.coonaa.cn/" description="生活原本沉闷，但跑起来就会有风。"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="城南旧事" type="rss" xmlUrl="https://blog.loli.top/feed/" htmlUrl="https://blog.loli.top/" description="透过文字和影像记忆，我们延长了至少三倍的生命。" frss:cssFullContent=".post-content"/>
       <outline text="多半不走运" type="rss" xmlUrl="https://www.likelyunlucky.xyz/feed/" htmlUrl="https://www.likelyunlucky.xyz" description="多半不走运"/>
       <outline text="小钻风的博客" type="rss" xmlUrl="https://zuanfeng.club/index.php/feed/" htmlUrl="https://zuanfeng.club/" description="让思考和读书成为一种生活方式"/>
       <outline text="己羊的梦" type="rss" xmlUrl="https://www.jiyang00.cn/atom.xml" htmlUrl="https://www.jiyang00.cn/" description="己羊的小站"/>
@@ -1491,6 +1490,7 @@
       <outline text="kangkangblog" type="rss" xmlUrl="https://zwkang.com/?feed=rss2" htmlUrl="https://zwkang.com" description=""/>
       <outline text="Yamdr" type="rss" xmlUrl="https://www.yamdr.cn/feed" htmlUrl="https://www.yamdr.cn/" description="一个不太随大众的小站，希望这个小站是一张名片,来的人有所收获,故事不结束，青春不散场"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="一克猫" type="rss" xmlUrl="https://www.1gcat.com/feed/" htmlUrl="https://www.1gcat.com/" description="一只微不足道的猫" frss:cssFullContent="#md_handsome_origin"/>
+      <outline text="小小孩子们的博客" type="rss" xmlUrl="https://www.xxhzm.cn/feed/" htmlUrl="https://www.xxhzm.cn/" description="小小孩子们的Blog，记录美好生活"/>
     </outline>
     <outline text="暂时隐藏">
       <outline text="DearXuan的主页" type="rss" xmlUrl="https://blog.dearxuan.com/atom.xml" htmlUrl="https://blog.dearxuan.com/" description=""/>
