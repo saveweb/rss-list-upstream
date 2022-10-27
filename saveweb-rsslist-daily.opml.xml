@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 25 Oct 2022 13:44:03</dateCreated>
+    <dateCreated>Thu, 27 Oct 2022 12:55:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -906,7 +906,7 @@
       <outline text="未知狐的小窝" type="rss" xmlUrl="https://xfox.fun/feed/" htmlUrl="https://xfox.fun/" description="黑暗里若没有火炬,我便是唯一的光."/>
       <outline text="未知的世界" type="rss" xmlUrl="https://lulalap.com/atom.xml" htmlUrl="http://lulalap.com/" description=""/>
       <outline text="本格异想录" type="rss" xmlUrl="https://astrianzheng.cn/atom.xml" htmlUrl="https://astrianzheng.cn/" description=""/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="杂烩饭 - 张理坤的博客" type="rss" xmlUrl="https://zahui.fan/index.xml" htmlUrl="https://zahui.fan/" description="张理坤,运维开发工程师,资深工具人,专注于DevOps和Kubernetes" frss:cssFullContent="#content"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="杂烩饭 - 张理坤的博客" type="rss" xmlUrl="https://zahui.fan/index.xml" htmlUrl="https://zahui.fan/" description="运维技术分享" frss:cssFullContent="#content"/>
       <outline text="杂的文" type="rss" xmlUrl="https://www.lucienshui.cn/feed/" htmlUrl="https://www.lucienshui.cn/" description="生、老、病、死、爱别离、怨长久、求不得、放不下，八苦是矣。"/>
       <outline text="杂货屋" type="rss" xmlUrl="https://sword.studio/feed" htmlUrl="https://sword.studio/" description="本站主要用于记录和分享我所折腾过的东西"/>
       <outline text="李丁DLog博客" type="rss" xmlUrl="https://www.lidingzeyu.com/all/rss/" htmlUrl="https://www.lidingzeyu.com/" description="跟随李丁的好奇心和求知欲，学各种各样的知识。最近的话题主要是投资，学术界工业界的职场讨论，和创业经历。"/>
