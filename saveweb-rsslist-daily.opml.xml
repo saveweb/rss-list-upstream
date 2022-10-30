@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sat, 29 Oct 2022 12:43:02</dateCreated>
+    <dateCreated>Sun, 30 Oct 2022 12:53:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -544,7 +544,7 @@
       <outline text="Windsky博客 | 晔's blog" type="rss" xmlUrl="https://www.okace.cn/feed/" htmlUrl="https://www.okace.cn/" description="Windsky博客 （www.okace.cn） 闫立晔同学的个人博客，爱我所爱，从未离开，欢迎访问。"/>
       <outline text="winegrower" type="rss" xmlUrl="http://www.winegrower.cn/feed/" htmlUrl="http://www.winegrower.cn/" description="种葡萄并酿酒的人"/>
       <outline text="Wonder Space" type="rss" xmlUrl="https://blog.l3on.site/feed" htmlUrl="https://blog.l3on.site/" description="不可勝在己，可勝在敵"/>
-      <outline text="Woshiluo's Notebook" type="rss" xmlUrl="https://blog.woshiluo.com/feed" htmlUrl="https://blog.woshiluo.com/" description="「Jump up HIGH!!」"/>
+      <outline text="Woshiluo's Notebook" type="rss" xmlUrl="https://blog.woshiluo.com/feed" htmlUrl="https://blog.woshiluo.com/" description="「长江黄河不会倒流」"/>
       <outline text="wu-kan" type="rss" xmlUrl="https://wu-kan.cn/feed.xml" htmlUrl="https://wu-kan.cn/" description="SYSU第5年&lt;br/&gt;&#10;水野爱&lt;br/&gt;&#10;田宫例四驱车&lt;br/&gt;&#10;&lt;a href=&quot;mailto:i@wu-kan.cn&quot;&gt;&#10;  &lt;i class=&quot;fa-solid fa-envelope&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://github.com/wu-kan&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-github&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://vjudge.net/user/WuK&quot;&gt;&#10;  &lt;i class=&quot;fa-solid fa-smile&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://space.bilibili.com/166390020&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-bilibili&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://www.zhihu.com/people/wu.kan/activities&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-zhihu&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;br/&gt;"/>
       <outline text="Wujunze's Blog" type="rss" xmlUrl="https://wujunze.com/index.xml" htmlUrl="https://wujunze.com" description="Recent content in wujunze`s Blog on wujunze`s Blog"/>
       <outline text="Wulu's Blog" type="rss" xmlUrl="https://wulu.zone/feed.xml" htmlUrl="https://emuqi.github.io/" description="Keep learning"/>
@@ -637,7 +637,7 @@
       <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="💻学习📝记录🔗分享&#10;学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"/>
       <outline text="二只老虎" type="rss" xmlUrl="https://2hu.net/feed.xml" htmlUrl="https://2hu.net/" description="歪酷，歪酷博客，熊の猫，熊的猫，标准城市空巢青年。本博客基于Jekyll进行书写。源自生活的点点滴滴和碎碎念。"/>
       <outline text="云原生" type="rss" xmlUrl="https://jimmysong.io/index.xml" htmlUrl="https://jimmysong.io" description="Recent content on Jimmy Song - 专注于探索后 Kubernetes 时代的云原生新范式"/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="云游君的小站" type="rss" xmlUrl="https://www.yunyoujun.cn/atom.xml" htmlUrl="https://www.yunyoujun.cn" description="All at sea." frss:cssFullContent=".post-content"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="云游君的小站" type="rss" xmlUrl="https://www.yunyoujun.cn/atom.xml" htmlUrl="https://www.yunyoujun.cn" description="云游君的小站" frss:cssFullContent=".post-content"/>
       <outline text="云顶天的世界" type="rss" xmlUrl="http://blog.cloudtopsky.com/feed/" htmlUrl="http://blog.cloudtopsky.com/" description="云顶天和他的朋友们"/>
       <outline text="云风的 BLOG" type="rss" xmlUrl="https://blog.codingnow.com/atom.xml" htmlUrl="https://blog.codingnow.com" description="思绪来得快去得也快，偶尔会在这里停留"/>
       <outline text="五葉魔法書" type="rss" xmlUrl="https://grimoire.cn/feed/" htmlUrl="https://grimoire.cn/" description="永不放弃就是我的魔法"/>

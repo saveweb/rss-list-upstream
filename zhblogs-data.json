@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2164,
+    "total": 2165,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -41450,6 +41450,24 @@
         "arch": "Typecho",
         "join_time": 1666701027106,
         "update_time": 1666701027106,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "2c77a115-1615-4e97-a376-4d1f306f0c75",
+        "idx": 2208,
+        "name": "Histcat's Blog",
+        "url": "https://blog.histcat.top",
+        "tags": [],
+        "sign": "一只oier的小窝",
+        "feed": "https://blog.histcat.top/rss.xml",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://blog.histcat.top/sitemap.xml",
+        "arch": "Hexo",
+        "join_time": 1667057760567,
+        "update_time": 1667057760567,
         "saveweb_id": "",
         "recommend": false
       }
