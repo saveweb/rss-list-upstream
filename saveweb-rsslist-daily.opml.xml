@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 30 Oct 2022 12:53:01</dateCreated>
+    <dateCreated>Mon, 31 Oct 2022 12:57:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1017,13 +1017,13 @@
       <outline text="王欣的博客" type="rss" xmlUrl="https://wangxin.io/atom.xml" htmlUrl="https://wangxin.io/" description="王欣的博客"/>
       <outline text="王玄的博客" type="rss" xmlUrl="https://blog.wangxuan.name/feed/" htmlUrl="https://blog.wangxuan.name" description="种野菜杂草的自留地，任君取用"/>
       <outline text="王登科-DK博客" type="rss" xmlUrl="https://greatdk.com/rss" htmlUrl="https://greatdk.com" description="布洛芬爱好者"/>
-      <outline text="珒陶" type="rss" xmlUrl="https://www.chenjt.com/feed/" htmlUrl="https://www.chenjt.com/" description="珒陶 （JanTang）的个人网站 - I hope that someday somebody can tell me the whole"/>
+      <outline text="珒陶" type="rss" xmlUrl="https://blog.chenjt.com/feed" htmlUrl="https://www.chenjt.com/" description="珒陶 （JanTang）的个人网站 - I hope that someday somebody can tell me the whole"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="琚致远" type="rss" xmlUrl="https://juzhiyuan.me/feed.xml" htmlUrl="https://juzhiyuan.me/" description="Apache Member · Apache APISIX PMC · freeCodeCamp" frss:cssFullContent=".prose"/>
       <outline text="瓠樽" type="rss" xmlUrl="https://blog.dylanwu.space/feed.xml" htmlUrl="https://blog.dylanwu.space/" description="以瓠為樽而浮乎江湖"/>
       <outline text="甜欣屋" type="rss" xmlUrl="https://tcxx.info/feed" htmlUrl="https://tcxx.info/" description="甜菜欣欣个人小站"/>
       <outline text="生命之旅" type="rss" xmlUrl="https://hazyman.com/atom.xml" htmlUrl="https://hazyman.com/" description="Thinker, Doer, Innovator."/>
       <outline text="生活志" type="rss" xmlUrl="http://louishan.com/feed" htmlUrl="http://louishan.com/" description="Life will find its way out!"/>
-      <outline text="电波障害" type="rss" xmlUrl="https://sund.site/index.xml" htmlUrl="https://sund.site/" description="Recent content on 電波障害"/>
+      <outline text="电波障害" type="rss" xmlUrl="https://sund.site/index.xml" htmlUrl="https://sund.site/" description="電波障害 - Steve Sun's Blog"/>
       <outline text="瘦人志" type="rss" xmlUrl="http://www.wuqiwen.cn/feed" htmlUrl="http://www.wuqiwen.cn/" description="记录生命中遇到的人和事，反省之，感谢之。时刻提醒自己：生也有涯，知也无涯。做愚人已然难免，只好努力不做妄人。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="白云苍狗" type="rss" xmlUrl="https://www.imalun.com/atom.xml" htmlUrl="https://www.imalun.com/" description="白云苍狗的小站" frss:cssFullContent="article.trm-card"/>
       <outline text="白板报" type="rss" xmlUrl="https://wangpei.net/feed/" htmlUrl="http://www.baibanbao.net/" description="No matter. Try again. Fail again. Fail better."/>
