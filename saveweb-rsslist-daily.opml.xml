@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 31 Oct 2022 12:57:01</dateCreated>
+    <dateCreated>Tue, 01 Nov 2022 13:18:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -839,7 +839,7 @@
       <outline text="思有云" type="rss" xmlUrl="https://www.ioiox.com/feed/" htmlUrl="https://www.ioiox.com" description="IOIOX 个人博客 生活记录 原创文章 技术分享 资源分享 群晖技巧 群晖教程 免费frp 免费内网穿透"/>
       <outline text="思泉 | Jev0n" type="rss" xmlUrl="https://jev0n.com/feed/" htmlUrl="https://jev0n.com/" description="Coder,CTFer,专业写BUG"/>
       <outline text="思考问题的熊" type="rss" xmlUrl="https://kaopubear.top/blog/atom.xml" htmlUrl="https://kaopubear.top/blog" description="很高兴和你相遇&lt;br&gt;这里正在记录我的所思所学&lt;br&gt;邮箱 hi@kaopubear.top"/>
-      <outline text="惶心博客" type="rss" xmlUrl="https://huangxin.dev/atom.xml" htmlUrl="https://huangxin.dev/" description="”然后啊 然后就可以轻轻或者沉沉地睡去“"/>
+      <outline text="惶心博客" type="rss" xmlUrl="https://huangxin.dev/atom.xml" htmlUrl="https://huangxin.dev/" description="” 别说万事转头空 未转头时为梦“"/>
       <outline text="愆伏" type="rss" xmlUrl="https://www.tortorse.com/atom.xml" htmlUrl="https://www.tortorse.com/" description="互联网杂谈"/>
       <outline text="成功他媽．阿瑋" type="rss" xmlUrl="https://urara.kwchang0831.dev/atom.xml" htmlUrl="https://www.kwchang0831.dev/" description="成功最終會回來找他媽的"/>
       <outline text="我叫尤加利" type="rss" xmlUrl="https://youjiali1995.github.io/feed.xml" htmlUrl="https://youjiali1995.github.io/" description="My blog."/>
@@ -1293,7 +1293,7 @@
       <outline text="推杯唤斩" type="rss" xmlUrl="https://talk.dyingfordrinking.com/feed/audio.xml" htmlUrl="https://talk.dyingfordrinking.com/" description="《推杯唤斩》是一档和酒有关的节目。在这档节目中，我们会开几瓶酒，坐下来和你扯扯我们对酒的了解。我们的醉后胡言如果能博君一笑，乃至口齿生津，酒兴大发，我们的目的就达到了。"/>
       <outline text="提前怀旧" type="rss" xmlUrl="https://pretro.xyz/feed" htmlUrl="https://pretro.xyz/" description="一切未来终将成为过去。欢迎收听《提前怀旧》，一档由任宁和 Rio 主持的科技评论节目。"/>
       <outline text="故事FM" type="rss" xmlUrl="https://storyfm.cn/feed/episodes" htmlUrl="https://storyfm.cn/" description="欢迎收听故事 FM 。在这里，我们用你的声音，讲述你的故事。"/>
-      <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。完整节目、会员通讯、付费系列、会员小报、听众群链接等等资源请访问官网：culturepotato.com。文化土豆并不上传自己服务器与 YouTube 之外的任何内容平台，无法保证其他平台上节目的其完整性，谢谢留意。&lt;br&gt;&lt;hr&gt;&lt;p&gt; Hosted on Acast. See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
+      <outline text="文化土豆" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5e0b6ece81be870a61107c66" htmlUrl="http://www.culturepotato.com/" description="》墙内听众自22年10月28日起需要连接VPN收听《 益康糯米主持的文艺潮流圆桌节目，聊影视、文学、戏剧和文化历史。完整节目、会员通讯、付费系列、会员小报、听众群链接等等资源请访问官网：culturepotato.com。文化土豆并不上传自己服务器与 YouTube 之外的任何内容平台，无法保证其他平台上节目的其完整性，谢谢留意。&lt;br&gt;&lt;hr&gt;&lt;p&gt; Hosted on Acast. See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
       <outline text="无业游民" type="rss" xmlUrl="https://theue.me/feed/podcast" htmlUrl="https://theue.me/" description="《无业游民》是一档关于自我探索的谈话节目，希望透过对他者的关怀和对世界的探索，让听众、也让我们可以多一些认识自己和建立自我。"/>
       <outline text="日语日语" type="rss" xmlUrl="https://riyu.io/hibi?format=rss" htmlUrl="https://riyu.io/hibi/" description="一档日语主题的短语音娱乐节目，由网站riyu.io制作播出。我们希望能帮助你发现进而独立体会日语乃至语言的趣味。有任何反馈欢迎发电邮至hi@riyu.io，同时也欢迎收听我们另一档更为严肃的节目：独立日。"/>
       <outline text="星箭廣播" type="rss" xmlUrl="https://open.firstory.me/rss/user/cl6dx7tc400dk01xj1qa16dfw" htmlUrl="https://podcast.starrocket.io/" description="&lt;p&gt;《星箭廣播》關注「科技」和「創新故事」，歡迎你加入主持人 Titan、Julie 和 Liz，以及不定期出現的特別來賓，一起探索科技和創新的邊界。 本節目由三創育成基金會編輯部製作，每週更新。 &lt;br&gt;&lt;br&gt;&lt;br&gt;Powered by &lt;a href=&quot;https://firstory.me/&quot;&gt;Firstory Hosting&lt;/a&gt;&lt;/p&gt;"/>
