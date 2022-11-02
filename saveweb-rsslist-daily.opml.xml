@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 01 Nov 2022 13:18:02</dateCreated>
+    <dateCreated>Wed, 02 Nov 2022 13:09:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -157,7 +157,7 @@
       <outline text="Fred Wu's Blog" type="rss" xmlUrl="https://fredwu.me/rss.xml" htmlUrl="https://fredwu.me/" description="Located in Melbourne, Australia, I am a software developer and leader with a strong focus on code craftsmanship, business value and user experience."/>
       <outline text="Free Mind" type="rss" xmlUrl="https://freemind.pluskid.org/rss.xml" htmlUrl="http://freemind.pluskid.org/" description=""/>
       <outline text="Frost's Blog" type="rss" xmlUrl="https://frost-lee.github.io/atom.xml" htmlUrl="https://frost-lee.github.io" description="Frost's Blog"/>
-      <outline text="Frytea's Blog" type="rss" xmlUrl="https://blog.frytea.com/feed" htmlUrl="https://blog.frytea.com" description="对月吟诗，煮雪烹茶。"/>
+      <outline text="Frytea's Blog" type="rss" xmlUrl="https://blog.frytea.com/feed/" htmlUrl="https://blog.frytea.com" description="对月吟诗，煮雪烹茶。"/>
       <outline text="fun's Blog" type="rss" xmlUrl="https://blog.dev4eos.com/atom.xml" htmlUrl="http://blog.dev4eos.com/" description=""/>
       <outline text="FZDSLR" type="rss" xmlUrl="https://blog.fzdslr.cn/atom.xml" htmlUrl="https://blog.fzdslr.cn/" description=""/>
       <outline text="Garan no dou" type="rss" xmlUrl="https://blog.ibireme.com/feed/" htmlUrl="https://blog.ibireme.com/" description="一只魔法师的工坊"/>
