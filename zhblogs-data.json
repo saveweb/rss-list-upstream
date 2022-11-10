@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2173,
+    "total": 2174,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -41683,6 +41683,31 @@
         "arch": "wordpress",
         "join_time": 1667813062936,
         "update_time": 1667813062936,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "43ec63e6-0888-4949-86e0-a0dee1f60732",
+        "idx": 2217,
+        "name": "SeerSu",
+        "url": "https://seersu.me",
+        "tags": [
+          "随笔",
+          "生活",
+          "记录",
+          "学习",
+          "杂录",
+          "综合"
+        ],
+        "sign": "SeerSu,Blog,hugo,papermod,golang",
+        "feed": "https://seersu.me/index.xml",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://seersu.me/sitemap.xml",
+        "arch": "hugo",
+        "join_time": 1667988121281,
+        "update_time": 1667988121281,
         "saveweb_id": "",
         "recommend": false
       }
