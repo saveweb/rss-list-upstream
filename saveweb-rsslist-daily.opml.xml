@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 10 Nov 2022 12:50:02</dateCreated>
+    <dateCreated>Sat, 12 Nov 2022 12:37:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1334,7 +1334,7 @@
       <outline text="路书" type="rss" xmlUrl="https://lushu88.com/rss" htmlUrl="https://lushu88.com/" description="行万里路，读万卷书。《路书》是一档讨论艺术和历史的播客节目。我们追求一种行知合一的学习体验，行路，读书，知其然，更知其所以然。&#10;《路书》网站：&lt;a href=&quot;http://lushu88.com/&quot;&gt;lushu88.com&lt;/a&gt;&#10;《路书》知乎专栏：&lt;a href=&quot;https://zhuanlan.zhihu.com/lushu88&quot;&gt;https://zhuanlan.zhihu.com/lushu88&lt;/a&gt;&#10;《路书》电子邮箱：&lt;a href=&quot;mailto:lushu8888@outlook.com&quot;&gt;lushu8888@outlook.com&lt;/a&gt;&#10;《路书》微信公众号：艺术路书&#10;《路书》播客的订阅方式: 苹果手机用户可以在系统自带的播客应用中搜索“路书”订阅；安卓用户可以在第三方平台：喜马拉雅，网易云音乐或荔枝FM上搜索“艺术路书”订阅。或者在自己常用的播客应用中搜索“路书”订阅。 ​​​​&#10;路书会员计划内容详见: &lt;a href=&quot;http://lushu88.com/member&quot;&gt;lushu88.com/member&lt;/a&gt;"/>
       <outline text="跳岛FM" type="rss" xmlUrl="https://tiaodao.typlog.io/feed/audio.xml" htmlUrl="https://tiaodao.typlog.io/episodes/" description="跳岛FM（Talking Literature）是一档文学播客，一份可以听的文学杂志。节目每周三更新，由中信出版·大方出品。入选“苹果播客2020年度编辑推荐”。"/>
       <outline text="踏浪寻星广播电台" type="rss" xmlUrl="https://tlxxfm.com/feed/podcast" htmlUrl="https://tlxxfm.com/" description="踏浪寻星社（Tide and Star，TAS Club）希望能在天与海之间，与大家分享天空与海洋的梦想故事。"/>
-      <outline text="迟早更新" type="rss" xmlUrl="https://podcast.weareones.com/feed.xml" htmlUrl="https://podcast.weareones.com/" description="一档探讨科技、商业、设计和生活之间混沌关系的播客节目"/>
+      <outline text="迟早更新" type="rss" xmlUrl="http://podcast.weareones.com/feed.xml" htmlUrl="https://podcast.weareones.com/" description="一档探讨科技、商业、设计和生活之间混沌关系的播客节目"/>
       <outline text="迷于星际" type="rss" xmlUrl="https://trekin.space/feed.xml" htmlUrl="https://trekin.space/" description="以星际迷航为主题的聊天节目。"/>
       <outline text="道听途说" type="rss" xmlUrl="https://fakefestival.org/feed/audio.xml" htmlUrl="https://fakefestival.org/" description="「道听途说」是假艺术节旗下的独立文化播客，内容主要围绕展览、戏剧、表演和现场艺术展开。节目也会不定期邀请专业领域的嘉宾共同探讨行业的见闻，分享闲散的思考。每期播客配套的补充图文索引，都会同步更新在微信公众平台「假艺术节」。&#10;&#10;「道听途说」是 Apple Podcasts 2019年度最佳播客之一。&#10;&#10;&#10;播客官网: fakefestival.org&#10;新浪微博: @道听途说播客&#10;微信公众平台: 假艺术节&#10;主题音乐 © 孙大肆&#10;联络邮箱: info@fakefestival.org"/>
       <outline text="闭门造车" type="rss" xmlUrl="https://anchor.fm/s/2d9522d4/podcast/rss" htmlUrl="http://gulugulufm.tk/" description="Miki和各类创作者的深度访谈，了解创作背后的故事。访谈本身围绕着创作的方方面面来展开：为什么去做，怎么开始的，怎么继续下去的，以及为了创作做出的努力、勇气，外加钻研和运气。不要一直做消费者了，去创作自己喜欢的东西吧。"/>
@@ -1446,7 +1446,7 @@
       <outline text="infoier | 设计乘数" type="rss" xmlUrl="https://www.infoier.com/feed/" htmlUrl="https://www.infoier.com/" description="My WordPress Blog"/>
       <outline text="iNote" type="rss" xmlUrl="https://inote.xyz/rss/" htmlUrl="https://inote.xyz" description="Seek Truth, Find Value"/>
       <outline text="L1Yu's Blog | LL的博客" type="rss" xmlUrl="https://www.l1yu.com/feed/feed.xml" htmlUrl="https://www.l1yu.com" description="I am writing about my experiences as a naval navel-gazer."/>
-      <outline text="Li Hui Blog" type="rss" xmlUrl="https://lihui.net/feed" htmlUrl="https://lihui.net/" description="想给世界留下一些东西"/>
+      <outline text="Li Hui Blog" type="rss" xmlUrl="https://lihui.net/feed" htmlUrl="https://lihui.net/" description="又一个WordPress站点"/>
       <outline text="MCOO猫叔" type="rss" xmlUrl="http://mcoo.cc/feed/" htmlUrl="http://mcoo.cc/" description="猫叔日常吐槽，偶尔分享代码。"/>
       <outline text="myfreax" type="rss" xmlUrl="https://www.myfreax.com/rss/" htmlUrl="https://www.myfreax.com/" description="编程,语言,IT,技术,玩家,linux,命令行,终端,黑客,工具,myfreax"/>
       <outline text="Ngzhio’s Blog" type="rss" xmlUrl="https://ngzhio.github.io/feed.xml" htmlUrl="https://ngzhio.github.io/" description="The personal blog of Shangzhi Huang"/>
