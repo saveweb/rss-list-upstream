@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 13 Nov 2022 12:39:01</dateCreated>
+    <dateCreated>Mon, 14 Nov 2022 12:45:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -753,7 +753,7 @@
       <outline text="好墨：夏和帆的博客" type="rss" xmlUrl="https://hao.ink/feed/" htmlUrl="https://hao.ink/" description="夏和帆的书法练习记录"/>
       <outline text="好工具周刊" type="rss" xmlUrl="https://discuss-cn.bestxtools.com/atom/t/weekly/discussions" htmlUrl="https://discuss-cn.bestxtools.com/" description="weekly 标签新帖"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="如是乎 · 生活百味随笔" type="rss" xmlUrl="http://rushihu.com/feed" htmlUrl="http://rushihu.com/" description="书写使人无比孤单" frss:cssFullContent=".entry"/>
-      <outline text="如有乐享" type="rss" xmlUrl="https://51.ruyo.net/feed/" htmlUrl="https://51.ruyo.net/" description="分享是一种美德，是一种态度。"/>
+      <outline text="如有乐享" type="rss" xmlUrl="https://51.ruyo.net/feed" htmlUrl="https://51.ruyo.net/" description="分享是一种美德，是一种态度。"/>
       <outline text="如题的小屋" type="rss" xmlUrl="https://imrt.top/feed/" htmlUrl="https://imrt.top/" description="思考一切"/>
       <outline text="如鱼饮水" type="rss" xmlUrl="https://wangjiezhe.com/atom.xml" htmlUrl="https://wangjiezhe.com/" description="冷暖自知"/>
       <outline text="妙镜" type="rss" xmlUrl="https://www.cxumol.com/index.xml" htmlUrl="https://www.cxumol.com/" description="Recent content on 妙镜"/>
@@ -1352,7 +1352,9 @@
     </outline>
     <outline text="Uncategorized">
       <outline text="Anillc's Blog" type="rss" xmlUrl="https://anillc.cn/atom.xml" htmlUrl="https://anillc.cn/" description=""/>
+      <outline text="Kafuu" type="rss" xmlUrl="https://kafuu.cc/atom.xml" htmlUrl="https://kafuu.cc/" description="&lt;body&gt;&lt;script language=&quot;javaScript&quot;&gt;&#10;now = new Date(),hour = now.getHours()&#10;if(hour &lt; 6){document.write(&quot;凌晨好！&quot;)}&#10;else if (hour &lt; 9){document.write(&quot;早上好！&quot;)}&#10;else if (hour &lt; 12){document.write(&quot;上午好！&quot;)}&#10;else if (hour &lt; 14){document.write(&quot;中午好！&quot;)}&#10;else if (hour &lt; 17){document.write(&quot;下午好！&quot;)}&#10;else if (hour &lt; 19){document.write(&quot;傍晚好！&quot;)}&#10;else {document.write(&quot;晚上好！&quot;)}&#10;document.write(&quot;欢迎来到我的博客～～&quot;)&#10;&lt;/script&gt;&lt;/body&gt;"/>
       <outline text="L1nSn0w's Blog" type="rss" xmlUrl="https://blog.linsnow.cn/index.xml" htmlUrl="https://blog.linsnow.cn/" description="Recent content on L1nSn0w's Blog"/>
+      <outline text="Purkit's Blog" type="rss" xmlUrl="https://blog.purkit.ml/index.xml" htmlUrl="https://blog.purkit.ml/" description="Recent content on Purkit's Blog"/>
     </outline>
     <outline text="不在首页显示">
       <outline text="Cryptospace" type="rss" xmlUrl="https://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com" description="Bitcoin Hodler，自由主义者，区块链创业者，ChainONE 社区发起人，dbarobin.com 博主，隐私极客。如您所见，本人发布的文章与评论内容仅代表本人观点。「万物之中，希望至美；至美之物，永不凋零。」"/>
