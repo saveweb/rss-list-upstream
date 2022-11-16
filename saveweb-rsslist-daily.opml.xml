@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 15 Nov 2022 12:33:02</dateCreated>
+    <dateCreated>Wed, 16 Nov 2022 12:33:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -221,6 +221,7 @@
       <outline xmlns:frss="https://freshrss.org/opml" text="ImCaO's Blog" type="rss" xmlUrl="https://www.imcao.cn/atom.xml" htmlUrl="https://www.imcao.cn/" description="" frss:cssFullContent="#article-container"/>
       <outline text="inDev. Journal" type="rss" xmlUrl="https://frankindev.com/feed.xml" htmlUrl="https://www.frankindev.com/" description="Hey, there! This is Frank Lin (@flinhong), one of the 1.41 billion 🇨🇳. This 'inDev. Journal' site holds the exploration of my quirky thoughts and random adventures through life. Hope you enjoy reading and perusing my posts."/>
       <outline text="Inevitable" type="rss" xmlUrl="https://www.inevitable.tech/atom.xml" htmlUrl="https://www.inevitable.tech" description="文字所表现出来的美丽、恐惧。。还有率真之类的东西，我觉得在其他事物中还是很难寻得的。"/>
+      <outline text="informal" type="rss" xmlUrl="http://informal.top/feed.xml" htmlUrl="http://www.informal.top/" description="一花一世界"/>
       <outline text="Inoki in the world" type="rss" xmlUrl="https://blog.inoki.cc/atom.xml" htmlUrl="https://blog.inoki.cc/" description=""/>
       <outline text="ipfans's Blog" type="rss" xmlUrl="https://www.4async.com/atom.xml" htmlUrl="https://www.4async.com/" description="Recent content on ipfans's Blog"/>
       <outline text="iPotato" type="rss" xmlUrl="https://ipotato.me/feed" htmlUrl="https://ipotato.me" description=""/>
@@ -1368,7 +1369,6 @@
       <outline text="Caos" type="rss" xmlUrl="https://caos.me/feed" htmlUrl="https://caos.me/" description="A description about your own website that really shows off what it's all about"/>
       <outline text="Caviar-X's archive" type="rss" xmlUrl="https://pigeons.icu/rss.xml" htmlUrl="https://pigeons.icu/" description="兜兜转转又回到了原点"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="FongSoul" type="rss" xmlUrl="https://fongsoul.com/feed/" htmlUrl="https://fongsoul.com/" description="𝑾𝒓𝒊𝒕𝒊𝒏𝒈 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑺𝒐𝒖𝒍. ✎" frss:cssFullContent="#main-text"/>
-      <outline text="informal" type="rss" xmlUrl="http://www.informal.top/index.php/feed/" htmlUrl="http://www.informal.top/" description="一花一世界"/>
       <outline text="Tsanfer's Blog" type="rss" xmlUrl="https://tsanfer.com/rss.xml" htmlUrl="https://tsanfer.com/" description="现居住于猎户臂上的一个碳基生命"/>
       <outline text="Wiken" type="rss" xmlUrl="https://www.hehuapei.com/feed" htmlUrl="https://www.hehuapei.com" description=""/>
       <outline text="yanliang's blog" type="rss" xmlUrl="https://gyl-coder.top/atom.xml" htmlUrl="https://gyl-coder.top/" description=""/>

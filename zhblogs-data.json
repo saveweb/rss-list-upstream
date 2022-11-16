@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2178,
+    "total": 2179,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -40910,20 +40910,20 @@
         "id": "8ea76076-b125-4242-9b06-28301af48546",
         "idx": 2184,
         "name": "SinGO博客",
-        "url": "https://blog.xsnetw.cf/",
+        "url": "https://blog.xsnet.eu.org/",
         "tags": [
           "综合",
           "代码"
         ],
         "sign": "别人被孤独折磨，我却是享受孤独",
-        "feed": "https://blog.xsnetw.cf/atom.xml",
+        "feed": "https://blog.xsnet.eu.org/atom.xml",
         "status": "unknown",
         "repeat": false,
         "enabled": true,
-        "sitemap": "https://blog.xsnetw.cf/sitemap.xml",
+        "sitemap": "https://blog.xsnet.eu.org/sitemap.xml",
         "arch": "Hexo",
         "join_time": 1663946239832,
-        "update_time": 1664074752881,
+        "update_time": 1668499571457,
         "saveweb_id": "",
         "recommend": false
       },
@@ -41808,6 +41808,24 @@
         "arch": "Hugo",
         "join_time": 1668441042410,
         "update_time": 1668441042410,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "f2e7221c-e439-44a4-bc8d-fa3e97c4807d",
+        "idx": 2222,
+        "name": "No9ong's Blog",
+        "url": "https://no9ong.github.io",
+        "tags": [],
+        "sign": "",
+        "feed": "https://no9ong.github.io/atom.xml",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "",
+        "arch": "",
+        "join_time": 1668569934589,
+        "update_time": 1668569934589,
         "saveweb_id": "",
         "recommend": false
       }
