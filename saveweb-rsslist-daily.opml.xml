@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 17 Nov 2022 12:30:03</dateCreated>
+    <dateCreated>Fri, 18 Nov 2022 12:30:04</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -757,7 +757,7 @@
       <outline text="如鱼饮水" type="rss" xmlUrl="https://wangjiezhe.com/atom.xml" htmlUrl="https://wangjiezhe.com/" description="冷暖自知"/>
       <outline text="妙镜" type="rss" xmlUrl="https://www.cxumol.com/index.xml" htmlUrl="https://www.cxumol.com/" description="Recent content on 妙镜"/>
       <outline text="姬涛的个人网站" type="rss" xmlUrl="https://www.jitao.tech/rss.xml" htmlUrl="https://www.jitao.tech/" description="一个全栈工程师，来自北京。关注如何用 IT 系统解决实际的业务问题。"/>
-      <outline text="字节星球" type="rss" xmlUrl="https://www.bytecho.net/feed/" htmlUrl="https://www.bytecho.net/" description="致力于分享C++、Java、数据结构与算法等计算机科学内容及生活日常的情侣网站。"/>
+      <outline text="字节星球" type="rss" xmlUrl="https://www.bytecho.net/feed/" htmlUrl="https://www.bytecho.net/" description="致力于分享C++、Java、数据结构与算法等计算机科学内容及生活日常。"/>
       <outline text="孙老四" type="rss" xmlUrl="http://lao.si/rss.xml" htmlUrl="http://lao.si/" description="孙老四的个人网站"/>
       <outline text="孤岛客 - 几支无用笔，半打有心人。" type="rss" xmlUrl="https://www.huangjiwei.com/blog/?feed=rss2" htmlUrl="http://www.huangjiwei.com/blog/" description="几支无用笔，半打有心人。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="学无止境@一点一滴" type="rss" xmlUrl="http://gtdstudy.com/index.xml" htmlUrl="http://yibie.github.io/" description="Recent content on 学无止境" frss:cssFullContent=".post-content"/>
