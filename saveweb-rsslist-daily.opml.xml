@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 18 Nov 2022 12:30:04</dateCreated>
+    <dateCreated>Sun, 20 Nov 2022 12:31:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -585,7 +585,7 @@
       <outline text="Zenithal Hourly Radio" type="rss" xmlUrl="https://blog.zenithal.me/atom.xml" htmlUrl="https://blog.zenithal.me/" description=""/>
       <outline text="Zeqiang Fang | 方泽强" type="rss" xmlUrl="https://zeqiang.fun/index.xml" htmlUrl="https://zeqiang.fun/" description="Recent content in Homepage | 主页 on Zeqiang Fang | 方泽强"/>
       <outline text="ZFB" type="rss" xmlUrl="https://blog.whuzfb.cn/feed.xml" htmlUrl="https://blog.whuzfb.cn/" description="这是我的个人博客"/>
-      <outline text="zhang0peter-记录生活" type="rss" xmlUrl="https://last2win.com/atom.xml" htmlUrl="http://zhang0peter.com/" description="记录学习与生活"/>
+      <outline text="zhang0peter-记录生活" type="rss" xmlUrl="https://last2win.com/atom.xml" htmlUrl="http://zhang0peter.com/" description="记录工作与生活"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="ZhaoQuinn 's Blog" type="rss" xmlUrl="https://zhaoq.me/feed/" htmlUrl="https://zhaoq.me/" description="热爱科技,热爱生活." frss:cssFullContent="div.content:nth-child(2)"/>
       <outline text="Zhendong的博客-KXIT.NET" type="rss" xmlUrl="https://www.kxit.net/blog/feed" htmlUrl="https://www.kxit.net/blog" description="Zhendong的个人小站，分享属于我的态度，发出属于我的声音。"/>
       <outline text="zhengziying.com" type="rss" xmlUrl="https://zhengziying.com/feed/" htmlUrl="https://zhengziying.com/" description=""/>
@@ -1238,7 +1238,7 @@
     </outline>
     <outline text="Podcast|播客">
       <outline text="Anyway.FM 设计杂谈" type="rss" xmlUrl="https://anyway.fm/rss.xml" htmlUrl="https://anyway.fm/" description="由 UI 设计师 JJ Ying 和 Leon Gao 主播的 podcast，主题包括但不限于视觉设计，入选 2015 年 Apple 最佳播客榜单。Anyway.FM 是两个闷骚男抒发对设计热情的地方、Anyway.FM 是两个老男人吐槽世界的地方、Anyway.FM 也是一对好基友想把自己的见解分享给更多人的地方。"/>
-      <outline text="Barney’s Talk" type="rss" xmlUrl="https://anchor.fm/s/b418bc8/podcast/rss" htmlUrl="https://www.barneystalk.taipei/" description="「品味巴尼選，幫你選品味」，一個聊各種品味的訪談 Podcast，我們相信品味養成來自廣泛的興趣，而培養興趣，就是在累積熱愛生活的能力！#品味養成來自廣泛興趣&#10;&#10;加入我們的 Discord ▶️ https://discord.gg/MVMEZVWRAw&#10;Mixerbox 收聽連結 ▶️ https://www.mbplayer.com/podcast/339054&#10;會員訂閱方案 ▶️ http://go.barneystalk.taipei/Mixerbox&#10;🎤 聽眾訪談募集中 ▶️ https://www.surveycake.com/s/emAoX&#10;社群媒體連結 ▶️ https://barney.soci.vip&#10;官方網站 ▶️ https://www.barneystalk.taipei/"/>
+      <outline text="Barney’s Talk" type="rss" xmlUrl="https://anchor.fm/s/b418bc8/podcast/rss" htmlUrl="https://www.barneystalk.taipei/" description="「品味巴尼選，幫你選品味」，一個聊各種品味的訪談 Podcast，我們相信品味養成來自廣泛的興趣，而培養興趣，就是在累積熱愛生活的能力！#品味養成來自廣泛興趣&#10;&#10;加入我們的 Discord ▶️ https://discord.gg/MVMEZVWRAw&#10;Mixerbox 收聽連結 ▶️ https://www.mbplayer.com/podcast/339054&#10;🎤 聽眾訪談募集中 ▶️ https://www.surveycake.com/s/emAoX&#10;社群媒體連結 ▶️ https://barney.soci.vip&#10;官方網站 ▶️ https://www.barneystalk.taipei/"/>
       <outline text="Byte.Coffee" type="rss" xmlUrl="https://byte.coffee/feed.xml" htmlUrl="https://byte.coffee/" description="一家以工科视角面对世界的字节咖啡店，提供一支独立极简、健康明亮、科学主调、人文余韵的声波咖啡豆。"/>
       <outline text="ByteTalk" type="rss" xmlUrl="https://bytetalk.fm/index.xml" htmlUrl="https://bytetalk.fm/" description="聊聊程序员的故事"/>
       <outline text="Casticle" type="rss" xmlUrl="https://feeds.fireside.fm/casticle/rss" htmlUrl="https://casticle.fm/" description="Casticle由「podcast」与「listicle」合成而来，是一档以推荐单集英文播客为节目形式的中文播客。每集节目将为你推荐三集各有特色的英文播客，评述它们的精彩之处，整理相关的内容资源与知识脉络。通过我们的筛选与策划，希望能帮助你直接获取一手信息，接触英文原生内容，享受随之而来的快乐与启发。"/>
@@ -1281,6 +1281,7 @@
       <outline text="博物志" type="rss" xmlUrl="http://bowuzhi.fm/feed/audio.xml" htmlUrl="https://bowuzhi.fm/" description="广泛地关于博物馆的播客。小黄鱼出品。2019 年苹果最佳节目之一。"/>
       <outline text="告别摄影" type="rss" xmlUrl="https://byebyephotography.typlog.io/feed/audio.xml" htmlUrl="https://byebye.photography/" description="像谈论一场电影一样谈论摄影。"/>
       <outline text="地面电台GROUNDRADIO" type="rss" xmlUrl="https://groundradio.net/feed/audio.xml" htmlUrl="https://groundradio.net/" description="三位普通乐迷发起的音乐文化类播客"/>
+      <outline text="坡道闲聊 Aisaka Chat" type="rss" xmlUrl="https://podcast.aisaka.cc/feed/podcast/" htmlUrl="https://podcast.aisaka.cc/" description="一档十分不专业的播客节目？"/>
       <outline text="声东击西" type="rss" xmlUrl="https://etw.fm/rss" htmlUrl="https://www.etw.fm/" description="世界宽广，但人们被日常及社交媒体所限制。&#10;那就让作为记者的我们，帮你推开一些意想不到的窗户，触及不一样的信息，激发不一样的思考。&#10;在这里，我们对话各种有趣有料，能带来启发的专业人士，也不定期会有神秘嘉宾出现。&#10;我们也时不时做各种和声音有关的尝试，打开一些新体验。&#10;支持我们，请大家移步 https://etw.fm/donation 。"/>
       <outline text="字谈字畅" type="rss" xmlUrl="https://www.thetype.com/typechat/feed/" htmlUrl="https://www.thetype.com/" description="《字谈字畅》是第一档用华语制作的字体排印主题播客节目，由 Eric Liu 与钱争予搭档主播。The Type 出品。"/>
       <outline text="小人物" type="rss" xmlUrl="https://anobody.im/podcast/rss.xml" htmlUrl="https://anobody.im/" description="一档探索内心、接纳自我、努力变优秀的播客，讲述来自各行各业小人物的工作、思考与生活，不限于欧洲生活、高效工作、海外求职、读书电影、美食旅行。欢迎发邮件到 anobody.fm@gmail.com"/>
