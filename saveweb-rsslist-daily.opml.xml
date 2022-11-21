@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 20 Nov 2022 12:31:01</dateCreated>
+    <dateCreated>Mon, 21 Nov 2022 12:33:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -545,7 +545,7 @@
       <outline text="winegrower" type="rss" xmlUrl="http://www.winegrower.cn/feed/" htmlUrl="http://www.winegrower.cn/" description="种葡萄并酿酒的人"/>
       <outline text="Wonder Space" type="rss" xmlUrl="https://blog.l3on.site/feed" htmlUrl="https://blog.l3on.site/" description="不可勝在己，可勝在敵"/>
       <outline text="Woshiluo's Notebook" type="rss" xmlUrl="https://blog.woshiluo.com/feed" htmlUrl="https://blog.woshiluo.com/" description="「长江黄河不会倒流」"/>
-      <outline text="wu-kan" type="rss" xmlUrl="https://wu-kan.cn/feed.xml" htmlUrl="https://wu-kan.cn/" description="SYSU第5年&lt;br/&gt;&#10;水野爱&lt;br/&gt;&#10;田宫例四驱车&lt;br/&gt;&#10;&lt;a href=&quot;mailto:i@wu-kan.cn&quot;&gt;&#10;  &lt;i class=&quot;fa-solid fa-envelope&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://github.com/wu-kan&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-github&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://vjudge.net/user/WuK&quot;&gt;&#10;  &lt;i class=&quot;fa-solid fa-smile&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://space.bilibili.com/166390020&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-bilibili&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://www.zhihu.com/people/wu.kan/activities&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-zhihu&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;br/&gt;"/>
+      <outline text="wu-kan" type="rss" xmlUrl="https://wu-kan.cn/feed.xml" htmlUrl="https://wu-kan.cn/" description="SYSU第6年&lt;br/&gt;&#10;水野爱&lt;br/&gt;&#10;田宫例四驱车&lt;br/&gt;&#10;&lt;a href=&quot;mailto:i@wu-kan.cn&quot;&gt;&#10;  &lt;i class=&quot;fa-solid fa-envelope&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://github.com/wu-kan&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-github&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://vjudge.net/user/WuK&quot;&gt;&#10;  &lt;i class=&quot;fa-solid fa-smile&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://space.bilibili.com/166390020&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-bilibili&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://www.zhihu.com/people/wu.kan/activities&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-zhihu&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;br/&gt;"/>
       <outline text="Wujunze's Blog" type="rss" xmlUrl="https://wujunze.com/index.xml" htmlUrl="https://wujunze.com" description="Recent content in wujunze`s Blog on wujunze`s Blog"/>
       <outline text="Wulu's Blog" type="rss" xmlUrl="https://wulu.zone/feed.xml" htmlUrl="https://emuqi.github.io/" description="Keep learning"/>
       <outline text="WuSiYu Blog" type="rss" xmlUrl="https://wusiyu.me/feed/" htmlUrl="https://wusiyu.me" description="IT相关各种折腾"/>
@@ -1281,7 +1281,7 @@
       <outline text="博物志" type="rss" xmlUrl="http://bowuzhi.fm/feed/audio.xml" htmlUrl="https://bowuzhi.fm/" description="广泛地关于博物馆的播客。小黄鱼出品。2019 年苹果最佳节目之一。"/>
       <outline text="告别摄影" type="rss" xmlUrl="https://byebyephotography.typlog.io/feed/audio.xml" htmlUrl="https://byebye.photography/" description="像谈论一场电影一样谈论摄影。"/>
       <outline text="地面电台GROUNDRADIO" type="rss" xmlUrl="https://groundradio.net/feed/audio.xml" htmlUrl="https://groundradio.net/" description="三位普通乐迷发起的音乐文化类播客"/>
-      <outline text="坡道闲聊 Aisaka Chat" type="rss" xmlUrl="https://podcast.aisaka.cc/feed/podcast/" htmlUrl="https://podcast.aisaka.cc/" description="一档十分不专业的播客节目？"/>
+      <outline text="坡道闲聊 Aisaka Chat" type="rss" xmlUrl="https://podcast.aisaka.cc/feed/podcast/" htmlUrl="https://podcast.aisaka.cc/" description="一档十分不专业的播客节目"/>
       <outline text="声东击西" type="rss" xmlUrl="https://etw.fm/rss" htmlUrl="https://www.etw.fm/" description="世界宽广，但人们被日常及社交媒体所限制。&#10;那就让作为记者的我们，帮你推开一些意想不到的窗户，触及不一样的信息，激发不一样的思考。&#10;在这里，我们对话各种有趣有料，能带来启发的专业人士，也不定期会有神秘嘉宾出现。&#10;我们也时不时做各种和声音有关的尝试，打开一些新体验。&#10;支持我们，请大家移步 https://etw.fm/donation 。"/>
       <outline text="字谈字畅" type="rss" xmlUrl="https://www.thetype.com/typechat/feed/" htmlUrl="https://www.thetype.com/" description="《字谈字畅》是第一档用华语制作的字体排印主题播客节目，由 Eric Liu 与钱争予搭档主播。The Type 出品。"/>
       <outline text="小人物" type="rss" xmlUrl="https://anobody.im/podcast/rss.xml" htmlUrl="https://anobody.im/" description="一档探索内心、接纳自我、努力变优秀的播客，讲述来自各行各业小人物的工作、思考与生活，不限于欧洲生活、高效工作、海外求职、读书电影、美食旅行。欢迎发邮件到 anobody.fm@gmail.com"/>
@@ -1352,6 +1352,7 @@
     </outline>
     <outline text="Uncategorized">
       <outline text="Anillc's Blog" type="rss" xmlUrl="https://anillc.cn/atom.xml" htmlUrl="https://anillc.cn/" description=""/>
+      <outline text="Azad's Space" type="rss" xmlUrl="https://blog.azad.asia/atom.xml" htmlUrl="https://blog.azad.asia/" description="殖殖其庭，有觉其楹。哙哙其正，哕哕其冥。"/>
       <outline text="Kafuu" type="rss" xmlUrl="https://kafuu.cc/atom.xml" htmlUrl="https://kafuu.cc/" description="&lt;body&gt;&lt;script language=&quot;javaScript&quot;&gt;&#10;now = new Date(),hour = now.getHours()&#10;if(hour &lt; 6){document.write(&quot;凌晨好！&quot;)}&#10;else if (hour &lt; 9){document.write(&quot;早上好！&quot;)}&#10;else if (hour &lt; 12){document.write(&quot;上午好！&quot;)}&#10;else if (hour &lt; 14){document.write(&quot;中午好！&quot;)}&#10;else if (hour &lt; 17){document.write(&quot;下午好！&quot;)}&#10;else if (hour &lt; 19){document.write(&quot;傍晚好！&quot;)}&#10;else {document.write(&quot;晚上好！&quot;)}&#10;document.write(&quot;欢迎来到我的博客～～&quot;)&#10;&lt;/script&gt;&lt;/body&gt;"/>
       <outline text="L1nSn0w's Blog" type="rss" xmlUrl="https://blog.linsnow.cn/index.xml" htmlUrl="https://blog.linsnow.cn/" description="Recent content on L1nSn0w's Blog"/>
       <outline text="Purkit's Blog" type="rss" xmlUrl="https://blog.purkit.ml/index.xml" htmlUrl="https://blog.purkit.ml/" description="Recent content on Purkit's Blog"/>
