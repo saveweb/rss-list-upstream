@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2182,
+    "total": 2183,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -41894,6 +41894,28 @@
         "arch": "vuepress",
         "join_time": 1669171171568,
         "update_time": 1669171171568,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "b038562a-b3d5-420e-8d38-761e5b83dd05",
+        "idx": 2227,
+        "name": "浅枫沐雪",
+        "url": "https://allms.cn",
+        "tags": [
+          "代码",
+          "技术",
+          "软件"
+        ],
+        "sign": "不忘初心、眼若星辰。",
+        "feed": "https://allms.cn/feed",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "",
+        "arch": "",
+        "join_time": 1669221463772,
+        "update_time": 1669221463772,
         "saveweb_id": "",
         "recommend": false
       }
