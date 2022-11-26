@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 25 Nov 2022 12:28:01</dateCreated>
+    <dateCreated>Sat, 26 Nov 2022 12:27:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -164,7 +164,7 @@
       <outline text="Gary的个人技术记录" type="rss" xmlUrl="https://fugary.com/?feed=rss2" htmlUrl="https://fugary.com/" description="技术博客,关注软件开发、微服务、分布式"/>
       <outline text="Gavin notes" type="rss" xmlUrl="https://blog.gavln.com/feed.xml" htmlUrl="https://blog.gavln.com" description=""/>
       <outline text="gd1214b's blog" type="rss" xmlUrl="https://blog.gd1214b.icu/atom.xml" htmlUrl="https://blog.gd1214b.icu/" description="念念不忘，必有回响"/>
-      <outline text="GeekPlux" type="rss" xmlUrl="https://geekplux.com/feed.xml" htmlUrl="https://geekplux.com" description="数据可视化 &amp; 全栈程序员 @ 金融公司，always exploring"/>
+      <outline text="GeekPlux" type="rss" xmlUrl="https://geekplux.com/feed.xml" htmlUrl="https://geekplux.com" description="Data Visualization &amp; Full-stack programmer, always exploring"/>
       <outline text="Glory to the MANKIND!" type="rss" xmlUrl="https://matrixkook.github.io/feed.xml" htmlUrl="https://matrixkook.github.io/" description="Pwn!Glory to the MANKIND!"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="Gojira 哥斯拉" type="rss" xmlUrl="http://gojira.net/feed" htmlUrl="http://gojira.net/" description="哥斯拉电影迷爱好者" frss:cssFullContent=".article-content"/>
       <outline text="Gowhich" type="rss" xmlUrl="https://www.gowhich.com/feed" htmlUrl="https://www.gowhich.com" description="关注全栈开发的IT技术随笔"/>
@@ -724,7 +724,7 @@
       <outline text="唐巧的博客" type="rss" xmlUrl="http://blog.devtang.com/atom.xml" htmlUrl="http://blog.devtang.com/" description="记录下自己学习的点滴"/>
       <outline text="啊不都的自留地" type="rss" xmlUrl="https://www.oplog.cn/atom.xml" htmlUrl="http://www.abudu.top/" description="大道至简，衍化至繁"/>
       <outline text="啊哈呵嗨的博客" type="rss" xmlUrl="https://gylidian.js.org/rss2.xml" htmlUrl="https://gylidian.js.org" description="我热爱前端，从未停止过努力，喜欢折腾项目、分享生活中有趣的事物、热爱朋友和世界、对一切新知识充满好奇心。坚持一定很酷！"/>
-      <outline text="喵's StackHarbor" type="rss" xmlUrl="https://sh.alynx.one/atom.xml" htmlUrl="https://sh.alynx.one/" description="Whisper to the World"/>
+      <outline text="喵's StackHarbor" type="rss" xmlUrl="https://sh.alynx.one/atom.xml" htmlUrl="https://sh.alynx.one/" description="搞 GNOME 只是个人兴趣，去 VA-11 调酒才是工作。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="喵了个咪乎 Cat My Dog" type="rss" xmlUrl="https://y1ng.org/atom.xml" htmlUrl="https://y1ng.org/" description="A story about Toky" frss:cssFullContent=".post"/>
       <outline text="喵二の小博客" type="rss" xmlUrl="https://www.miaoer.xyz/atom.xml" htmlUrl="https://www.miaoer.xyz/" description="缘，妙不可言"/>
       <outline text="四公子的剑" type="rss" xmlUrl="https://www.965.one/atom.xml" htmlUrl="https://www.965.one/" description="This is my site, welcome you!"/>
