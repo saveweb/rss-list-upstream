@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sat, 26 Nov 2022 12:27:02</dateCreated>
+    <dateCreated>Sun, 27 Nov 2022 12:27:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1444,7 +1444,7 @@
       <outline text="CallMeSoul" type="rss" xmlUrl="https://callmesoul.cn/rss.xml" htmlUrl="https://callmesoul.cn" description="callmesoul前端开发者"/>
       <outline text="ChrAlpha 的幻想乡（博客）" type="rss" xmlUrl="https://blog.ichr.me/atom.xml" htmlUrl="https://blog.ichr.me" description=""/>
       <outline text="Daniel's Blog" type="rss" xmlUrl="https://moecm.com/feed/" htmlUrl="https://moecm.com/" description="Here's the BioniCosmos!"/>
-      <outline text="DIYGod - 写代码是热爱，写到世界充满爱!" type="rss" xmlUrl="https://diygod.me/atom.xml" htmlUrl="https://diygod.me" description=""/>
+      <outline text="DIYGod - 写代码是热爱，写到世界充满爱!" type="rss" xmlUrl="https://diygod.me/feed/xml" htmlUrl="https://diygod.me" description="写代码是热爱，写到世界充满爱！"/>
       <outline text="EGOIST 庶民样本" type="rss" xmlUrl="https://egoist.sh/zh/atom.xml" htmlUrl="https://egoist.sh/" description="The coolest anime fan"/>
       <outline text="Eulerian Moe" type="rss" xmlUrl="https://eulerian.xyz/feed.xml" htmlUrl="https://eulerian.xyz/" description=""/>
       <outline text="HanFengA7" type="rss" xmlUrl="https://blog.hanfenga7.cn/feed/" htmlUrl="https://blog.hanfenga7.cn/" description="所幸抬头仰望,总有星辰相伴!"/>
