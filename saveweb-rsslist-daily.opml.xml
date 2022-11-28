@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sun, 27 Nov 2022 12:27:01</dateCreated>
+    <dateCreated>Mon, 28 Nov 2022 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1478,7 +1478,7 @@
       <outline text="三无青年" type="rss" xmlUrl="https://www.duanxiansen.com/feed" htmlUrl="https://www.duanxiansen.com/" description="热爱生活，重新开始"/>
       <outline text="不一止集" type="rss" xmlUrl="http://buyivi.xyz/feed/" htmlUrl="http://buyivi.xyz/" description="从不会离去，才知道何时会相逢"/>
       <outline text="二楞的闲谈杂鱼" type="rss" xmlUrl="https://godruoyi.com/feeds" htmlUrl="https://godruoyi.com/" description="二楞的闲谈杂鱼."/>
-      <outline text="依米" type="rss" xmlUrl="https://www.feed.cc/feed/" htmlUrl="https://www.feed.cc/" description="时间在流逝，世界在变化，要比昨天的自己活得更有价值。"/>
+      <outline text="依米" type="rss" xmlUrl="https://www.feed.cc/feed" htmlUrl="https://www.feed.cc/" description="时间在流逝，世界在变化，要比昨天的自己活得更有价值。"/>
       <outline text="卡秋莎的小窝" type="rss" xmlUrl="https://katyusha.net/feed" htmlUrl="https://katyusha.net/" description=""/>
       <outline text="四方之云" type="rss" xmlUrl="https://jingyig.com/atom.xml" htmlUrl="https://jingyig01.github.io/" description=""/>
       <outline text="城南以南花亦开" type="rss" xmlUrl="https://coonaa.cn/atom.xml" htmlUrl="https://blog.coonaa.cn/" description="生活原本沉闷，但跑起来就会有风。"/>
