@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2185,
+    "total": 2186,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -41959,6 +41959,31 @@
         "arch": "Typecho",
         "join_time": 1669382926529,
         "update_time": 1669445725426,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "cd1dffd2-c9c7-43f7-8ffb-bb1cc1f44075",
+        "idx": 2230,
+        "name": "Macin",
+        "url": "https://macin.org/",
+        "tags": [
+          "综合",
+          "生活",
+          "思考",
+          "学习",
+          "金融",
+          "科技"
+        ],
+        "sign": "终身学习者在自由市场中的创造性表达",
+        "feed": "https://www.macin.org/atom.xml",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "",
+        "arch": "Hexo",
+        "join_time": 1669689927155,
+        "update_time": 1669689927155,
         "saveweb_id": "",
         "recommend": false
       }

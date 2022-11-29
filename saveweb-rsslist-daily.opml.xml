@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 28 Nov 2022 12:28:01</dateCreated>
+    <dateCreated>Tue, 29 Nov 2022 12:28:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -156,7 +156,7 @@
       <outline text="Fred Wu's Blog" type="rss" xmlUrl="https://fredwu.me/rss.xml" htmlUrl="https://fredwu.me/" description="Located in Melbourne, Australia, I am a software developer and leader with a strong focus on code craftsmanship, business value and user experience."/>
       <outline text="Free Mind" type="rss" xmlUrl="https://freemind.pluskid.org/rss.xml" htmlUrl="http://freemind.pluskid.org/" description=""/>
       <outline text="Frost's Blog" type="rss" xmlUrl="https://frost-lee.github.io/atom.xml" htmlUrl="https://frost-lee.github.io" description="Frost's Blog"/>
-      <outline text="Frytea's Blog" type="rss" xmlUrl="https://blog.frytea.com/feed/" htmlUrl="https://blog.frytea.com" description="对月吟诗，煮雪烹茶。"/>
+      <outline text="Frytea's Blog" type="rss" xmlUrl="https://blog.frytea.com/feed/" htmlUrl="https://blog.frytea.com" description="对月吟诗，煮雪烹茶。分享技术、生活、摄影，致力于分享有价值的技术支持、生活轨迹以及业余爱好。"/>
       <outline text="fun's Blog" type="rss" xmlUrl="https://blog.dev4eos.com/atom.xml" htmlUrl="http://blog.dev4eos.com/" description=""/>
       <outline text="FZDSLR" type="rss" xmlUrl="https://blog.fzdslr.cn/atom.xml" htmlUrl="https://blog.fzdslr.cn/" description=""/>
       <outline text="Garan no dou" type="rss" xmlUrl="https://blog.ibireme.com/feed/" htmlUrl="https://blog.ibireme.com/" description="一只魔法师的工坊"/>
@@ -636,7 +636,7 @@
       <outline text="也而的博客" type="rss" xmlUrl="https://zoomyale.com/rss/" htmlUrl="https://zoomyale.com/" description="在天涯和海角 放石头和葡萄"/>
       <outline text="乱谈府" type="rss" xmlUrl="https://laffitto.xyz/atom.xml" htmlUrl="https://laffitto.xyz/" description="也扯淡，也思考，也学习，也生活"/>
       <outline text="二丫讲梵" type="rss" xmlUrl="https://wiki.eryajf.net/rss.xml" htmlUrl="https://wiki.eryajf.net" description="💻学习📝记录🔗分享&#10;学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。"/>
-      <outline text="二只老虎" type="rss" xmlUrl="https://2hu.net/feed.xml" htmlUrl="https://2hu.net/" description="赤县小站，Cathay Blog，熊の猫，熊的猫，标准城市空巢青年。本博客基于Jekyll进行书写。源自生活的点点滴滴和碎碎念。"/>
+      <outline text="二只老虎" type="rss" xmlUrl="https://2hu.net/feed.xml" htmlUrl="https://2hu.net/" description="Cathay.blog，Cathay Blog，熊の猫，熊的猫，标准城市空巢青年。本博客基于Jekyll进行书写。源自生活的点点滴滴和碎碎念。"/>
       <outline text="云原生" type="rss" xmlUrl="https://jimmysong.io/index.xml" htmlUrl="https://jimmysong.io" description="Recent content on Jimmy Song - 专注于探索后 Kubernetes 时代的云原生新范式"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="云游君的小站" type="rss" xmlUrl="https://www.yunyoujun.cn/atom.xml" htmlUrl="https://www.yunyoujun.cn" description="云游君的小站" frss:cssFullContent=".post-content"/>
       <outline text="云顶天的世界" type="rss" xmlUrl="http://blog.cloudtopsky.com/feed/" htmlUrl="http://blog.cloudtopsky.com/" description="云顶天和他的朋友们"/>
