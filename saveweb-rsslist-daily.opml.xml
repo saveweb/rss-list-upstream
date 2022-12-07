@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 06 Dec 2022 12:26:01</dateCreated>
+    <dateCreated>Wed, 07 Dec 2022 12:26:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -271,7 +271,7 @@
       <outline text="Kevin's Notes" type="rss" xmlUrl="https://wuxinhua.com/atom.xml" htmlUrl="https://wuxinhua.com/" description=""/>
       <outline xmlns:frss="https://freshrss.org/opml" text="KevinZonda's Blog" type="rss" xmlUrl="https://blog.kevinzonda.com/index.xml" htmlUrl="https://blog.kevinzonda.com/" description="Recent content on KevinZonda's Blog" frss:cssFullContent=".post-content"/>
       <outline text="KirimaSharo's Blog  |  Syaro最可爱了" type="rss" xmlUrl="https://www.kirimasharo.com/feed/" htmlUrl="https://kirimasharo.com/" description="与你分享萌系软件游戏"/>
-      <outline text="kirito" type="rss" xmlUrl="https://www.kirito41dd.cn/index.xml" htmlUrl="https://www.kirito41dd.cn" description="kirito's blog"/>
+      <outline text="kirito" type="rss" xmlUrl="https://www.kirito.info/index.xml" htmlUrl="https://www.kirito41dd.cn" description="kirito's blog"/>
       <outline text="kn007的个人博客" type="rss" xmlUrl="https://kn007.net/feed/" htmlUrl="https://kn007.net/" description="kn007's blog"/>
       <outline text="kok的笔记本" type="rss" xmlUrl="https://wocai.de/index.xml/" htmlUrl="https://wocai.de" description="Recent content on kok的笔记本"/>
       <outline text="KP" type="rss" xmlUrl="https://zkpeace.com/blog-cn/atom.xml" htmlUrl="http://zkpeace.com/blog-cn/" description="The Universe of KP"/>
@@ -1479,7 +1479,7 @@
       <outline text="Ziv Log" type="rss" xmlUrl="https://zivlog.io/feed.xml" htmlUrl="https://zivlog.io/" description="The blog of Song-Zi Vong"/>
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed/" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
       <outline text="Zwh's Blog" type="rss" xmlUrl="https://blog.zwh.best/index.php/feed/" htmlUrl="https://blog.zwh.best/" description="咸鱼的摸鱼区"/>
-      <outline text="一个博客" type="rss" xmlUrl="https://magichouse.ltd/feed/" htmlUrl="https://boke.one/" description="Your description here."/>
+      <outline text="一个博客" type="rss" xmlUrl="https://magichouse.ltd/feed" htmlUrl="https://boke.one/" description="分享每一个值得记录的时刻"/>
       <outline text="三无青年" type="rss" xmlUrl="https://www.duanxiansen.com/feed" htmlUrl="https://www.duanxiansen.com/" description="热爱生活，重新开始"/>
       <outline text="三点钟的太阳" type="rss" xmlUrl="https://iamxcb.com/atom.xml" htmlUrl="https://iamxcb.com" description=""/>
       <outline text="不一止集" type="rss" xmlUrl="http://buyivi.xyz/feed/" htmlUrl="http://buyivi.xyz/" description="从不会离去，才知道何时会相逢"/>
