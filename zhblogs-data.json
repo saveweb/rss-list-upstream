@@ -3390,7 +3390,7 @@
         "url": "https://dyedd.cn/",
         "tags": [
           "笔记",
-          "c/c++",
+          "C/C++",
           "记事"
         ],
         "sign": "Writing code, painful and happy",
@@ -3504,7 +3504,7 @@
         "url": "https://blog.yanqingshan.com/",
         "tags": [
           "java",
-          "linux",
+          "Linux",
           "北京",
           "生活",
           "记事",
@@ -3552,7 +3552,7 @@
         "name": "阿豪运维笔记",
         "url": "https://www.ahaoyw.com/",
         "tags": [
-          "linux",
+          "Linux",
           "运维",
           "mysql"
         ],
@@ -3640,7 +3640,7 @@
         "url": "https://www.itze.cn/",
         "tags": [
           "mysql",
-          "linux"
+          "Linux"
         ],
         "sign": "开发者领域",
         "feed": "https://www.itze.cn/feed",
@@ -3842,7 +3842,7 @@
           "前端",
           "读书",
           "Python",
-          "linux",
+          "Linux",
           "科研"
         ],
         "sign": "一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程",
@@ -3930,10 +3930,10 @@
         "name": "唯獨少了個字",
         "url": "https://kisskisso.com/",
         "tags": [
-          "linux",
+          "Linux",
           "js",
           "wsl",
-          "c/c++",
+          "C/C++",
           "git",
           "html",
           "http",
@@ -3957,7 +3957,7 @@
         "name": "OmegaXYZ-徐奕的专栏",
         "url": "https://www.omegaxyz.com/",
         "tags": [
-          "c/c++",
+          "C/C++",
           "Python",
           "数学",
           "科研"
@@ -4635,7 +4635,7 @@
         "name": "大伟的博客",
         "url": "https://easeapi.com/blog/",
         "tags": [
-          "linux",
+          "Linux",
           "ios",
           "技术",
           "sqlite"
@@ -6048,7 +6048,7 @@
           "互联网",
           "redis",
           "多线程",
-          "docker",
+          "Docker",
           "java",
           "kafka"
         ],
@@ -7738,7 +7738,7 @@
         "url": "https://www.bboy.app/",
         "tags": [
           "笔记",
-          "linux"
+          "Linux"
         ],
         "sign": "向知识投资",
         "feed": "",
@@ -7969,7 +7969,7 @@
         "name": "程序萌部落",
         "url": "https://www.cxmoe.com/",
         "tags": [
-          "linux",
+          "Linux",
           "Ubuntu",
           "群晖",
           "随笔"
@@ -8034,7 +8034,7 @@
         "name": "Jacky Tong",
         "url": "https://www.jackytong.com/",
         "tags": [
-          "c/c++",
+          "C/C++",
           "生活",
           "软件推荐"
         ],
@@ -9558,7 +9558,7 @@
           "后端",
           "typecho",
           "mysql",
-          "linux"
+          "Linux"
         ],
         "sign": "主要用于记录工作、生活、学习相关内容",
         "feed": "https://www.samool.com/feed/",
@@ -11056,7 +11056,7 @@
           "生活",
           "分享",
           "go",
-          "c/c++",
+          "C/C++",
           "技术"
         ],
         "sign": "A tech lover from Earth",
@@ -11078,7 +11078,7 @@
         "url": "https://www.panyixiao.com/",
         "tags": [
           "php",
-          "c/c++",
+          "C/C++",
           "杂记",
           "wordpress",
           "技术"
@@ -12066,7 +12066,7 @@
           "博客",
           "react",
           "axios",
-          "c/c++",
+          "C/C++",
           "薅羊毛",
           "next.js",
           "计算机"
@@ -25440,7 +25440,7 @@
         "url": "https://blog.dreace.top/",
         "tags": [
           "Python",
-          "c/c++",
+          "C/C++",
           "php",
           "随笔"
         ],
@@ -25903,7 +25903,7 @@
           "hexo",
           "github",
           "数据库",
-          "c/c++",
+          "C/C++",
           "资源",
           "网站",
           "数据结构",
@@ -28465,7 +28465,7 @@
         "url": "https://www.xiaoniuhululu.com",
         "tags": [
           "java",
-          "linux",
+          "Linux",
           "Python"
         ],
         "sign": "分享原创文章",
@@ -28761,9 +28761,9 @@
         "url": "https://blog.qaiu.top",
         "tags": [
           "java",
+          "C/C++",
           "c/c++",
-          "c/c++",
-          "linux",
+          "Linux",
           "Android",
           "开发",
           "分享",
@@ -42086,17 +42086,20 @@
         "id": "807192b2-20d8-4b96-ba39-72e5011a753e",
         "idx": 2237,
         "name": "阳光下的小宁宁",
-        "url": "www.yuanning0818.tk",
-        "tags": [],
+        "url": "https://www.yuanning0818.tk",
+        "tags": [
+          "技术",
+          "记录"
+        ],
         "sign": "一个少年的博客",
         "feed": "www.yuanning0818.tk/atom.xml",
         "status": "unknown",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "",
         "arch": "Hexo",
         "join_time": 1670489502809,
-        "update_time": 1670489502809,
+        "update_time": 1670570055062,
         "saveweb_id": "",
         "recommend": false
       },
@@ -42106,17 +42109,19 @@
         "name": "摸鱼的人",
         "url": "https://moyude.ren/",
         "tags": [
-          "综合"
+          "生活",
+          "杂记",
+          "故事"
         ],
         "sign": "从此爱上摸鱼❤️",
         "feed": "https://moyude.ren/feed.php",
         "status": "unknown",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "https://moyude.ren/sitemap/map.xml",
         "arch": "Z-BlogPHP",
         "join_time": 1670495886923,
-        "update_time": 1670495886923,
+        "update_time": 1670569960604,
         "saveweb_id": "",
         "recommend": false
       }

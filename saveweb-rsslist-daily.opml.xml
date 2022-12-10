@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 09 Dec 2022 12:26:01</dateCreated>
+    <dateCreated>Sat, 10 Dec 2022 12:26:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -340,7 +340,7 @@
       <outline text="Marwin's Blog" type="rss" xmlUrl="https://marwin.cn/rss2.xml" htmlUrl="https://marwincn.github.io/" description=""/>
       <outline text="Matrix67: The Aha Moments" type="rss" xmlUrl="http://www.matrix67.com/blog/feed" htmlUrl="http://www.matrix67.com/blog/" description=""/>
       <outline text="Matsuri's Neverland" type="rss" xmlUrl="https://matsuri.site/atom.xml" htmlUrl="https://matsuri.site/" description=""/>
-      <outline text="maxOS" type="rss" xmlUrl="https://maxoxo.me/rss/" htmlUrl="https://maxoxo.me" description="Eventually everything connects - people, ideas, objects."/>
+      <outline text="maxOS" type="rss" xmlUrl="https://maxoxo.me/rss/" htmlUrl="https://maxoxo.me" description="探索产品设计的科学"/>
       <outline text="Mayx的博客" type="rss" xmlUrl="https://mabbs.github.io/atom.xml" htmlUrl="https://mabbs.github.io/" description="Mayx's Home Page"/>
       <outline text="mcfx's blog" type="rss" xmlUrl="https://mcfx.us/feed/" htmlUrl="https://mcfx.us/" description="题解、Writeup、游记和碎碎念"/>
       <outline text="Measure Zero" type="rss" xmlUrl="https://shiina18.github.io/atom.xml" htmlUrl="https://shiina18.github.io/" description="A blog on my personal life."/>
@@ -761,7 +761,7 @@
       <outline text="孙老四" type="rss" xmlUrl="http://lao.si/rss.xml" htmlUrl="http://lao.si/" description="孙老四的个人网站"/>
       <outline text="孤岛客 - 几支无用笔，半打有心人。" type="rss" xmlUrl="https://www.huangjiwei.com/blog/?feed=rss2" htmlUrl="http://www.huangjiwei.com/blog/" description="几支无用笔，半打有心人。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="学无止境@一点一滴" type="rss" xmlUrl="http://gtdstudy.com/index.xml" htmlUrl="http://yibie.github.io/" description="Recent content on 学无止境" frss:cssFullContent=".post-content"/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="宇宙的心弦" type="rss" xmlUrl="https://www.physixfan.com/feed/" htmlUrl="https://www.physixfan.com" description="细推物理须行乐 何用浮名绊此身" frss:cssFullContent=".entry"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="宇宙的心弦" type="rss" xmlUrl="https://www.physixfan.com/feed/" htmlUrl="https://www.physixfan.com" description="ç»†æŽ¨ç‰©ç†é¡»è¡Œä¹ ä½•ç”¨æµ®åç»Šæ­¤èº«" frss:cssFullContent=".entry"/>
       <outline text="守望轩" type="rss" xmlUrl="https://www.watch-life.net/feed" htmlUrl="https://www.watch-life.net/" description="守望生活, 审视自我,宁静雅致的小轩馆."/>
       <outline text="安志合的学习博客" type="rss" xmlUrl="https://chegva.com/feed/" htmlUrl="https://chegva.com" description="让我们面对现实  让我们忠于理想"/>
       <outline text="宋春林" type="rss" xmlUrl="http://songchunlin.net/cn/feed/" htmlUrl="http://sixf.org/" description=""/>
@@ -1217,7 +1217,7 @@
       <outline text="黄琦雲的博客" type="rss" xmlUrl="https://knightyun.github.io/feed.xml" htmlUrl="https://knightyun.github.io/" description="基于 jekyll 的 Github Pages 个人博客网站，技术的学习、总结、分享与提升"/>
       <outline text="黑·白" type="rss" xmlUrl="http://blog.xiayf.cn/feeds/rss.xml" htmlUrl="http://blog.xiayf.cn/" description=""/>
       <outline text="黑羽的个人博客" type="rss" xmlUrl="https://blog.thetbw.xyz/atom.xml" htmlUrl="https://blog.thetbw.xyz/" description="分享记录"/>
-      <outline text="默默小屋" type="rss" xmlUrl="http://www.gexiao.me/atom.xml" htmlUrl="http://www.gexiao.me/" description=""/>
+      <outline text="默默小屋" type="rss" xmlUrl="https://www.gexiao.me/atom.xml" htmlUrl="http://www.gexiao.me/" description=""/>
       <outline text="龚成博客" type="rss" xmlUrl="https://laogongshuo.com/feed" htmlUrl="https://laogongshuo.com" description="不高大但是威猛，不英俊但是潇洒"/>
       <outline text="🏠 Jie Li's Blog 🏠" type="rss" xmlUrl="https://www.pupboss.com/rss/" htmlUrl="https://www.pupboss.com/" description="🚘 On-road / 📉 US Stock / 💻 Full Stack Engineer / ®️ ENTJ"/>
       <outline text="🍂りゅう" type="rss" xmlUrl="https://www.ryuu.top/atom.xml" htmlUrl="https://www.ryuu.top/" description="個人的な絵の共有と学習経験の記録"/>
