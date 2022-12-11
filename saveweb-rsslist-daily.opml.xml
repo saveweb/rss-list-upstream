@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sat, 10 Dec 2022 12:26:01</dateCreated>
+    <dateCreated>Sun, 11 Dec 2022 12:26:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -653,7 +653,7 @@
       <outline text="但行好事，莫问前程" type="rss" xmlUrl="https://windard.com/feed.xml" htmlUrl="https://windard.com" description="Windard's simple blog web"/>
       <outline text="低头族" type="rss" xmlUrl="https://blog.9hz.club/feed" htmlUrl="https://ditou.org" description="先坚持十年博客，万一老了就没机会了。"/>
       <outline text="住在山上的帽子姐姐" type="rss" xmlUrl="https://maozjj.com/?feed=rss2" htmlUrl="https://maozjj.com/" description="一个农民的日记"/>
-      <outline text="佐仔志" type="rss" xmlUrl="https://www.jinbo123.com/feed" htmlUrl="https://www.jinbo123.com/" description="I try to make it simple!"/>
+      <outline text="佐仔志" type="rss" xmlUrl="https://www.jinbo123.com/feed/" htmlUrl="https://www.jinbo123.com/" description="I try to make it simple!"/>
       <outline text="余果的博客" type="rss" xmlUrl="http://feeds.feedburner.com/yuguo" htmlUrl="https://yuguo.us" description="欢迎关注我的公众号：余果专栏"/>
       <outline text="余海峯 David 物理喵 phycat" type="rss" xmlUrl="https://hfdavidyu.com/feed/" htmlUrl="https://hfdavidyu.com" description="TEACH YOUR CAT SCIENCE"/>
       <outline text="依云's Blog" type="rss" xmlUrl="https://blog.lilydjwg.me/feed" htmlUrl="https://blog.lilydjwg.me" description=""/>
@@ -761,7 +761,7 @@
       <outline text="孙老四" type="rss" xmlUrl="http://lao.si/rss.xml" htmlUrl="http://lao.si/" description="孙老四的个人网站"/>
       <outline text="孤岛客 - 几支无用笔，半打有心人。" type="rss" xmlUrl="https://www.huangjiwei.com/blog/?feed=rss2" htmlUrl="http://www.huangjiwei.com/blog/" description="几支无用笔，半打有心人。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="学无止境@一点一滴" type="rss" xmlUrl="http://gtdstudy.com/index.xml" htmlUrl="http://yibie.github.io/" description="Recent content on 学无止境" frss:cssFullContent=".post-content"/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="宇宙的心弦" type="rss" xmlUrl="https://www.physixfan.com/feed/" htmlUrl="https://www.physixfan.com" description="ç»†æŽ¨ç‰©ç†é¡»è¡Œä¹ ä½•ç”¨æµ®åç»Šæ­¤èº«" frss:cssFullContent=".entry"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="宇宙的心弦" type="rss" xmlUrl="https://www.physixfan.com/feed/" htmlUrl="https://www.physixfan.com" description="细推物理须行乐 何用浮名绊此身" frss:cssFullContent=".entry"/>
       <outline text="守望轩" type="rss" xmlUrl="https://www.watch-life.net/feed" htmlUrl="https://www.watch-life.net/" description="守望生活, 审视自我,宁静雅致的小轩馆."/>
       <outline text="安志合的学习博客" type="rss" xmlUrl="https://chegva.com/feed/" htmlUrl="https://chegva.com" description="让我们面对现实  让我们忠于理想"/>
       <outline text="宋春林" type="rss" xmlUrl="http://songchunlin.net/cn/feed/" htmlUrl="http://sixf.org/" description=""/>
@@ -1068,7 +1068,7 @@
       <outline text="罗二德" type="rss" xmlUrl="https://lorde627.xyz/atom.xml" htmlUrl="https://lorde627.xyz/" description="折腾是乐趣所在!"/>
       <outline text="罗磊的独立博客" type="rss" xmlUrl="https://luolei.org/feed/" htmlUrl="https://luolei.org" description="前端工程师，ZUOLUOTV制作人"/>
       <outline text="美樂地" type="rss" xmlUrl="https://meledee.com/feed" htmlUrl="https://meledee.com/" description="Meledee.com"/>
-      <outline text="老兄de博客" type="rss" xmlUrl="https://www.moec.top/feed" htmlUrl="https://www.moec.top/" description=""/>
+      <outline text="老兄de博客" type="rss" xmlUrl="https://www.moec.top/feed/" htmlUrl="https://www.moec.top/" description=""/>
       <outline text="老周快救我" type="rss" xmlUrl="https://zxx.im/feed" htmlUrl="https://zxx.im" description="Life Is Fantastic."/>
       <outline xmlns:frss="https://freshrss.org/opml" text="老苏的blog" type="rss" xmlUrl="https://laosu.ml/atom.xml" htmlUrl="https://laosu.ml/" description="聚沙成塔，集腋成裘" frss:cssFullContent=".post-body"/>
       <outline text="老虎不吃人" type="rss" xmlUrl="https://tdeh.top/feed/" htmlUrl="https://tdeh.top/" description="恋をしているから、その子は輝くんた"/>

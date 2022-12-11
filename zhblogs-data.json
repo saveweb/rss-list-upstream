@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2193,
+    "total": 2194,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -42122,6 +42122,28 @@
         "arch": "Z-BlogPHP",
         "join_time": 1670495886923,
         "update_time": 1670569960604,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "272f6548-4cda-4a67-a0e1-007692c5dc96",
+        "idx": 2239,
+        "name": "菜鸟博客",
+        "url": "https://ruyun.tk/",
+        "tags": [
+          "综合",
+          "代码",
+          "软件"
+        ],
+        "sign": "期待与更多人相遇",
+        "feed": "https://ruyun.tk/",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": true,
+        "sitemap": "https://ruyun.tk/sitemap.xml",
+        "arch": "Typecho",
+        "join_time": 1670681658756,
+        "update_time": 1670727626885,
         "saveweb_id": "",
         "recommend": false
       }
