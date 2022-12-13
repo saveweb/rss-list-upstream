@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 12 Dec 2022 12:25:02</dateCreated>
+    <dateCreated>Tue, 13 Dec 2022 12:26:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -836,7 +836,7 @@
       <outline text="忘忧的小站" type="rss" xmlUrl="https://wangyou233.wang/rss" htmlUrl="https://wangyou233.wang/" description="君子藏器于身，待时而动，何不利之有"/>
       <outline text="忘忧的小站" type="rss" xmlUrl="https://wangyou.ink/atom.xml" htmlUrl="https://wangyou.ink/" description=""/>
       <outline text="思圆笔记" type="rss" xmlUrl="https://hintsnet.com/pimgeek/feed/" htmlUrl="https://hintsnet.com/" description="促成良性循环"/>
-      <outline text="思斯作响" type="rss" xmlUrl="http://thinkaloud.cc/feed" htmlUrl="http://thinkaloud.cc/" description=""/>
+      <outline text="思斯作响" type="rss" xmlUrl="http://thinkaloud.cc/feed" htmlUrl="http://thinkaloud.cc/" description="这是一个由NotionNext生成的站点"/>
       <outline text="思有云" type="rss" xmlUrl="https://www.ioiox.com/feed/" htmlUrl="https://www.ioiox.com" description="IOIOX 个人博客 生活记录 原创文章 技术分享 资源分享 群晖技巧 群晖教程 免费frp 免费内网穿透"/>
       <outline text="思泉 | Jev0n" type="rss" xmlUrl="https://jev0n.com/feed/" htmlUrl="https://jev0n.com/" description="Coder,CTFer,专业写BUG"/>
       <outline text="思考问题的熊" type="rss" xmlUrl="https://kaopubear.top/blog/atom.xml" htmlUrl="https://kaopubear.top/blog" description="很高兴和你相遇&lt;br&gt;这里正在记录我的所思所学&lt;br&gt;订阅&lt;a href=&quot;https://kaopubear.zhubai.love/&quot; target=&quot;_blank&quot;&gt;免费邮件通讯&lt;/a&gt;接收最新内容"/>
