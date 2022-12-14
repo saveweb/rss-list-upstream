@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 13 Dec 2022 12:26:02</dateCreated>
+    <dateCreated>Wed, 14 Dec 2022 12:27:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -543,7 +543,7 @@
       <outline text="White Space" type="rss" xmlUrl="https://whites.space/feed" htmlUrl="https://whites.space/" description="A Blog and Site about CLU thoughts and recording my experience that worth to share."/>
       <outline text="whyes 的博客" type="rss" xmlUrl="http://whyes.org/feed.xml" htmlUrl="https://whyes.org/" description="Pocket, Read &amp; Liver cancer"/>
       <outline text="Windsky博客 | 晔's blog" type="rss" xmlUrl="https://www.okace.cn/feed/" htmlUrl="https://www.okace.cn/" description="Windsky博客 （www.okace.cn） 闫立晔同学的个人博客，爱我所爱，从未离开，欢迎访问。"/>
-      <outline text="winegrower" type="rss" xmlUrl="http://www.winegrower.cn/feed/" htmlUrl="http://www.winegrower.cn/" description="一个失败者的自述"/>
+      <outline text="winegrower" type="rss" xmlUrl="http://www.winegrower.cn/feed/" htmlUrl="http://www.winegrower.cn/" description="种葡萄并酿酒的人"/>
       <outline text="Wonder Space" type="rss" xmlUrl="https://blog.l3on.site/feed" htmlUrl="https://blog.l3on.site/" description="不可勝在己，可勝在敵"/>
       <outline text="Woshiluo's Notebook" type="rss" xmlUrl="https://blog.woshiluo.com/feed" htmlUrl="https://blog.woshiluo.com/" description="「长江黄河不会倒流」"/>
       <outline text="wu-kan" type="rss" xmlUrl="https://wu-kan.cn/feed.xml" htmlUrl="https://wu-kan.cn/" description="SYSU第6年&lt;br/&gt;&#10;水野爱&lt;br/&gt;&#10;田宫例四驱车&lt;br/&gt;&#10;&lt;a href=&quot;mailto:i@wu-kan.cn&quot;&gt;&#10;  &lt;i class=&quot;fa-solid fa-envelope&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://github.com/wu-kan&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-github&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://vjudge.net/user/WuK&quot;&gt;&#10;  &lt;i class=&quot;fa-solid fa-smile&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://space.bilibili.com/166390020&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-bilibili&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;a href=&quot;https://www.zhihu.com/people/wu.kan/activities&quot;&gt;&#10;  &lt;i class=&quot;fa-brands fa-zhihu&quot;&gt;&lt;/i&gt;&#10;&lt;/a&gt;&#10;&lt;br/&gt;"/>
@@ -1367,7 +1367,7 @@
     <outline text="不在首页显示">
       <outline text="Cryptospace" type="rss" xmlUrl="https://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com" description="Bitcoin Hodler，自由主义者，区块链创业者，ChainONE 社区发起人，dbarobin.com 博主，隐私极客。如您所见，本人发布的文章与评论内容仅代表本人观点。「万物之中，希望至美；至美之物，永不凋零。」"/>
       <outline text="懒得勤快的博客_互联网分享精神" type="rss" xmlUrl="https://ldqk.xyz/rss" htmlUrl="https://masuit.com/rss" description="若页面无法访问，可通过搜索引擎网页快照进行浏览。懒得勤快，互联网分享精神，勤于发现，乐于分享，稀缺软件分享，视频教程分享，各种优质资源分享，新日暮里哲学文化传媒，正版软件下载！"/>
-      <outline text="杏铃の小本" type="rss" xmlUrl="https://xn--8qvt52h.top/feed" htmlUrl="https://66ccff.work/" description="这是一份赠与你的礼物，分享技术向教程&amp;奇怪的东西"/>
+      <outline text="杏铃の小本" type="rss" xmlUrl="https://xn--8qvt52h.top/feed" htmlUrl="https://66ccff.work/" description="Galgame专用社区:  g.杏铃.top 博客不提供Galgame"/>
       <outline text="林羽凡博客" type="rss" xmlUrl="https://www.linyufan.com/rss.xml" htmlUrl="https://www.linyufan.com/" description="林羽凡个人博客，认认真真写日记的80后老伙计。"/>
       <outline text="游研社" type="rss" xmlUrl="https://www.yystv.cn/rss/feed" htmlUrl="https://www.yystv.cn/" description="无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。"/>
       <outline text="牛津的博客" type="rss" xmlUrl="https://blog.jinreal.com/index.xml" htmlUrl="https://blog.jinreal.com/" description="Recent content on 牛津的博客"/>
