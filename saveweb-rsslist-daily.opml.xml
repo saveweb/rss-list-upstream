@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Wed, 14 Dec 2022 12:27:02</dateCreated>
+    <dateCreated>Thu, 15 Dec 2022 12:27:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -450,7 +450,7 @@
       <outline text="Samson's Machete" type="rss" xmlUrl="https://nalaginrut.com/feed/atom" htmlUrl="http://nalaginrut.com/" description=""/>
       <outline text="Sanzo's blog." type="rss" xmlUrl="https://sanzo.top/atom.xml" htmlUrl="https://sanzo.top/" description=""/>
       <outline xmlns:frss="https://freshrss.org/opml" text="Saul's Atomsphere" type="rss" xmlUrl="https://saulnoble.github.io/atom.xml" htmlUrl="https://saulnoble.github.io/" description="偷懒学教授，艺术家" frss:cssFullContent=".article-entry"/>
-      <outline text="Save The Web Project" type="rss" xmlUrl="https://saveweb.othing.xyz/feed/" htmlUrl="https://saveweb.othing.xyz/" description="[招募网络存档爱好者] 公益社团，互联网中的局部保鲜剂。"/>
+      <outline text="Save The Web Project" type="rss" xmlUrl="https://blog.save-web.org/feed/" htmlUrl="https://saveweb.othing.xyz/" description="[招募网络存档爱好者] 公益社团，互联网中的局部保鲜剂。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="SC's 神奇的JavaWeb" type="rss" xmlUrl="https://shicheng.cool/atom.xml" htmlUrl="https://shicheng.cool/" description="Perseverance And Patience" frss:cssFullContent="#articleContent"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="ScarSu的个人网站" type="rss" xmlUrl="https://www.scarsu.com/atom.xml" htmlUrl="https://www.scarsu.com/" description="不要标榜，去行动😃" frss:cssFullContent=".post-content"/>
       <outline text="Senraの小窝" type="rss" xmlUrl="http://www.senra.me/feed/" htmlUrl="http://www.senra.me/" description="初闻天籁之音，未使心之将来。"/>
@@ -1108,7 +1108,6 @@
       <outline text="褪墨・时间管理" type="rss" xmlUrl="https://www.mifengtd.cn/feed.xml" htmlUrl="https://www.mifengtd.cn/" description="褪墨・时间管理是一个关注时间管理、GTD、个人提升、生活健康与习惯、学习方法和演讲技巧的网站。我们的目标是：把事情做到更好！"/>
       <outline text="西乔的九卦" type="rss" xmlUrl="http://blog.xiqiao.info/feed/" htmlUrl="http://blog.xiqiao.info/" description="你会成为你想要成为的样子"/>
       <outline text="西枫里博客" type="rss" xmlUrl="https://www.anji66.net/rss.xml" htmlUrl="https://www.anji66.net/" description="西枫里人博客专注于为安吉地区提供网站建设，系统开发，网站优化，互联网咨询的个人博客"/>
-      <outline text="西秦公子" type="rss" xmlUrl="https://www.ixiqin.com/feed/#force_feed" htmlUrl="https://www.ixiqin.com/" description="战略的核心是聚焦"/>
       <outline text="覆沉" type="rss" xmlUrl="https://blog.ryey.icu/feeds/atom.xml" htmlUrl="https://blog.ryey.icu/" description="對沒錯，這是「人云E云」那貨的博客"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="见字如面" type="rss" xmlUrl="https://hiwannz.com/feed" htmlUrl="https://hiwannz.com" description="抽离自我，冷眼旁观" frss:cssFullContent=".post"/>
       <outline text="认知困难户" type="rss" xmlUrl="https://wangluzhou.com/atom.xml" htmlUrl="http://wangluzhou.github.io/" description="Keep it easy and keep myself busy."/>
@@ -1341,6 +1340,7 @@
       <outline text="TonyHe 的博客" type="rss" xmlUrl="https://blog.ouorz.com/feed" htmlUrl="https://www.ouorz.com" description=""/>
       <outline text="Weishu's Notes" type="rss" xmlUrl="https://weishu.me/atom.xml" htmlUrl="https://weishu.me/" description=""/>
       <outline text="Xiaoi's Blog" type="rss" xmlUrl="https://blog.xiaoi.me/feed.xml" htmlUrl="https://blog.xiaoi.me/" description="Material theme based on &lt;a href=&quot;http://materializecss.com&quot;&gt;Materialize.css&lt;/a&gt; for jekyll sites"/>
+      <outline text="西秦公子" type="rss" xmlUrl="https://www.ixiqin.com/feed/" htmlUrl="https://www.ixiqin.com/" description="战略的核心是聚焦"/>
       <outline text="解道jdon.com" type="rss" xmlUrl="https://www.jdon.com/rss" htmlUrl="https://www.jdon.com" description="探索 分享 交流 解惑 授道&#13;&#10;                。更多关注见https://www.jdon.com/followus.html"/>
     </outline>
     <outline text="RSS出错">
@@ -1360,7 +1360,7 @@
       <outline text="LGiki's Blog" type="rss" xmlUrl="https://lgiki.net/index.xml" htmlUrl="https://lgiki.net/" description="Recent content on LGiki's Blog"/>
       <outline text="PoM's" type="rss" xmlUrl="https://pomeye.art/atom.xml" htmlUrl="https://pomeye.art/" description=""/>
       <outline text="Purkit's Blog" type="rss" xmlUrl="https://blog.purkit.ml/index.xml" htmlUrl="https://blog.purkit.ml/" description="Recent content on Purkit's Blog"/>
-      <outline xmlns:frss="https://freshrss.org/opml" text="南山如雪" type="rss" xmlUrl="https://www.ckajx.com/atom.xml" htmlUrl="https://www.ckajx.com/" description="" frss:cssFullContent=".main-content"/>
+      <outline text="怠惰のコエ - imba久期 BLOG" type="rss" xmlUrl="https://imba97.cn/atom.xml" htmlUrl="https://imba97.cn/" description=""/>
       <outline text="掘火档案" type="rss" xmlUrl="https://www.digforfire.net/?feed=rss2" htmlUrl="https://www.digforfire.net/" description="A Selection of Critical Mass in Music, Films and Beyond"/>
       <outline text="标点符" type="rss" xmlUrl="https://www.biaodianfu.com/feed" htmlUrl="https://www.biaodianfu.com/" description="格物致知→知行合一"/>
     </outline>
@@ -1485,6 +1485,7 @@
       <outline text="不一止集" type="rss" xmlUrl="http://buyivi.xyz/feed/" htmlUrl="http://buyivi.xyz/" description="从不会离去，才知道何时会相逢"/>
       <outline text="二楞的闲谈杂鱼" type="rss" xmlUrl="https://godruoyi.com/feeds" htmlUrl="https://godruoyi.com/" description="二楞的闲谈杂鱼."/>
       <outline text="亦世凡华" type="rss" xmlUrl="https://10888888.xyz/feed.xml" htmlUrl="https://10888888.xyz/" description="不要迷恋哥，哥只是个传说。"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="南山如雪" type="rss" xmlUrl="https://www.ckajx.com/atom.xml" htmlUrl="https://www.ckajx.com/" description="" frss:cssFullContent=".main-content"/>
       <outline text="四方之云" type="rss" xmlUrl="https://jingyig.com/atom.xml" htmlUrl="https://jingyig01.github.io/" description=""/>
       <outline text="城南以南花亦开" type="rss" xmlUrl="https://coonaa.cn/atom.xml" htmlUrl="https://blog.coonaa.cn/" description="生活原本沉闷，但跑起来就会有风。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="城南旧事" type="rss" xmlUrl="https://blog.loli.top/feed/" htmlUrl="https://blog.loli.top/" description="透过文字和影像记忆，我们延长了至少三倍的生命。" frss:cssFullContent=".post-content"/>
