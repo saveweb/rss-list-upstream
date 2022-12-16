@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 15 Dec 2022 12:27:02</dateCreated>
+    <dateCreated>Fri, 16 Dec 2022 12:25:03</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -450,7 +450,7 @@
       <outline text="Samson's Machete" type="rss" xmlUrl="https://nalaginrut.com/feed/atom" htmlUrl="http://nalaginrut.com/" description=""/>
       <outline text="Sanzo's blog." type="rss" xmlUrl="https://sanzo.top/atom.xml" htmlUrl="https://sanzo.top/" description=""/>
       <outline xmlns:frss="https://freshrss.org/opml" text="Saul's Atomsphere" type="rss" xmlUrl="https://saulnoble.github.io/atom.xml" htmlUrl="https://saulnoble.github.io/" description="偷懒学教授，艺术家" frss:cssFullContent=".article-entry"/>
-      <outline text="Save The Web Project" type="rss" xmlUrl="https://blog.save-web.org/feed/" htmlUrl="https://saveweb.othing.xyz/" description="[招募网络存档爱好者] 公益社团，互联网中的局部保鲜剂。"/>
+      <outline text="Save The Web Project" type="rss" xmlUrl="https://blog.save-web.org/feed/" htmlUrl="https://blog.save-web.org/" description="[招募网络存档爱好者] 公益社团，互联网中的局部保鲜剂。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="SC's 神奇的JavaWeb" type="rss" xmlUrl="https://shicheng.cool/atom.xml" htmlUrl="https://shicheng.cool/" description="Perseverance And Patience" frss:cssFullContent="#articleContent"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="ScarSu的个人网站" type="rss" xmlUrl="https://www.scarsu.com/atom.xml" htmlUrl="https://www.scarsu.com/" description="不要标榜，去行动😃" frss:cssFullContent=".post-content"/>
       <outline text="Senraの小窝" type="rss" xmlUrl="http://www.senra.me/feed/" htmlUrl="http://www.senra.me/" description="初闻天籁之音，未使心之将来。"/>
