@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2198,
+    "total": 2199,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -42218,20 +42218,41 @@
         "name": "旦䒠 - 一个由个人兴趣而生的网站|有趣的博客|少量的资源|有趣的灵魂",
         "url": "https://weblog.dangxia.online",
         "tags": [
-          "综合",
+          "生活",
           "随笔",
-          "记录",
-          "生活"
+          "记录"
         ],
         "sign": "旦䒠是一个由兴趣而生的网站。旦䒠会分享一些有趣的文章，大部分都是站长写的文章。这里还会分享更多有趣的东西，当然这要看是否有充足的时间，在接下来的日子里我会再接再厉，让旦䒠成为独一无二的网站。我相信总有一天会做到。",
         "feed": "",
         "status": "unknown",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "",
-        "arch": "",
+        "arch": "WordPress",
         "join_time": 1671191328146,
-        "update_time": 1671191328146,
+        "update_time": 1671413773850,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "2aff41b6-dc7f-46de-84d6-6232596eca5f",
+        "idx": 2244,
+        "name": "Trtyr's Blog",
+        "url": "https://trtyr.top/",
+        "tags": [
+          "技术",
+          "学习",
+          "分享"
+        ],
+        "sign": "A New Story Born",
+        "feed": "https://trtyr.top/index.php/feed/",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": true,
+        "sitemap": "",
+        "arch": "WordPress",
+        "join_time": 1671366437879,
+        "update_time": 1671413607792,
         "saveweb_id": "",
         "recommend": false
       }
