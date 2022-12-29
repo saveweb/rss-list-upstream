@@ -42836,11 +42836,11 @@
         "feed": "",
         "status": "unknown",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "https://muidar.com/sitemap.xml",
         "arch": "Wordpress",
         "join_time": 1671971702259,
-        "update_time": 1671971702259,
+        "update_time": 1672123848661,
         "saveweb_id": "",
         "recommend": false
       }
