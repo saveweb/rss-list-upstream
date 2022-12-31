@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 30 Dec 2022 12:24:02</dateCreated>
+    <dateCreated>Sat, 31 Dec 2022 12:24:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1353,6 +1353,7 @@
       <outline text="⑨BIE" type="rss" xmlUrl="https://9bie.org/index.php/feed/" htmlUrl="https://9bie.org/" description="伪技术宅的迷之地  ~~  Strange Place Of The Pseudo Geeks"/>
       <outline text="Anillc's Blog" type="rss" xmlUrl="https://anillc.cn/atom.xml" htmlUrl="https://anillc.cn/" description=""/>
       <outline text="Azad's Space" type="rss" xmlUrl="https://blog.azad.asia/atom.xml" htmlUrl="https://blog.azad.asia/" description="殖殖其庭，有觉其楹。哙哙其正，哕哕其冥。"/>
+      <outline text="CronfoxLabs" type="rss" xmlUrl="https://cronfox.2434.me/feed.xml" htmlUrl="https://cronfox.2434.me/" description="CronfoxLabs"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="Frytea" type="rss" xmlUrl="https://www.frytea.com/index.xml" htmlUrl="https://www.frytea.com/" description="Recent content on Frytea" frss:cssFullContent=".post-content"/>
       <outline text="Hubert's Blog" type="rss" xmlUrl="https://trle5.xyz/atom.xml" htmlUrl="https://trle5.xyz/" description=""/>
       <outline text="Kafuu" type="rss" xmlUrl="https://kafuu.cc/atom.xml" htmlUrl="https://kafuu.cc/" description="&lt;body&gt;&lt;script language=&quot;javaScript&quot;&gt;&#10;now = new Date(),hour = now.getHours()&#10;if(hour &lt; 6){document.write(&quot;凌晨好！&quot;)}&#10;else if (hour &lt; 9){document.write(&quot;早上好！&quot;)}&#10;else if (hour &lt; 12){document.write(&quot;上午好！&quot;)}&#10;else if (hour &lt; 14){document.write(&quot;中午好！&quot;)}&#10;else if (hour &lt; 17){document.write(&quot;下午好！&quot;)}&#10;else if (hour &lt; 19){document.write(&quot;傍晚好！&quot;)}&#10;else {document.write(&quot;晚上好！&quot;)}&#10;document.write(&quot;欢迎来到我的博客～～&quot;)&#10;&lt;/script&gt;&lt;/body&gt;"/>
@@ -1376,6 +1377,7 @@
       <outline text="湛蓝的调色板" type="rss" xmlUrl="https://nekoq.eu.org/atom.xml" htmlUrl="https://nekoq.eu.org/" description=""/>
       <outline text="老陈の咸鱼日常" type="rss" xmlUrl="https://www.fantanstic.top/atom.xml" htmlUrl="https://fantanstic.top/" description="开摆！"/>
       <outline text="韦阳的博客" type="rss" xmlUrl="https://godweiyang.com/atom.xml" htmlUrl="https://godweiyang.com/" description="公众号：算法码上来"/>
+      <outline text="高能的木屋" type="rss" xmlUrl="https://gaoneng-www.github.io/atom.xml" htmlUrl="https://gaoneng-www.github.io/" description="主要是发一些杂七杂八的东西,例如前端开发、后端开发、CTF解题、CTF解题思路等..."/>
       <outline text="鱼类观测研究所" type="rss" xmlUrl="https://lz233.ac.cn/atom.xml" htmlUrl="https://lz233.ac.cn/" description=""/>
     </outline>
     <outline text="不在首页显示">
