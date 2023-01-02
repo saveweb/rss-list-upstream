@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2233,
+    "total": 2234,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -42916,6 +42916,7 @@
         "name": "寒晶雪的文档站 ",
         "url": "https://hanjingxue-boling.github.io/Whiteboard/",
         "tags": [
+          "技术",
           "Linux",
           "软件",
           "杂录"
@@ -42924,11 +42925,33 @@
         "feed": "",
         "status": "unknown",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "",
         "arch": "Mkdocs",
         "join_time": 1672539047540,
-        "update_time": 1672539047540,
+        "update_time": 1672625936391,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "f7ec2b57-9a4f-4256-8c39-15d5f2219499",
+        "idx": 2279,
+        "name": "Ran's Blog",
+        "url": "https://e11z.net",
+        "tags": [
+          "技术",
+          "笔记",
+          "杂录"
+        ],
+        "sign": "专注干一些奇怪事情的地方(●ˇ∀ˇ●)",
+        "feed": "https://e11z.net/atom.xml",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": true,
+        "sitemap": "https://e11z.net/sitemap.xml",
+        "arch": "hexo",
+        "join_time": 1672589477413,
+        "update_time": 1672625990322,
         "saveweb_id": "",
         "recommend": false
       }
