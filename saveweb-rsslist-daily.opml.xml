@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 02 Jan 2023 12:25:02</dateCreated>
+    <dateCreated>Tue, 03 Jan 2023 12:24:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1390,6 +1390,10 @@
     </outline>
     <outline text="SSL错误">
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
+    </outline>
+    <outline text="Uncategorized">
+      <outline text="Lzy's Life" type="rss" xmlUrl="http://lzy20021010.top/feed/" htmlUrl="https://lzy20021010.top/" description="一个江苏在校大学生的生活纪实博客"/>
+      <outline text="陶小桃Blog" type="rss" xmlUrl="https://www.52txr.cn/feed/" htmlUrl="https://www.52txr.cn/" description="热衷于分享技术和日常生活的机械专业小哥哥，捣鼓机械设计、计算机视觉和深度学习。网站还涉及到网页设计以及SEO相关博文。"/>
     </outline>
     <outline text="不在首页显示">
       <outline text="Cryptospace" type="rss" xmlUrl="https://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com" description="Bitcoin Hodler，自由主义者，区块链创业者，ChainONE 社区发起人，dbarobin.com 博主，隐私极客。如您所见，本人发布的文章与评论内容仅代表本人观点。「万物之中，希望至美；至美之物，永不凋零。」"/>
