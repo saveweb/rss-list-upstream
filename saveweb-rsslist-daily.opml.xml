@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Tue, 03 Jan 2023 12:24:01</dateCreated>
+    <dateCreated>Wed, 04 Jan 2023 12:24:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -278,7 +278,7 @@
       <outline text="Kefan's Blog" type="rss" xmlUrl="https://www.kefan.me/rss.xml" htmlUrl="https://kefan.me/" description="我的精神家园"/>
       <outline text="Kerminate's Blog" type="rss" xmlUrl="https://kerminate.me/atom.xml" htmlUrl="https://kerminate.me/" description=""/>
       <outline text="Kevin Blog" type="rss" xmlUrl="https://blog.kevinzhow.com/rss/" htmlUrl="https://zhowkev.in/" description="关于产品、技术、生活的碎片"/>
-      <outline text="Kevin's Notes" type="rss" xmlUrl="https://wuxinhua.com/atom.xml" htmlUrl="https://wuxinhua.com/" description=""/>
+      <outline text="Kevin's Notes" type="rss" xmlUrl="https://wuxinhua.com/atom.xml" htmlUrl="https://wuxinhua.com/" description="Welcome to this wuxinhua's Blog"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="KevinZonda's Blog" type="rss" xmlUrl="https://blog.kevinzonda.com/index.xml" htmlUrl="https://blog.kevinzonda.com/" description="Recent content on KevinZonda's Blog" frss:cssFullContent=".post-content"/>
       <outline text="KirimaSharo's Blog  |  Syaro最可爱了" type="rss" xmlUrl="https://www.kirimasharo.com/feed/" htmlUrl="https://kirimasharo.com/" description="与你分享萌系软件游戏"/>
       <outline text="kirito" type="rss" xmlUrl="https://www.kirito.info/index.xml" htmlUrl="https://www.kirito41dd.cn" description="kirito's blog"/>
@@ -1393,6 +1393,7 @@
     </outline>
     <outline text="Uncategorized">
       <outline text="Lzy's Life" type="rss" xmlUrl="http://lzy20021010.top/feed/" htmlUrl="https://lzy20021010.top/" description="一个江苏在校大学生的生活纪实博客"/>
+      <outline text="天行者YANG Blog" type="rss" xmlUrl="https://www.skywalkerai.com/feed" htmlUrl="https://skywalkerai.com/" description="一枚热爱生活，热爱技术，习惯结构化思考，敢于尝试新想法的程序猿（同时也能带带队伍 😗）。"/>
       <outline text="陶小桃Blog" type="rss" xmlUrl="https://www.52txr.cn/feed/" htmlUrl="https://www.52txr.cn/" description="热衷于分享技术和日常生活的机械专业小哥哥，捣鼓机械设计、计算机视觉和深度学习。网站还涉及到网页设计以及SEO相关博文。"/>
     </outline>
     <outline text="不在首页显示">
@@ -1507,7 +1508,7 @@
       <outline xmlns:frss="https://freshrss.org/opml" text="zcmimi's blog" type="rss" xmlUrl="https://blog.zcmimi.top/atom.xml" htmlUrl="https://blog.zcmimi.top/" description="" frss:cssFullContent="#md-body"/>
       <outline text="Ziv Log" type="rss" xmlUrl="https://zivlog.io/feed.xml" htmlUrl="https://zivlog.io/" description="The blog of Song-Zi Vong"/>
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed/" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
-      <outline text="一个博客" type="rss" xmlUrl="https://magichouse.ltd/feed" htmlUrl="https://boke.one/" description="分享每一个值得记录的时刻"/>
+      <outline text="一个博客" type="rss" xmlUrl="https://www.magichouse.ltd/feed/" htmlUrl="https://boke.one/" description="分享每一个值得记录的时刻"/>
       <outline text="三无青年" type="rss" xmlUrl="https://www.duanxiansen.com/feed" htmlUrl="https://www.duanxiansen.com/" description="热爱生活，重新开始"/>
       <outline text="三点钟的太阳" type="rss" xmlUrl="https://iamxcb.com/atom.xml" htmlUrl="https://iamxcb.com" description=""/>
       <outline text="不一止集" type="rss" xmlUrl="http://buyivi.xyz/feed/" htmlUrl="http://buyivi.xyz/" description="从不会离去，才知道何时会相逢"/>
