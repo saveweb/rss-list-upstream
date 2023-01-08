@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2238,
+    "total": 2239,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -43043,6 +43043,28 @@
         "arch": "Typecho",
         "join_time": 1673013155069,
         "update_time": 1673013155069,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "80ffb9b9-cc5e-4b19-8a4e-4e2c717746a0",
+        "idx": 2285,
+        "name": "Pangzi's Blog",
+        "url": "https://toast.pub/totoro/about/",
+        "tags": [
+          "技术",
+          "生活",
+          "架构"
+        ],
+        "sign": "胖子的博客",
+        "feed": "https://toast.pub/totoro/index.xml",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "",
+        "arch": "hugo",
+        "join_time": 1673105157149,
+        "update_time": 1673105157149,
         "saveweb_id": "",
         "recommend": false
       }
