@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2269,
+    "total": 2270,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -43709,6 +43709,26 @@
         "arch": "Gridea",
         "join_time": 1673692651647,
         "update_time": 1673692651647,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "f7a68710-6069-4928-8c36-0c3dce54238d",
+        "idx": 2316,
+        "name": "兔博Tubo",
+        "url": "https://tubo.net.cn/",
+        "tags": [
+          "综合"
+        ],
+        "sign": "兔博是一个以资源分享和技术教程为主的个人综合类博客，站内提供各种优质资源、原创教程，以及博主的个人日常等。",
+        "feed": "https://tubo.net.cn/feed",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://tubo.net.cn/sitemap.xml",
+        "arch": "WordPress",
+        "join_time": 1673834189218,
+        "update_time": 1673834189218,
         "saveweb_id": "",
         "recommend": false
       }
