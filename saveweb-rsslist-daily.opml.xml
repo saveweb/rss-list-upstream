@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Mon, 16 Jan 2023 12:26:02</dateCreated>
+    <dateCreated>Tue, 17 Jan 2023 12:25:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -984,7 +984,7 @@
       <outline xmlns:frss="https://freshrss.org/opml" text="某行人" type="rss" xmlUrl="https://wwj718.github.io/index.xml" htmlUrl="https://wwj718.github.io/" description="Recent content on 夜行人" frss:cssFullContent=".post-content"/>
       <outline text="柒柒blog" type="rss" xmlUrl="https://blog.lwjsgzs.cn/feed" htmlUrl="https://blog.lwjsgzs.cn/" description="Just So So ..."/>
       <outline text="查令十字街 84 号" type="rss" xmlUrl="https://www.javis.me/feed" htmlUrl="http://www.javis.me/" description=""/>
-      <outline text="柯善康" type="rss" xmlUrl="https://www.draftposts.com/tag/%E4%B8%AD%E6%96%87/feed/" htmlUrl="https://blog.keshankang.org/" description="柯善康的博客"/>
+      <outline text="柯善康" type="rss" xmlUrl="https://www.draftposts.com/tag/chinese-zh/feed/" htmlUrl="https://blog.keshankang.org/" description="柯善康的博客"/>
       <outline text="标点符" type="rss" xmlUrl="https://www.biaodianfu.com/feed" htmlUrl="https://www.biaodianfu.com/" description="格物致知→知行合一"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="格物致知" type="rss" xmlUrl="https://liqiang.io/atom.xml" htmlUrl="https://liqiang.io" description="专注于分享后端相关的技术以及设计架构思想，偶尔写一些生活和前端相关的东西" frss:cssFullContent=".post-content"/>
       <outline text="桃园" type="rss" xmlUrl="https://www.taoweng.site/atom.xml" htmlUrl="http://www.taoweng.site/" description="温故而知新"/>
