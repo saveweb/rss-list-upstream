@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2272,
+    "total": 2273,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -43774,6 +43774,42 @@
         "arch": "Hugo",
         "join_time": 1673863658832,
         "update_time": 1673863658832,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "430e5a86-0be0-446c-8672-4748ec8c1825",
+        "idx": 2319,
+        "name": "动荡の初二少年",
+        "url": "https://www.yt-blog.top",
+        "tags": [
+          "Python",
+          "科技",
+          "代码",
+          "技术",
+          "软件",
+          "教程",
+          "网络",
+          "开发",
+          "Node.js",
+          "建站",
+          "Web开发",
+          "electron",
+          "html",
+          "web",
+          "npm",
+          "node.js",
+          "应用推荐"
+        ],
+        "sign": "一个少年的博客",
+        "feed": "https://www.yt-blog.top/atom.xml",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://www.yt-blog.top/sitemap.xml",
+        "arch": "Hexo",
+        "join_time": 1673978706249,
+        "update_time": 1673978706249,
         "saveweb_id": "",
         "recommend": false
       }
