@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 19 Jan 2023 12:27:02</dateCreated>
+    <dateCreated>Fri, 20 Jan 2023 12:26:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1114,6 +1114,7 @@
       <outline text="结绳志 Tying Knots" type="rss" xmlUrl="https://tyingknots.net/feed/" htmlUrl="https://tyingknots.net/" description="人类学的观点、技艺与行动"/>
       <outline text="维基萌" type="rss" xmlUrl="https://www.wikimoe.com/rss.php" htmlUrl="https://www.wikimoe.com/" description="前端设计的成长之路"/>
       <outline text="缃念梦幻" type="rss" xmlUrl="https://xiannian.top/feed/" htmlUrl="https://xiannian.top/" description="一小我的记载,一群人的狂欢"/>
+      <outline xmlns:frss="https://freshrss.org/opml" text="编码记录" type="rss" xmlUrl="https://liudon.com/index.xml" htmlUrl="https://liudon.com/" description="Recent content on 编码记录" frss:cssFullContent=".post-content"/>
       <outline text="编程沉思录" type="rss" xmlUrl="https://www.cyhone.com/atom.xml" htmlUrl="https://www.cyhone.com" description=""/>
       <outline text="网络热度" type="rss" xmlUrl="https://www.packetmania.net/atom.xml" htmlUrl="https://www.packetmania.net/" description="技术 新知 共享"/>
       <outline text="罗 菲 Luo Fei" type="rss" xmlUrl="https://www.luofei.org/feed/" htmlUrl="https://www.luofei.org/" description=""/>
