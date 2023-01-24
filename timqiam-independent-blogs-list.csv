@@ -376,7 +376,7 @@ Dawner, https://dawner.top/, https://dawner.top/atom.xml, 生活; 文学; 艺术
 涯余, https://yanhang.me, https://yanhang.me/index.xml, 编程; 思考
 Frost's Blog, https://frost-lee.github.io, https://frost-lee.github.io/atom.xml, 编程; 数据分析; 随笔; 旅行
 Kerminate's Blog, https://kerminate.me/, https://kerminate.me/atom.xml, 编程; 前端; 技术
-Ray's Blog, https://raycoder.me, https://raycoder.me/atom.xml, 编程; Python; 爬虫; Web; 算法
+Ray's Blog, https://blog.mk1.io, https://blog.mk1.io/api/feed, 编程; Web
 ChungZH 的小窝, https://blog.chungzh.cn/, https://blog.chungzh.cn/index.xml, 编程; C++; 算法; OI
 考拉咖啡馆, https://guhub.cn, https://guhub.cn/feed/, 编程; 前端; 生活; 游戏; 思考; 随笔
 Lineuman's Blog, https://lineuman.github.io/blog/, https://lineuman.github.io/blog/feed.xml, 编程; 测试
@@ -429,7 +429,7 @@ Jiansing's Blog, https://blog.ofo.moe, https://blog.ofo.moe/rss.xml, 技术; 生
 Ljcbaby 的 网络小屋, https://blog.ljcbaby.top/, https://cdn.jsdelivr.net/gh/ljcbaby/ljcbaby.github.io@latest/atom.xml, 技术; 评论; 生活
 Velas电波站, https://www.velasx.com, https://www.velasx.com/feed, 动画; 游戏; 小说; 设计; 鉴赏
 不点语书, https://yjalifebook.com/, https://yjalifebook.com/feed/, 这里是不点语书，一块「思考」的自留地。
-zu1k, https://lgf.im/, https://lgf.im/index.xml, 编程; 网安; 思考
+zu1k, https://zu1k.com/, https://zu1k.com/index.xml, 编程; 网安; 思考
 Jalen, https://jalenz.cn/, https://jalenz.cn/atom.xml, 算法; 生活; 折腾
 Gowhich, https://www.gowhich.com, https://www.gowhich.com/feed, 编程; 网络; 计算机; 日常
 寒山志, https://baozi.fun/, https://baozi.fun/rss.xml, 编程; 生活; 电影; 随笔
@@ -1024,3 +1024,6 @@ Cestlavie's Blog, https://www.cestlavie.moe/, https://www.cestlavie.moe/index.xm
 happy xiao 的博客, https://happyxiao.com, https://happyxiao.com/feed, 个人成长
 Clark's 尧望 Blog, https://www.dongyao.ren/, https://www.dongyao.ren/feed/, 编程; 学习; 日常
 muzing的杂货铺, https://muzing.top/, , 编程; Python; 车辆工程; 自动驾驶
+/home/rook1e, https://rook1e.com/, https://rook1e.com/feed.xml, 安全; 开发; 随笔
+Yi's Blog, https://ycao.top/, https://ycao.top/feed.xml, 编程; 学习; 生活
+从百草园到三味书屋, https://youngforever.tech/, https://youngforever.tech/index.xml, 科研; 人工智能; 论文; 学习
