@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Thu, 26 Jan 2023 12:25:03</dateCreated>
+    <dateCreated>Fri, 27 Jan 2023 12:25:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1335,6 +1335,7 @@
       <outline text="别任性" type="rss" xmlUrl="https://feeds.acast.com/public/shows/bierenxing" htmlUrl="https://www.biede.com/girl-cat/podcast/" description="别任性（Be A Dodo）由性与性别博士Alexwood主持，从性别角度看一切｜wx：别任性BeADodo&lt;br&gt;&lt;hr&gt;&lt;p&gt; Hosted on Acast. See &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
       <outline text="博物志" type="rss" xmlUrl="http://bowuzhi.fm/feed/audio.xml" htmlUrl="https://bowuzhi.fm/" description="广泛地关于博物馆的播客。小黄鱼出品。2019 年苹果最佳节目之一。"/>
       <outline text="告别摄影" type="rss" xmlUrl="https://byebyephotography.typlog.io/feed/audio.xml" htmlUrl="https://byebye.photography/" description="像谈论一场电影一样谈论摄影。"/>
+      <outline text="地面电台GROUNDRADIO" type="rss" xmlUrl="https://groundradio.typlog.io/feed/audio.xml" htmlUrl="https://groundradio.typlog.io/" description="三位普通乐迷发起的音乐文化类播客"/>
       <outline text="坡道闲聊 Aisaka Chat" type="rss" xmlUrl="https://podcast.aisaka.cc/feed/podcast/" htmlUrl="https://podcast.aisaka.cc/" description="一档十分不专业的播客节目"/>
       <outline text="声东击西" type="rss" xmlUrl="https://etw.fm/rss" htmlUrl="https://www.etw.fm/" description="世界宽广，但人们被日常及社交媒体所限制。&#10;那就让作为记者的我们，帮你推开一些意想不到的窗户，触及不一样的信息，激发不一样的思考。&#10;在这里，我们对话各种有趣有料，能带来启发的专业人士，也不定期会有神秘嘉宾出现。&#10;我们也时不时做各种和声音有关的尝试，打开一些新体验。&#10;支持我们，请大家移步 https://etw.fm/donation 。"/>
       <outline text="字谈字畅" type="rss" xmlUrl="https://www.thetype.com/typechat/feed/" htmlUrl="https://www.thetype.com/" description="《字谈字畅》是第一档用华语制作的字体排印主题播客节目，由 Eric Liu 与钱争予搭档主播。The Type 出品。"/>
@@ -1516,7 +1517,6 @@
       <outline text="二楞的闲谈杂鱼" type="rss" xmlUrl="https://godruoyi.com/feeds" htmlUrl="https://godruoyi.com/" description="二楞的闲谈杂鱼."/>
       <outline text="亦世凡华" type="rss" xmlUrl="https://10888888.xyz/feed.xml" htmlUrl="https://10888888.xyz/" description="不要迷恋哥，哥只是个传说。"/>
       <outline text="四方之云" type="rss" xmlUrl="https://jingyig.com/atom.xml" htmlUrl="https://jingyig01.github.io/" description=""/>
-      <outline text="地面电台GROUNDRADIO" type="rss" xmlUrl="https://groundradio.net/feed/audio.xml" htmlUrl="https://groundradio.net/" description="三位普通乐迷发起的音乐文化类播客"/>
       <outline text="城南以南花亦开" type="rss" xmlUrl="https://coonaa.cn/atom.xml" htmlUrl="https://blog.coonaa.cn/" description="生活原本沉闷，但跑起来就会有风。"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="城南旧事" type="rss" xmlUrl="https://blog.loli.top/feed/" htmlUrl="https://blog.loli.top/" description="透过文字和影像记忆，我们延长了至少三倍的生命。" frss:cssFullContent=".post-content"/>
       <outline text="多半不走运" type="rss" xmlUrl="https://www.likelyunlucky.xyz/feed/" htmlUrl="https://www.likelyunlucky.xyz" description="多半不走运"/>
