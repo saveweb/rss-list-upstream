@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2286,
+    "total": 2287,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -44087,6 +44087,26 @@
         "arch": "alist",
         "join_time": 1674750426123,
         "update_time": 1674750426123,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "289eed8e-5e97-4e61-aaa1-d34bd0e2dcec",
+        "idx": 2333,
+        "name": "查令十字街 84 号",
+        "url": "www.javis.me",
+        "tags": [
+          "综合"
+        ],
+        "sign": "记录日常、分享体验，经验与思考。",
+        "feed": "https://javis.me/feed",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "",
+        "arch": "farbox2.0",
+        "join_time": 1674874689166,
+        "update_time": 1674874689166,
         "saveweb_id": "",
         "recommend": false
       }

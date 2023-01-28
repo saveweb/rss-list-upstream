@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Fri, 27 Jan 2023 12:25:02</dateCreated>
+    <dateCreated>Sat, 28 Jan 2023 12:24:02</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1506,7 +1506,7 @@
       <outline text="YangYongKang's Blog" type="rss" xmlUrl="https://blog.yangyk.com/feed.xml" htmlUrl="http://blog.yangyk.com/" description="行有不得 反求诸己"/>
       <outline text="Yi's blog" type="rss" xmlUrl="https://wangyi.ai/atom.xml" htmlUrl="https://wangyi.ai/" description=""/>
       <outline text="Yuuno Blog" type="rss" xmlUrl="https://yuuno.cc/atom.xml" htmlUrl="https://yuuno.cc" description=""/>
-      <outline text="Y同学" type="rss" xmlUrl="https://blog.couqiao.top/feed/" htmlUrl="https://blog.couqiao.top/" description="光怪陆离中的一片孤海"/>
+      <outline text="Y同学" type="rss" xmlUrl="https://blog.couqiao.top/index.php/feed/" htmlUrl="https://blog.couqiao.top/" description="光怪陆离中的一片孤海"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="zcmimi's blog" type="rss" xmlUrl="https://blog.zcmimi.top/atom.xml" htmlUrl="https://blog.zcmimi.top/" description="" frss:cssFullContent="#md-body"/>
       <outline text="Ziv Log" type="rss" xmlUrl="https://zivlog.io/feed.xml" htmlUrl="https://zivlog.io/" description="The blog of Song-Zi Vong"/>
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed/" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
