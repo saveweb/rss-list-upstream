@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 2287,
+    "total": 2288,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -44107,6 +44107,29 @@
         "arch": "farbox2.0",
         "join_time": 1674874689166,
         "update_time": 1674874689166,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "41887dc0-d0af-4ff6-8ae8-e002509c1086",
+        "idx": 2334,
+        "name": "KOBIN 技术随笔",
+        "url": "https://blog.kobin.cn/",
+        "tags": [
+          "技术",
+          "随笔",
+          "运维",
+          "教程"
+        ],
+        "sign": "随便写点遇到过的问题",
+        "feed": "https://blog.kobin.cn/feed",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://blog.kobin.cn/wp-sitemap.xml",
+        "arch": "WordPress",
+        "join_time": 1674919967295,
+        "update_time": 1674919967295,
         "saveweb_id": "",
         "recommend": false
       }

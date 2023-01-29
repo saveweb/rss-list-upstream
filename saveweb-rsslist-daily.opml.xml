@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>[STWP]博客&amp;播客存档</title>
-    <dateCreated>Sat, 28 Jan 2023 12:24:02</dateCreated>
+    <dateCreated>Sun, 29 Jan 2023 12:24:01</dateCreated>
   </head>
   <body>
     <outline text="Blog|博客">
@@ -1372,6 +1372,7 @@
       <outline text="看理想电台" type="rss" xmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" htmlUrl="https://api.vistopia.com.cn/rss/program/13.xml" description="「看理想」App，一个陪你成长的知识剧场。&#10;看理想电台，由看理想出品，入选“2019 Apple 最佳播客”。每周四更新，不一定有用的电台杂志。&#10;欢迎下载「看理想」App留言互动。"/>
       <outline text="硬影像" type="rss" xmlUrl="https://hardimage.pro/feed/audio.xml" htmlUrl="https://hardimage.pro/" description="《硬影像》由 IPN 出品，由罗登主持，是一个关注影像之一切的播客。谈论影像背后的技术，历史和哲理。"/>
       <outline text="神爱玩财" type="rss" xmlUrl="https://jingshu.love/feed/audio.xml" htmlUrl="https://jingshu.love/" description="【神】温饱之外的精神生活，聊哲学，聊信仰，聊宗教或非宗教的神性体验，深度思考现代精神疾病；&#10;&#10;【爱】不是一对一的浪漫爱，是多样化的亲密关系，以及与自己、原生家庭、社群、生态的联结；&#10;&#10;【玩】旅行、运动、游戏、厨艺、喜剧，以及一切回归赤子之心的玩法；&#10;&#10;【财】挣钱、消费与投资，金钱折射出的心态和价值观，挖掘金钱之外的财富。"/>
+      <outline text="科技聚变" type="rss" xmlUrl="https://techfusionfm.com/podcast.xml" htmlUrl="https://techfusionfm.com/" description="《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"/>
       <outline text="耳旁风" type="rss" xmlUrl="https://epf.xyz/feed.xml" htmlUrl="https://epf.xyz/" description="从有趣的人物出发，描述有趣事物以及生活。"/>
       <outline text="艺术有读" type="rss" xmlUrl="https://feeds.acast.com/public/shows/618ae0957929510012e11e6a" htmlUrl="http://artispoison.com/" description="由两位不务正业的艺术圈人士主持的读书跑题节目官方微博：艺术有读微信公号：艺术有读 artispoison联系邮箱：yishuyoudu@gmail.com&lt;br&gt;&lt;hr&gt;&lt;p&gt; Our GDPR privacy policy was updated on August 8, 2022. Visit &lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://acast.com/privacy&quot;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;"/>
       <outline text="财新Morning Call" type="rss" xmlUrl="https://other.caixin.com/itunes/101523091.xml" htmlUrl="http://fm.caixin.com/m/cxmorningcall/index.html" description="Morning Call，唤醒你的财经早餐。&#10;这里是一档面向投资者的早间播客节目。每个交易日早上7：30，为你一网打尽重要投资信息：&#10;大局势——政策动向、宏观趋势，开门见山市场最关心的大事件&#10;大数据——重要数据划重点，解码其中变化&#10;大公司——最受关注的公司动态，独家、独到、专业&#10;大盘——A股美股日日评&#10;大家说——名家犀利观点，市场大势大事，见解再多一分&#10;大小身边事——大事小事身边事，除了市场消息，还能听到更多&#10;&#10;主播张鸿：&#10;财经媒体人&#10;先后供职于新华社，中央电视台等专业新闻媒体&#10;曾参与创办CCTV-2早间资讯栏目《第一时间》、《今日观察》等节目&#10;以记者、主持、栏目策划、主编、评论员等多种方式为人民服务"/>
@@ -1506,7 +1507,7 @@
       <outline text="YangYongKang's Blog" type="rss" xmlUrl="https://blog.yangyk.com/feed.xml" htmlUrl="http://blog.yangyk.com/" description="行有不得 反求诸己"/>
       <outline text="Yi's blog" type="rss" xmlUrl="https://wangyi.ai/atom.xml" htmlUrl="https://wangyi.ai/" description=""/>
       <outline text="Yuuno Blog" type="rss" xmlUrl="https://yuuno.cc/atom.xml" htmlUrl="https://yuuno.cc" description=""/>
-      <outline text="Y同学" type="rss" xmlUrl="https://blog.couqiao.top/index.php/feed/" htmlUrl="https://blog.couqiao.top/" description="光怪陆离中的一片孤海"/>
+      <outline text="Y同学" type="rss" xmlUrl="https://blog.couqiao.top/feed/" htmlUrl="https://blog.couqiao.top/" description="光怪陆离中的一片孤海"/>
       <outline xmlns:frss="https://freshrss.org/opml" text="zcmimi's blog" type="rss" xmlUrl="https://blog.zcmimi.top/atom.xml" htmlUrl="https://blog.zcmimi.top/" description="" frss:cssFullContent="#md-body"/>
       <outline text="Ziv Log" type="rss" xmlUrl="https://zivlog.io/feed.xml" htmlUrl="https://zivlog.io/" description="The blog of Song-Zi Vong"/>
       <outline text="ZM沫. - Life record . 记录自己的日常琐事.旅途世界" type="rss" xmlUrl="https://zmmio.com/feed/" htmlUrl="https://zmmio.com/" description="Life record . 记录自己的日常琐事.旅途世界. ZM沫,旅行,日记,宅,Midousir,猫,Typecho,Markdown,css,js,php,html，一个养了猫的非专业技术宅男."/>
@@ -1531,7 +1532,6 @@
       <outline text="硬地文化" type="rss" xmlUrl="https://www.indie.cn/feed/" htmlUrl="https://www.indie.cn/" description=""/>
       <outline text="社会人科技评论" type="rss" xmlUrl="https://techreview.social/rss" htmlUrl="http://techreview.social/" description="《社会人科技评论》是一档非公益性却也没啥营利预期的科技评论媒体。"/>
       <outline text="秋风阁" type="rss" xmlUrl="https://qiufeng.fun/feed/" htmlUrl="https://qiufeng.fun/" description="秋风阁-何处秋风至的个人学习小站"/>
-      <outline text="科技聚变" type="rss" xmlUrl="https://techfusionfm.com/podcast.xml" htmlUrl="https://techfusionfm.com/" description="《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"/>
       <outline text="笔记" type="rss" xmlUrl="http://acg19.top/atom.xml" htmlUrl="https://steamfinder.github.io/" description=""/>
       <outline text="笔记杂集" type="rss" xmlUrl="https://tophat.top/atom.xml" htmlUrl="https://tophat.top/" description="笔记与摘要"/>
       <outline text="芍芋之家" type="rss" xmlUrl="https://shoyu.top/feed/" htmlUrl="https://shoyu.top/" description="将会在未来装满干货（？"/>
