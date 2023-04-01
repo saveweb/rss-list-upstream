@@ -3,7 +3,7 @@
 
 ## 前言
 
-中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：306 个博客站点。
+中文博客琅琊榜，只收录优质的中文独立博客，全网最精品。已收录博客数量：310 个博客站点。
 
 ### 收录条件
 
@@ -82,14 +82,6 @@
 
 ## 二、综合博主
 
-### happy xiao
-
-- 博客地址：https://happyxiao.com
-
-关注的领域很广：流行哲学、数码产品、应用、Apple、阅读、创作视频、播客、blog、打篮球、跑步。
-
-博客、播客、视频、newsletter、twitter均值得关注。
-
 ### PlatyHsu
 
 - 博客地址：https://type.cyhsu.xyz
@@ -100,7 +92,17 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 
 他的博客网站，名字叫 Neverland，意思是：你永远不要期望从中得到一些有用的东西，但你也不可能永远找不到。
 
+### 评论尸
 
+- 虹线-评论尸的自留地：https://1q43.blog/
+
+公众号“赤潮AKASHIO”，播客“二维吾码”[主理人](https://jike.city/pls)。
+
+代表作：
+
+- 《互联网是人类历史的一段弯路吗？》：5万字，收录于《读库2005》；
+- 《垄断的困境》：6万字，收录于《读库2105》
+- 《互联网与中国后现代性呓语》：8万字，收录于《读库2204》。
 
 
 
@@ -117,6 +119,16 @@ PlatyHsu 从2015年开始写博客，至今有100多篇文章（中文为主）�
 - 公众号/播客：理想屯
 
 - Twitter：[Camellia Yang 翊瑄](https://twitter.com/Camelliayang)
+
+
+
+### happy xiao
+
+- 博客地址：https://happyxiao.com
+
+关注的领域很广：流行哲学、数码产品、应用、Apple、阅读、创作视频、播客、blog、打篮球、跑步。
+
+博客、播客、视频、newsletter、twitter均值得关注。
 
 
 
@@ -226,21 +238,6 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 
 我希望这个网站的内容能让 10 年后的我（还有一定的智力，但很多东西都忘了）还有兴趣看，且看能看明白，其他看到这些内容的人也能有所收获，或者品尝到一些乐趣。同时保持足够的更新频率。
 
-
-### 马大伟
-
-- 博客地址：https://www.bmpi.dev/
-
-全栈技术达人，长期关注学习、技术、投资三个领域。
-
-终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）
-
-### yihong0618
-
-- 博客地址：https://github.com/yihong0618
-
-喜爱[游戏](https://www.gcores.com/users/60793)，跑步，[读书](https://github.com/yihong0618/my_kindle_stats)，编程。 项目大多和这些相关。用 GitHub 记录blog 和生活日常。
-
 ### 唐巧
 
 - 博客地址：http://blog.devtang.com/
@@ -248,6 +245,13 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 唐巧，男，80 后，程序员。作为核心员工在 [猿辅导](https://www.yuanfudao.com/) 参与创业。曾作为产品技术负责人孵化了 [小猿搜题](https://www.yuansouti.com/) 和 [小猿口算](https://xiaoyuankousuan.com/)，现在作为负责人在孵化某新业务。
 
 前端、后端、iOS端都有涉及。著有[《iOS 开发进阶》](http://item.jd.com/11598468.html) 一书。曾开发 [网易邮箱](http://mail.163.com/)、网易微博、[有道云笔记](http://note.youdao.com/)、[猿题库](https://www.yuantiku.com/)、[小猿搜题](https://www.yuansouti.com/)。本博客主要的内容包括 iOS 开发技巧、创业感悟、读书心得、产品研究笔记。
+
+### Tw93
+
+- 博客地址：https://tw93.fun/
+- 潮流周刊：https://weekly.tw93.fun/
+
+[MiaoYan](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) / [cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese) 等产品的开发者。
 
 ### 千古壹号
 
@@ -265,6 +269,43 @@ Notion 中文社区负责人。95 后，男生，驻京六年。主职是一名�
 目前专注前端领域，包括但不限于 React、Flutter、iOS、Chromium 等。同时其他技术也基本都会一点儿，戳[这里](https://me.ursb.me/index.php/category/works/)可以浏览我学生时代的一些作品~
 
 现在每周都有在写周刊，但本博客不会全量同步周刊内容。若你感兴趣的话，可以访问 [Airing Weekly](https://weekly.ursb.me/) 查看所有周刊。
+
+### Ein Verne
+
+- 博客地址：https://blog.einverne.info/
+
+是一个兴趣广泛的人，其实也就是什么都不会，日常看看电影，书，偶尔写写博客，影评，都非专业，发发自己所思所想[而已](https://blog.einverne.info/about.html)。
+
+著有电子书：《[Markdown 书写风格指南](https://einverne.github.io/markdown-style-guide/zh.html)》《[Gitbook 使用教程](https://einverne.github.io/gitbook-tutorial)》《[Kafka 官方文档中文版](https://einverne.gitbook.io/kafka/)》等。
+
+
+
+### yihong0618
+
+- 博客地址：https://github.com/yihong0618
+
+喜爱[游戏](https://www.gcores.com/users/60793)，跑步，[读书](https://github.com/yihong0618/my_kindle_stats)，编程。 项目大多和这些相关。用 GitHub 记录blog 和生活日常。
+
+
+
+
+### 马大伟
+
+- 博客地址：https://www.bmpi.dev/
+
+全栈技术达人，长期关注学习、技术、投资三个领域。
+
+终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）
+
+### 吕立青
+
+- 博客地址：https://jimmylv.info/
+
+吕靖（JimmyLv），[Parabol](https://www.parabol.co/) 高级全栈工程师；前阿里巴巴高级前端工程师、前 ThoughtWorks 咨询师、[《React 学习之道》](https://leanpub.com/the-road-to-learn-react-chinese)译者。想做产品，却误入程序世界爱上写作的摄影师。
+
+画家与黑客是相似的：他们都是创造者，就好像作曲家，建筑师，以及作家一样，他们的目的是创造某种美好的事物。博客内容不一定与技术相关，技术本只是世界上的一个小目录，技术是为了实现某个目的的手段。
+
+我们也许在很多地方扮演不同的角色去适应环境，但在这里，一切都由自己控制。未来的日子里，希望在这里写下一些自己的思考和感悟。如果可以的话，创造一些美好的事物。
 
 ### 费照君：五道口乐哥
 
@@ -929,6 +970,14 @@ PHP 方向的开发者，博客内容整理非常多。
 
 我同时应该也算是一个游戏迷，家里有一堆掌机和主机在吃灰，曾经的 WOWer，喜欢战旗类游戏，大爱英雄无敌、火纹、FFT系列、国王的恩赐系列，也沉迷时下的社交竞技游戏 LOL、王者农药，欢迎组队开黑。
 
+### Diu
+
+- 博客地址：https://notes.ljl.li/
+
+- 作者主页：https://ddiu.io/
+
+滴滴前端开发者，业余设计师。
+
 
 
 ## 五、创业者&独立开发者的博客
@@ -968,7 +1017,13 @@ PHP 方向的开发者，博客内容整理非常多。
 
 - [即刻主页](https://jike.city/im61)
 
+### 郭晓力
 
+- 博客地址：https://www.guoxiaoli.com/
+
+90 后，定居北京，有俩个儿子。
+
+2011.1 开始北漂；2013.6-2016.3 在 ProcessOn 做运营负责增长；2016.3-2018.6 和朋友合伙创业做幕布，被字节跳动收购；2018.6-2021.7 在字节跳动效率工程团队；2021.9.10 再创业，做芦笋App。
 
 ### 1Byte 江宏
 
@@ -1146,7 +1201,23 @@ AchgDesign 远不止于此，它是一种记录的方式，是我们相识的地
 
 「[片语](https://www.gentleflow.tech/)」设计师。作者追求干净优雅的视觉风格与简洁易用的产品使用体验，相信人类崇尚善良与美好的本性。 片语：回顾过去 · 记录当下 · 感知未来。
 
-## 八、阅读&成长&生活&工具
+## 八、运营人员的博客
+
+### 麦克船长
+
+- 博客地址：https://www.mikecaptain.com/
+
+本名钟超，现就职于阿里巴巴集团（2020 年加入），先后担任运营总监、产品总监，负责过大聚划算运营中心、淘宝行业产品团队、天天特卖手淘下沉市场项目等。关注人工智能、电子商务、社交网络、数字人领域。
+
+2011 年，中国科学技术大学，计算机系本科毕业；2011 - 2012，欢聚集团（纳斯达克上市公司，股票代号 YY），Web YY 音视频技术负责人；2012 - 2014，领拓云合（LightOnUs），**联合创始人 & 产品总裁**；2014 - 2020，七海互联（Qihai Inc.），**CEO & CTO**；2020 至今，阿里巴巴集团，**总监/资深综合运营专家（P9）**。
+
+代表文章：《[AI 应用第一次大爆发来了：一文入门 ChatGPT 官方 API 文档解读](https://www.mikecaptain.com/2023/03/02/chatgpt-api/)》《[人工智能 LLM 革命破晓：一文读懂当下超大语言模型发展现状](https://www.mikecaptain.com/2023/03/06/captain-aigc-2-llm/)》
+
+
+
+
+
+## 九、阅读&成长&生活&工具
 
 ### To the Lighthouse
 
@@ -1371,7 +1442,7 @@ wordpress博文内容主要分为以下几大类型：
 
 少数派作者、在行行家；喜欢交流生产力相关话题，包括但不限于信息管理、内容创作、个人生产力、团队协作、办公套件等。19 年加入 ByteDance 至今，先后担任笔记工具产品运营、SaaS 客户成功经理、产品助理。
 
-## 九、昔日重温
+## 十、昔日重温
 
 > 很久未更新，但内容值得一看。
 
@@ -1572,7 +1643,7 @@ wordpress博文内容主要分为以下几大类型：
 
 - 博客地址：https://gaohanghang.cn/
 
-## 十、小而美的博客
+## 十一、小而美的博客
 
 
 ### yonniye
