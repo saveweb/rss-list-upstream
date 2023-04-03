@@ -6,5 +6,5 @@
 <p>The requested URL was not found on this server.</p>
 <hr>
 <address>Apache Server at box.othing.xyz Port 443</address>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114" integrity="sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==" data-cf-beacon='{"rayId":"7b164af0dcd107f5","version":"2023.3.0","r":1,"b":1,"token":"d152d129bf7249c196afe996721a0018","si":100}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114" integrity="sha512-M3hN/6cva/SjwrOtyXeUa5IuCT0sedyfT+jK/OV+s+D0RnzrTfwjwJHhd+wYfMm9HJSrZ1IKksOdddLuN6KOzw==" data-cf-beacon='{"rayId":"7b1e88f6bf54eb37","version":"2023.3.0","r":1,"b":1,"token":"d152d129bf7249c196afe996721a0018","si":100}' crossorigin="anonymous"></script>
 </body></html>
