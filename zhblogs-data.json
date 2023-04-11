@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 3174,
+    "total": 3175,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -61685,6 +61685,26 @@
         "arch": "halo",
         "join_time": 1681009924248,
         "update_time": 1681009924248,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "12e2f376-6ad5-476f-bf4f-90810235a4be",
+        "idx": 3493,
+        "name": "浪海博客",
+        "url": "https://langhai.cc/",
+        "tags": [
+          "Java"
+        ],
+        "sign": "浪海博客一个由java构建的系统。",
+        "feed": "",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "",
+        "arch": "浪海博客系统",
+        "join_time": 1681105891077,
+        "update_time": 1681105891077,
         "saveweb_id": "",
         "recommend": false
       }
