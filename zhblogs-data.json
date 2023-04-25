@@ -37647,7 +37647,10 @@
         "idx": 2052,
         "name": "Nova Kwok's Awesome Blog",
         "url": "https://nova.moe/posts/",
-        "tags": [],
+        "tags": [
+          "生活",
+          "随笔"
+        ],
         "sign": "",
         "feed": "https://nova.moe/posts/index.xml",
         "status": "unknown",
@@ -37656,7 +37659,7 @@
         "sitemap": "",
         "arch": "Hugo",
         "join_time": 1661331225333,
-        "update_time": 1661331225333,
+        "update_time": 1682321803971,
         "saveweb_id": "",
         "recommend": false
       },
