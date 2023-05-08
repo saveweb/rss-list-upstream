@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 3186,
+    "total": 3187,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -61948,6 +61948,38 @@
         "arch": "",
         "join_time": 1683356734438,
         "update_time": 1683356734438,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "f47f8472-38d5-42aa-b54b-80dab985479e",
+        "idx": 3505,
+        "name": "GoodBoyboy 's Blog｜惬意小屋-点滴记忆",
+        "url": "https://blog.goodboyboy.top/",
+        "tags": [
+          "爱折腾",
+          "学生博客",
+          "C#",
+          "运维",
+          "互联网",
+          "知识",
+          "日常",
+          "分享",
+          "记录",
+          "生活",
+          "科技",
+          "软件",
+          "综合"
+        ],
+        "sign": "GoodBoyboy 's Blog | 惬意小屋-点滴记忆",
+        "feed": "https://blog.goodboyboy.top/atom.xml",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://blog.goodboyboy.top/sitemap.xml",
+        "arch": "Hexo",
+        "join_time": 1683440270886,
+        "update_time": 1683440270886,
         "saveweb_id": "",
         "recommend": false
       }
