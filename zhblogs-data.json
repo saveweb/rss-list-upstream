@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 3191,
+    "total": 3192,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -43915,15 +43915,15 @@
           "技术",
           "生活"
         ],
-        "sign": "",
+        "sign": "追求技术的道路上，我从不曾停下脚步",
         "feed": "https://blog.ops-coffee.cn/feed.xml",
         "status": "undefined",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "",
         "arch": "",
         "join_time": 1675005520352,
-        "update_time": 1675005520352,
+        "update_time": 1683972119178,
         "saveweb_id": "",
         "recommend": false
       },
@@ -54782,14 +54782,14 @@
         "url": "https://lxnchan.cn",
         "tags": [],
         "sign": "研究有趣的新技术，分享计算机操作小技巧，当代科技类日常说明书。",
-        "feed": "",
+        "feed": "https://lxnchan.cn/atom.xml",
         "status": "undefined",
         "repeat": false,
-        "enabled": false,
+        "enabled": true,
         "sitemap": "",
         "arch": "",
         "join_time": 1675348768353,
-        "update_time": 1675348768353,
+        "update_time": 1683972227582,
         "saveweb_id": "",
         "recommend": false
       },
@@ -62062,6 +62062,33 @@
         "arch": "wordpress",
         "join_time": 1683940568875,
         "update_time": 1683940568875,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "45b9df0d-9305-4854-bcdd-e4f1720a9890",
+        "idx": 3510,
+        "name": "蝌蚪の小站",
+        "url": "https://seedream7649.top",
+        "tags": [
+          "综合",
+          "科技",
+          "杂录",
+          "软件",
+          "游戏",
+          "资源",
+          "网站",
+          "计算机"
+        ],
+        "sign": "你所热爱的，是你的生活。",
+        "feed": "https://seedream7649.top/feed",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "",
+        "arch": "Typecho",
+        "join_time": 1683975944799,
+        "update_time": 1683975944799,
         "saveweb_id": "",
         "recommend": false
       }
