@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 3193,
+    "total": 3194,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -62109,6 +62109,27 @@
         "arch": "",
         "join_time": 1684040707920,
         "update_time": 1684040707920,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "d091309a-b025-47cf-85f6-5e9746153291",
+        "idx": 3512,
+        "name": "Xuanbo的blog",
+        "url": "https://blog.xuanbo.top/",
+        "tags": [
+          "杂录",
+          "文章较少"
+        ],
+        "sign": "杂谈，歌曲推荐，经典歌曲",
+        "feed": "",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://blog.xuanbo.top/sitemap.xml",
+        "arch": "hexo",
+        "join_time": 1684249098325,
+        "update_time": 1684249098325,
         "saveweb_id": "",
         "recommend": false
       }
