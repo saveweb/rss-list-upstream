@@ -538,7 +538,7 @@
 | 733  | Suemor's Blog         | https://suemor.com         |
 | 734  | 浅梦’s Blog           | https://letanml.xyz        |
 | 735  | 悬铃木的精神世界      | https://lorre.top          |
-| 736  | 咬一口激动的鱼        | https://tabotef134.top     |
+| 736  | 咬一口激动的鱼        | https://jiyu134.top/     |
 | 737  | 我在人间贩卖黄昏      | https://rl1.cc             |
 | 738  | peachRL 的小站        | https://wanyijizi.com      |
 | 739  | HZK's Blog            | https://blog.zekun.fun     |
@@ -554,6 +554,10 @@
 | 749  | 汐语の小栈             | https://xyhelper.top   |
 | 750  | 目的地-Destination     | https://blog.chrison.cn   |
 | 751  | 吃猫的鱼个人博客     | https://www.fish9.cn   |
+| 752  | Leo's blog     | https://leonis.cc/   |
+| 753  | 派了个萌     | https://blog.pylogmon.com/   |
+| 754  | Echocbxの异次元     | https://ezgx.site/   |
+| 755  | SinzMise的小屋     | https://blog.sinzmise.top/   |
 
 ---
 
