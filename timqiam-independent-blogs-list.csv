@@ -432,7 +432,7 @@ Jiansing's Blog, https://blog.ofo.moe, https://blog.ofo.moe/rss.xml, 技术; 生
 Ljcbaby 的 网络小屋, https://blog.ljcbaby.top/, https://cdn.jsdelivr.net/gh/ljcbaby/ljcbaby.github.io@latest/atom.xml, 技术; 评论; 生活
 Velas电波站, https://www.velasx.com, https://www.velasx.com/feed, 动画; 游戏; 小说; 设计; 鉴赏
 不点语书, https://yjalifebook.com/, https://yjalifebook.com/feed/, 这里是不点语书，一块「思考」的自留地。
-zu1k, https://zu1k.com/, https://zu1k.com/index.xml, 编程; 网安; 思考
+zu1k, https://zu1k.com/, https://zu1k.com/rss.xml, 编程; 网安; 思考
 Jalen, https://jalenz.cn/, https://jalenz.cn/atom.xml, 算法; 生活; 折腾
 Gowhich, https://www.gowhich.com, https://www.gowhich.com/feed, 编程; 网络; 计算机; 日常
 寒山志, https://baozi.fun/, https://baozi.fun/rss.xml, 编程; 生活; 电影; 随笔
@@ -1047,7 +1047,7 @@ dsy4567 的小站, https://dsy4567.github.io/blog.html, https://dsy4567.github.i
 梦溪博客, http://www.cyrilstudio.top/, https://www.cyrilstudio.top/feed, 编程; 随笔; 笔记
 Captain的博客, https://totapo.netlify.app, https://totapo.netlify.app/index.xml, 编程; 生活; 学习; 教程; 软件分享; 笔记
 万圣节恶魔的领地, https://cytrogen.icu/, , 编程; Python; 学习; 笔记
-Dejavu's Blog, https://www.dejavu.moe/, https://www.dejavu.moe/index.xml, 折腾; 学习; 生活; 日志
+Dejavu's Blog, https://blog.dejavu.moe/, https://blog.dejavu.moe/index.xml, 折腾; 学习; 生活; 日志
 zhaolife Blog, https://zhaolife.com/, https://zhaolife.com/atom.xml, 生活; 数码; 记录
 iCooper, https://icooper.cc/, https://icooper.cc/feed/, 编程; 技术; 生活; 日志; 学习
 TARESKY, https://taresky.com/, , 生活; 数码
@@ -1169,3 +1169,4 @@ WAYJAM's Blog, https://wayjam.me, https://wayjam.me/index.xml, 随笔; 技术; �
 柒月是你的谎言, https://www.huangdf.xyz, https://www.huangdf.xyz/rss.xml, Java; Rust; 随笔; 技术; 折腾
 FKY&JYQ, https://blog.fkynjyq.com, https://blog.fkynjyq.com/feed.xml, 随笔; 技术; 生活
 Vincent' blog, https://wekic.com, https://wekic.com/rss.xml, 前端; 技术分享; 生活; 编程
+闲人Life, https://www.xianrenlife.com/, https://www.xianrenlife.com/feeds/posts/default, 随笔; 小说; 书评
