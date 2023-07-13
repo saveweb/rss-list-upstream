@@ -1,7 +1,7 @@
 {
   "success": true,
   "data": {
-    "total": 3200,
+    "total": 3201,
     "blogs": [
       {
         "id": "1064f634-f899-4048-8b0d-ce9f124d98b4",
@@ -62314,6 +62314,29 @@
         "arch": "NotionNext",
         "join_time": 1685545103940,
         "update_time": 1688870463105,
+        "saveweb_id": "",
+        "recommend": false
+      },
+      {
+        "id": "ffc0ce7a-b29d-4ed1-bd49-8775be443e4b",
+        "idx": 3519,
+        "name": "资源管理器博客",
+        "url": "https://www.zyglq.cn/",
+        "tags": [
+          "技术",
+          "综合",
+          "杂录",
+          "Linux"
+        ],
+        "sign": "",
+        "feed": "",
+        "status": "unknown",
+        "repeat": false,
+        "enabled": false,
+        "sitemap": "https://www.zyglq.cn/sitemap.xml",
+        "arch": "Hexo",
+        "join_time": 1689171096550,
+        "update_time": 1689171096550,
         "saveweb_id": "",
         "recommend": false
       }
